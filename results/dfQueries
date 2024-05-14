@@ -1,0 +1,7 @@
+,query,queryFormatted,queryNo
+0,"(human-AI interaction) AND ((oncology) OR (cancer)) AND (""2019/01/01""[Date - Publication] : ""2024/04/01""[Date - Publication])",Human-AI interaction AND oncology OR cancer,0
+1,"(human-centered AI) AND ((oncology) OR (cancer)) AND (""2019/01/01""[Date - Publication] : ""2024/04/01""[Date - Publication])",Human-centered AI AND oncology OR cancer,1
+2,"(human-machine interaction) AND ((oncology) OR (cancer)) AND (""2019/01/01""[Date - Publication] : ""2024/04/01""[Date - Publication])",Human-machine interaction AND oncology OR cancer,2
+3,"(explainable AI) AND (cancer radiology) AND (""2019/01/01""[Date - Publication] : ""2024/04/01""[Date - Publication])",Explainable AI AND cancer radiology,3
+4,"(explainable AI) AND (skin cancer) AND (""2019/01/01""[Date - Publication] : ""2024/04/01""[Date - Publication])",Explainable AI AND skin cancer,4
+5,"(explainable AI) AND (melanoma) AND (""2019/01/01""[Date - Publication] : ""2024/04/01""[Date - Publication])",Explainable AI AND melanoma,5

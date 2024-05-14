@@ -1,0 +1,3 @@
+,query,queryFormatted,queryNo
+0,"(deep learning) AND (melanoma) AND (diagnostic) AND (""2019/01/01""[Date - Publication] : ""2019/12/31""[Date - Publication])",Deep learning AND melanoma AND diagnostic,0
+1,"(deep learning) AND (melanoma) AND (diagnostic) AND (""2023/01/01""[Date - Publication] : ""2023/12/31""[Date - Publication])",Deep learning AND melanoma AND diagnostic,1

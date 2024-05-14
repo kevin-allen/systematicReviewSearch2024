@@ -1,0 +1,151 @@
+Andreas Holzinger, Bernd Malle, Anna Saranti, Bastian Pfeifer,
+Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI,
+Information Fusion,
+Volume 71,
+2021,
+Pages 28-37,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2021.01.008.
+(https://www.sciencedirect.com/science/article/pii/S1566253521000142)
+Abstract: AI is remarkably successful and outperforms human experts in certain tasks, even in complex domains such as medicine. Humans on the other hand are experts at multi-modal thinking and can embed new inputs almost instantly into a conceptual knowledge space shaped by experience. In many fields the aim is to build systems capable of explaining themselves, engaging in interactive what-if questions. Such questions, called counterfactuals, are becoming important in the rising field of explainable AI (xAI). Our central hypothesis is that using conceptual knowledge as a guiding model of reality will help to train more explainable, more robust and less biased machine learning models, ideally able to learn from fewer data. One important aspect in the medical domain is that various modalities contribute to one single result. Our main question is “How can we construct a multi-modal feature representation space (spanning images, text, genomics data) using knowledge bases as an initial connector for the development of novel explanation interface techniques?”. In this paper we argue for using Graph Neural Networks as a method-of-choice, enabling information fusion for multi-modal causability (causability – not to confuse with causality – is the measurable extent to which an explanation to a human expert achieves a specified level of causal understanding). The aim of this paper is to motivate the international xAI community to further work into the fields of multi-modal embeddings and interactive explainability, to lay the foundations for effective future human–AI interfaces. We emphasize that Graph Neural Networks play a major role for multi-modal causability, since causal links between features can be defined directly using graph structures.
+Keywords: Information fusion; Explainable AI; xAI; Graph Neural Networks; Multi-modal causability; Knowledge graphs; Counterfactuals
+
+Yikai Yang, Eric W.T. Ngai, Lei Wang,
+Resistance to artificial intelligence in health care: Literature review, conceptual framework, and research agenda,
+Information & Management,
+Volume 61, Issue 4,
+2024,
+103961,
+ISSN 0378-7206,
+https://doi.org/10.1016/j.im.2024.103961.
+(https://www.sciencedirect.com/science/article/pii/S0378720624000430)
+Abstract: Resistance has historically been considered a salient obstacle to the implementation of information systems, including healthcare information technology. However, artificial intelligence in health care (AIH) reshapes the relationships among technologies, physicians, and patients, and the nature of resistance has thus been transformed. To gain a comprehensive understanding of this phenomenon, this study systematically examines resistance to AIH across health care providers and recipients by reviewing 94 articles. Combining innovation resistance theory and the sociotechnical perspective, we develop an overarching framework to synthesize research and provide agendas for future research. This study constitutes an initial guideline for understanding resistance to AIH.
+Keywords: Artificial intelligence; Health care; Resistance; Systematic literature review; Healthcare information technology
+
+Rachel Y.L. Kuo, Conrad J. Harrison, Benjamin E. Jones, Luke Geoghegan, Dominic Furniss,
+Perspectives: A surgeon's guide to machine learning,
+International Journal of Surgery,
+Volume 94,
+2021,
+106133,
+ISSN 1743-9191,
+https://doi.org/10.1016/j.ijsu.2021.106133.
+(https://www.sciencedirect.com/science/article/pii/S1743919121002685)
+Abstract: The exponential increase in the volume and complexity of healthcare data presents new challenges to researchers and clinicians in analysis and interpretation. The requirement for new strategies to extract meaningful information from large, noisy datasets has led to the development of the field of big data analytics. Artificial intelligence (AI) is a general-purpose technology in which machines carry out tasks traditionally thought to be only achievable by humans. Machine learning (ML) is an approach to AI in which machines can “learn” to perform tasks in an automated process, rather than being explicitly programmed by a human. Research aiming to apply ML techniques to classification, prediction and decision-making problems in healthcare has increased 61-fold from 2005 to 2019, mirroring this sense of early promise. The field of healthcare ML is relatively young, and many critical steps are needed before adoption into clinical practice, including transparent, unbiased development and reporting of algorithms. Articles claiming that machines can outperform, or replace, doctors in high-level tasks, such as diagnosis or prognostication, must be carefully appraised. It is critical that surgeons have an understanding of the principles and terminology of AI and ML to evaluate these claims and to take an active role in directing research. This article is an up-to-date review and primer for surgeons covering the core tenets of ML applied to surgical problems, including algorithm types and selection, model training and validation, interpretation of common outcome metrics, current and future reporting guidelines and discussion of the challenges and limitations in this field.
+Keywords: Artificial intelligence; Machine learning; Computer-aided diagnosis; Big data; Deep learning; Artificial neural network
+
+Bingjie Liu, Lewen Wei,
+Machine gaze in online behavioral targeting: The effects of algorithmic human likeness on social presence and social influence,
+Computers in Human Behavior,
+Volume 124,
+2021,
+106926,
+ISSN 0747-5632,
+https://doi.org/10.1016/j.chb.2021.106926.
+(https://www.sciencedirect.com/science/article/pii/S0747563221002491)
+Abstract: Digital platforms increasingly use online behavioral targeting (OBT) to enhance consumers' engagement, which involves using algorithms to “gaze” at consumers—tracking their online activities and inferring their preferences—so as to deliver relevant, personalized messages (e.g., advertisements, recommendations) to consumers. In light of the rising call for algorithmic transparency, this study investigates the effects of algorithmic transparency on consumers' experience of social presence and OBT effectiveness, when the OBT algorithm has low or high level of similarity to humans' conscious mental processes. A one-factor, three-level (no transparency, vs. “observer” algorithm, vs. “judge” algorithm) online experiment with 209 participants was conducted. Results show that for individuals with low anthropomorphism tendency, the “observer” algorithm that did not form meaningful representations of consumers (i.e., low cognitive similarity to humans) reduced social presence, thereby compromising OBT effectiveness. The algorithm that “judged” consumers on meaningful dimensions (i.e., high cognitive similarity to humans) had no such effects. Findings suggest that anthropomorphism, as an important psychological mechanism underlying consumers' interaction with OBT platforms, may be inhibited by algorithmic transparency. Theoretical implications for understanding individuals’ experience with OBT and human-machine communication in general and practical implications for designing algorithmic transparency in OBT practices are discussed.
+Keywords: Online behavioral targeting; Anthropomorphism; Algorithmic transparency; Algorithmic human likeness; Social presence
+
+A.S. Albahri, Ali M. Duhaim, Mohammed A. Fadhel, Alhamzah Alnoor, Noor S. Baqer, Laith Alzubaidi, O.S. Albahri, A.H. Alamoodi, Jinshuai Bai, Asma Salhi, Jose Santamaría, Chun Ouyang, Ashish Gupta, Yuantong Gu, Muhammet Deveci,
+A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion,
+Information Fusion,
+Volume 96,
+2023,
+Pages 156-191,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.03.008.
+(https://www.sciencedirect.com/science/article/pii/S1566253523000891)
+Abstract: In the last few years, the trend in health care of embracing artificial intelligence (AI) has dramatically changed the medical landscape. Medical centres have adopted AI applications to increase the accuracy of disease diagnosis and mitigate health risks. AI applications have changed rules and policies related to healthcare practice and work ethics. However, building trustworthy and explainable AI (XAI) in healthcare systems is still in its early stages. Specifically, the European Union has stated that AI must be human-centred and trustworthy, whereas in the healthcare sector, low methodological quality and high bias risk have become major concerns. This study endeavours to offer a systematic review of the trustworthiness and explainability of AI applications in healthcare, incorporating the assessment of quality, bias risk, and data fusion to supplement previous studies and provide more accurate and definitive findings. Likewise, 64 recent contributions on the trustworthiness of AI in healthcare from multiple databases (i.e., ScienceDirect, Scopus, Web of Science, and IEEE Xplore) were identified using a rigorous literature search method and selection criteria. The considered papers were categorised into a coherent and systematic classification including seven categories: explainable robotics, prediction, decision support, blockchain, transparency, digital health, and review. In this paper, we have presented a systematic and comprehensive analysis of earlier studies and opened the door to potential future studies by discussing in depth the challenges, motivations, and recommendations. In this study a systematic science mapping analysis in order to reorganise and summarise the results of earlier studies to address the issues of trustworthiness and objectivity was also performed. Moreover, this work has provided decisive evidence for the trustworthiness of AI in health care by presenting eight current state-of-the-art critical analyses regarding those more relevant research gaps. In addition, to the best of our knowledge, this study is the first to investigate the feasibility of utilising trustworthy and XAI applications in healthcare, by incorporating data fusion techniques and connecting various important pieces of information from available healthcare datasets and AI algorithms. The analysis of the revised contributions revealed crucial implications for academics and practitioners, and then potential methodological aspects to enhance the trustworthiness of AI applications in the medical sector were reviewed. Successively, the theoretical concept and current use of 17 XAI methods in health care were addressed. Finally, several objectives and guidelines were provided to policymakers to establish electronic health-care systems focused on achieving relevant features such as legitimacy, morality, and robustness. Several types of information fusion in healthcare were focused on in this study, including data, feature, image, decision, multimodal, hybrid, and temporal.
+Keywords: Trustworthiness; Explainability; Artificial intelligence; Healthcare; Information fusion
+
+Dóra Göndöcs, Viktor Dörfler,
+AI in medical diagnosis: AI prediction & human judgment,
+Artificial Intelligence in Medicine,
+Volume 149,
+2024,
+102769,
+ISSN 0933-3657,
+https://doi.org/10.1016/j.artmed.2024.102769.
+(https://www.sciencedirect.com/science/article/pii/S0933365724000113)
+Abstract: AI has long been regarded as a panacea for decision-making and many other aspects of knowledge work; as something that will help humans get rid of their shortcomings. We believe that AI can be a useful asset to support decision-makers, but not that it should replace decision-makers. Decision-making uses algorithmic analysis, but it is not solely algorithmic analysis; it also involves other factors, many of which are very human, such as creativity, intuition, emotions, feelings, and value judgments. We have conducted semi-structured open-ended research interviews with 17 dermatologists to understand what they expect from an AI application to deliver to medical diagnosis. We have found four aggregate dimensions along which the thinking of dermatologists can be described: the ways in which our participants chose to interact with AI, responsibility, ‘explainability’, and the new way of thinking (mindset) needed for working with AI. We believe that our findings will help physicians who might consider using AI in their diagnosis to understand how to use AI beneficially. It will also be useful for AI vendors in improving their understanding of how medics want to use AI in diagnosis. Further research will be needed to examine if our findings have relevance in the wider medical field and beyond.
+Keywords: Medical diagnosis; Melanoma; Human-computer interaction; Augmented intelligence; Explainability; Responsible AI
+
+Xiaoxuan Liu, Samantha Cruz Rivera, David Moher, Melanie J Calvert, Alastair K Denniston, Hutan Ashrafian, Andrew L Beam, An-Wen Chan, Gary S Collins, Ara DarziJonathan J Deeks, M Khair ElZarrad, Cyrus Espinoza, Andre Esteva, Livia Faes, Lavinia Ferrante di Ruffano, John Fletcher, Robert Golub, Hugh Harvey, Charlotte Haug, Christopher Holmes, Adrian Jonas, Pearse A Keane, Christopher J Kelly, Aaron Y Lee, Cecilia S Lee, Elaine Manna, James Matcham, Melissa McCradden, Joao Monteiro, Cynthia Mulrow, Luke Oakden-Rayner, Dina Paltoo, Maria Beatrice Panico, Gary Price, Samuel Rowley, Richard Savage, Rupa Sarkar, Sebastian J Vollmer, Christopher Yau,
+Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension,
+The Lancet Digital Health,
+Volume 2, Issue 10,
+2020,
+Pages e537-e548,
+ISSN 2589-7500,
+https://doi.org/10.1016/S2589-7500(20)30218-1.
+(https://www.sciencedirect.com/science/article/pii/S2589750020302181)
+Abstract: Summary
+The CONSORT 2010 statement provides minimum guidelines for reporting randomised trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders), and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human–AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret, and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.
+
+Elham Nasarian, Roohallah Alizadehsani, U.Rajendra Acharya, Kwok-Leung Tsui,
+Designing interpretable ML system to enhance trust in healthcare: A systematic review to proposed responsible clinician-AI-collaboration framework,
+Information Fusion,
+Volume 108,
+2024,
+102412,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2024.102412.
+(https://www.sciencedirect.com/science/article/pii/S1566253524001908)
+Abstract: Background
+Artificial intelligence (AI)-based medical devices and digital health technologies, including medical sensors, wearable health trackers, telemedicine, mobile health (mHealth), large language models (LLMs), and digital care twins (DCTs), significantly influence the process of clinical decision support systems (CDSS) in healthcare and medical applications. However, given the complexity of medical decisions, it is crucial that results generated by AI tools not only be correct but also carefully evaluated, understandable, and explainable to end-users, especially clinicians. The lack of interpretability in communicating AI clinical decisions can lead to mistrust among decision-makers and a reluctance to use these technologies.
+Objective
+This paper systematically reviews the processes and challenges associated with interpretable machine learning (IML) and explainable artificial intelligence (XAI) within the healthcare and medical domains. Its main goals are to examine the processes of IML and XAI, their related methods, applications, and the implementation challenges they pose in digital health interventions (DHIs), particularly from a quality control perspective, to help understand and improve communication between AI systems and clinicians. The IML process is categorized into pre-processing interpretability, interpretable modeling, and post-processing interpretability. This paper aims to foster a comprehensive understanding of the significance of a robust interpretability approach in clinical decision support systems (CDSS) by reviewing related experimental results. The goal is to provide future researchers with insights for creating clinician-AI tools that are more communicable in healthcare decision support systems and offer a deeper understanding of their challenges.
+Methods
+Our research questions, eligibility criteria, and primary goals were proved using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guideline and the PICO (population, intervention, control, and outcomes) method. We systematically searched PubMed, Scopus, and Web of Science databases using sensitive and specific search strings. Subsequently, duplicate papers were removed using EndNote and Covidence. A two-phase selection process was then carried out on Covidence, starting with screening by title and abstract, followed by a full-text appraisal. The Meta Quality Appraisal Tool (MetaQAT) was used to assess the quality and risk of bias. Finally, a standardized data extraction tool was employed for reliable data mining.
+Results
+The searches yielded 2,241 records, from which 555 duplicate papers were removed. During the title and abstract screening step, 958 papers were excluded, and the full-text review step excluded 482 studies. Subsequently, in quality and risk of bias assessment, 172 papers were removed. 74 publications were selected for data extraction, which formed 10 insightful reviews and 64 related experimental studies.
+Conclusion
+The paper provides general definitions of explainable artificial intelligence (XAI) in the medical domain and introduces a framework for interpretability in clinical decision support systems structured across three levels. It explores XAI-related health applications within each tier of this framework, underpinned by a review of related experimental findings. Furthermore, the paper engages in a detailed discussion of quality assessment tools for evaluating XAI in intelligent health systems. It also presents a step-by-step roadmap for implementing XAI in clinical settings. To direct future research toward bridging current gaps, the paper examines the importance of XAI models from various angles and acknowledges their limitations.
+Keywords: Interpretable ML; AI-based medical devices; Unstructured data; Medical large language models; Human-computer-interaction; Wearable medical devices; Explainable casual analysis; Responsible AI
+
+Samantha Cruz Rivera, Xiaoxuan Liu, An-Wen Chan, Alastair K Denniston, Melanie J Calvert, Hutan Ashrafian, Andrew L Beam, Gary S Collins, Ara Darzi, Jonathan J Deeks, M Khair ElZarrad, Cyrus Espinoza, Andre Esteva, Livia Faes, Lavinia Ferrante di Ruffano, John Fletcher, Robert Golub, Hugh Harvey, Charlotte Haug, Christopher Holmes, Adrian Jonas, Pearse A Keane, Christopher J Kelly, Aaron Y Lee, Cecilia S Lee, Elaine Manna, James Matcham, Melissa McCradden, David Moher, Joao Monteiro, Cynthia Mulrow, Luke Oakden-Rayner, Dina Paltoo, Maria Beatrice Panico, Gary Price, Samuel Rowley, Richard Savage, Rupa Sarkar, Sebastian J Vollmer, Christopher Yau,
+Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension,
+The Lancet Digital Health,
+Volume 2, Issue 10,
+2020,
+Pages e549-e560,
+ISSN 2589-7500,
+https://doi.org/10.1016/S2589-7500(20)30219-3.
+(https://www.sciencedirect.com/science/article/pii/S2589750020302193)
+Abstract: Summary
+The SPIRIT 2013 statement aims to improve the completeness of clinical trial protocol reporting by providing evidence-based recommendations for the minimum set of items to be addressed. This guidance has been instrumental in promoting transparent evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate their impact on health outcomes. The SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trial protocols evaluating interventions with an AI component. It was developed in parallel with its companion statement for trial reports: CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 26 candidate items, which were consulted upon by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a consensus meeting (31 stakeholders) and refined through a checklist pilot (34 participants). The SPIRIT-AI extension includes 15 new items that were considered sufficiently important for clinical trial protocols of AI interventions. These new items should be routinely reported in addition to the core SPIRIT 2013 items. SPIRIT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention will be integrated, considerations for the handling of input and output data, the human–AI interaction and analysis of error cases. SPIRIT-AI will help promote transparency and completeness for clinical trial protocols for AI interventions. Its use will assist editors and peer reviewers, as well as the general readership, to understand, interpret, and critically appraise the design and risk of bias for a planned clinical trial.
+
+Srecko Joksimovic, Dirk Ifenthaler, Rebecca Marrone, Maarten De Laat, George Siemens,
+Opportunities of artificial intelligence for supporting complex problem-solving: Findings from a scoping review,
+Computers and Education: Artificial Intelligence,
+Volume 4,
+2023,
+100138,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100138.
+(https://www.sciencedirect.com/science/article/pii/S2666920X23000176)
+Abstract: The research objective of this paper is to advance knowledge about the role of artificial intelligence (AI) in complex problem-solving. A problem is complex due to the large number of highly inter-connected variables affecting the problem state. Complex problem-solving situations often change decremental or worsen, forcing a problem solver to act immediately, under considerable time pressure. While research findings support the assumption that (1) affective, (2) (meta-)cognitive, and (3) social processes support complex problem-solving, opportunities of AI for supporting complex problem-solving need to be further investigated. This article presents a scoping review of relevant literature from the last five years. The study included, N = 38 studies for coding and analysis. Our findings show that in addition to the increased number of publications, the current trend suggests increased quality of published work. Human-AI collaboration in complex problem-solving has been explored across a broad variety of AI application domains. However, the four dimensions of complex problem – namely, cognitive, metacognitive, social and affective - have been augmented by AI to a different extent. Although most of the work has been done in the cognitive domain, it is encouraging to see progress across social and affective dimensions as well. Implications for future research and practice are being discussed.
+
+Kyle Swanson, Eric Wu, Angela Zhang, Ash A. Alizadeh, James Zou,
+From patterns to patients: Advances in clinical machine learning for cancer diagnosis, prognosis, and treatment,
+Cell,
+Volume 186, Issue 8,
+2023,
+Pages 1772-1791,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2023.01.035.
+(https://www.sciencedirect.com/science/article/pii/S0092867423000946)
+Abstract: Summary
+Machine learning (ML) is increasingly used in clinical oncology to diagnose cancers, predict patient outcomes, and inform treatment planning. Here, we review recent applications of ML across the clinical oncology workflow. We review how these techniques are applied to medical imaging and to molecular data obtained from liquid and solid tumor biopsies for cancer diagnosis, prognosis, and treatment design. We discuss key considerations in developing ML for the distinct challenges posed by imaging and molecular data. Finally, we examine ML models approved for cancer-related patient usage by regulatory agencies and discuss approaches to improve the clinical usefulness of ML.
+
+George Siemens, Fernando Marmolejo-Ramos, Florence Gabriel, Kelsey Medeiros, Rebecca Marrone, Srecko Joksimovic, Maarten de Laat,
+Human and artificial cognition,
+Computers and Education: Artificial Intelligence,
+Volume 3,
+2022,
+100107,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2022.100107.
+(https://www.sciencedirect.com/science/article/pii/S2666920X22000625)
+Abstract: Predictions of the timelines for when machines will be able to perform general cognitive activities that rival humans, or even the arrival of “super intelligence”, range from years to decades to never. For researchers in the education sector, the potential future state of AI, while provocative, is secondary to important shorter-term questions that influence how AI is integrated into learning and knowledge practices such as sensemaking and decision making. AI is not a future technology. It is already present in our daily lives, often shaping, behind the scenes, the types of information we encounter. It is, therefore, important to consider immediate questions surrounding the dynamics of human-machine interactions. In this paper, we focus on the relationship between human and artificial cognition and treat these as separate systems, each with distinct strengths and capabilities. We adopt a functional view (i.e., discrete tasks) of the activities that artificial cognition completes and those that are best handled by humans. This creates a foundation to then evaluate models for how these two cognitive systems interact and the mechanisms for coordination that are required. In doing so, we create a basis for future researchers to develop testable hypotheses regarding the impact of artificial cognition on knowledge processes such as learning, sensemaking, and decision making. Our evaluation provides insight for researchers regarding the optimal relationship between which cognitive activities should be handed off to the machine, which should remain the domain of human performance, and how these two should then be integrated when outputs are passed from one cognitive system (human or artificial) to the other.
+Keywords: Cognition; Artificial intelligence; Human-machine collaboration; Knowledge processing

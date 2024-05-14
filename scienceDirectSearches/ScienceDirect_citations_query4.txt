@@ -1,0 +1,53 @@
+John Kang, Reid F. Thompson, Sanjay Aneja, Constance Lehman, Andrew Trister, James Zou, Ceferino Obcemea, Issam El Naqa,
+National Cancer Institute Workshop on Artificial Intelligence in Radiation Oncology: Training the Next Generation,
+Practical Radiation Oncology,
+Volume 11, Issue 1,
+2021,
+Pages 74-83,
+ISSN 1879-8500,
+https://doi.org/10.1016/j.prro.2020.06.001.
+(https://www.sciencedirect.com/science/article/pii/S1879850020301557)
+Abstract: Purpose
+Artificial intelligence (AI) is about to touch every aspect of radiation therapy, from consultation to treatment planning, quality assurance, therapy delivery, and outcomes modeling. There is an urgent need to train radiation oncologists and medical physicists in data science to help shepherd AI solutions into clinical practice. Poorly trained personnel may do more harm than good when attempting to apply rapidly developing and complex technologies. As the amount of AI research expands in our field, the radiation oncology community needs to discuss how to educate future generations in this area.
+Methods and Materials
+The National Cancer Institute (NCI) Workshop on AI in Radiation Oncology (Shady Grove, MD, April 4-5, 2019) was the first of 2 data science workshops in radiation oncology hosted by the NCI in 2019. During this workshop, the Training and Education Working Group was formed by volunteers among the invited attendees. Its members represent radiation oncology, medical physics, radiology, computer science, industry, and the NCI.
+Results
+In this perspective article written by members of the Training and Education Working Group, we provide and discuss action points relevant for future trainees interested in radiation oncology AI: (1) creating AI awareness and responsible conduct; (2) implementing a practical didactic curriculum; (3) creating a publicly available database of training resources; and (4) accelerating learning and funding opportunities.
+Conclusion
+Together, these action points can facilitate the translation of AI into clinical practice.
+
+James Zou, Londa Schiebinger,
+Ensuring that biomedical AI benefits diverse populations,
+EBioMedicine,
+Volume 67,
+2021,
+103358,
+ISSN 2352-3964,
+https://doi.org/10.1016/j.ebiom.2021.103358.
+(https://www.sciencedirect.com/science/article/pii/S2352396421001511)
+Abstract: Artificial Intelligence (AI) can potentially impact many aspects of human health, from basic research discovery to individual health assessment. It is critical that these advances in technology broadly benefit diverse populations from around the world. This can be challenging because AI algorithms are often developed on non-representative samples and evaluated based on narrow metrics. Here we outline key challenges to biomedical AI in outcome design, data collection and technology evaluation, and use examples from precision health to illustrate how bias and health disparity may arise in each stage. We then suggest both short term approaches—more diverse data collection and AI monitoring—and longer term structural changes in funding, publications, and education to address these challenges.
+Keywords: Health disparities; Artificial intelligence; Machine learning; Health policy; Race/ethnicity; Genetic ancestry; Sex; Gender
+
+Claudia Caudai, Antonella Galizia, Filippo Geraci, Loredana Le Pera, Veronica Morea, Emanuele Salerno, Allegra Via, Teresa Colombo,
+AI applications in functional genomics,
+Computational and Structural Biotechnology Journal,
+Volume 19,
+2021,
+Pages 5762-5790,
+ISSN 2001-0370,
+https://doi.org/10.1016/j.csbj.2021.10.009.
+(https://www.sciencedirect.com/science/article/pii/S2001037021004311)
+Abstract: We review the current applications of artificial intelligence (AI) in functional genomics. The recent explosion of AI follows the remarkable achievements made possible by “deep learning”, along with a burst of “big data” that can meet its hunger. Biology is about to overthrow astronomy as the paradigmatic representative of big data producer. This has been made possible by huge advancements in the field of high throughput technologies, applied to determine how the individual components of a biological system work together to accomplish different processes. The disciplines contributing to this bulk of data are collectively known as functional genomics. They consist in studies of: i) the information contained in the DNA (genomics); ii) the modifications that DNA can reversibly undergo (epigenomics); iii) the RNA transcripts originated by a genome (transcriptomics); iv) the ensemble of chemical modifications decorating different types of RNA transcripts (epitranscriptomics); v) the products of protein-coding transcripts (proteomics); and vi) the small molecules produced from cell metabolism (metabolomics) present in an organism or system at a given time, in physiological or pathological conditions. After reviewing main applications of AI in functional genomics, we discuss important accompanying issues, including ethical, legal and economic issues and the importance of explainability.
+Keywords: Artificial intelligence; Functional genomics; Genomics; Proteomics; Epigenomics; Transcriptomics; Epitranscriptomics; Metabolomics; Machine learning; Deep learning
+
+Andreas Holzinger, Matthias Dehmer, Frank Emmert-Streib, Rita Cucchiara, Isabelle Augenstein, Javier Del Ser, Wojciech Samek, Igor Jurisica, Natalia Díaz-Rodríguez,
+Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence,
+Information Fusion,
+Volume 79,
+2022,
+Pages 263-278,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2021.10.007.
+(https://www.sciencedirect.com/science/article/pii/S1566253521002050)
+Abstract: Medical artificial intelligence (AI) systems have been remarkably successful, even outperforming human performance at certain tasks. There is no doubt that AI is important to improve human health in many ways and will disrupt various medical workflows in the future. Using AI to solve problems in medicine beyond the lab, in routine environments, we need to do more than to just improve the performance of existing AI methods. Robust AI solutions must be able to cope with imprecision, missing and incorrect information, and explain both the result and the process of how it was obtained to a medical expert. Using conceptual knowledge as a guiding model of reality can help to develop more robust, explainable, and less biased machine learning models that can ideally learn from less data. Achieving these goals will require an orchestrated effort that combines three complementary Frontier Research Areas: (1) Complex Networks and their Inference, (2) Graph causal models and counterfactuals, and (3) Verification and Explainability methods. The goal of this paper is to describe these three areas from a unified view and to motivate how information fusion in a comprehensive and integrative manner can not only help bring these three areas together, but also have a transformative role by bridging the gap between research and practical applications in the context of future trustworthy medical AI. This makes it imperative to include ethical and legal aspects as a cross-cutting discipline, because all future solutions must not only be ethically responsible, but also legally compliant.
+Keywords: Artificial intelligence; Information fusion; Medical AI; Explainable AI; Robustness; Explainability; Trust; Graph-based machine learning; Neural-symbolic learning and reasoning

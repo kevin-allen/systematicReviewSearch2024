@@ -1,0 +1,83 @@
+Jiazheng Li, Lei Tang,
+Radiomics in Antineoplastic Agents Development: Application and Challenge in Response Evaluation,
+Chinese Medical Sciences Journal,
+Volume 36, Issue 3,
+2021,
+Pages 187-195,
+ISSN 1001-9294,
+https://doi.org/10.1016/S1001-9294(21)00056-0.
+(https://www.sciencedirect.com/science/article/pii/S1001929421000560)
+Abstract: The recent spring up of the antineoplastic agents and the prolonged survival bring both challenge and chance to radiological practice. Radiological methods including CT, MRI and PET play an increasingly important role in evaluating the efficacy of these antineoplastic drugs. However, different antineoplastic agents potentially induce different radiological signs, making it a challenge for radiological response evaluation, which depends mainly on one-sided morphological response evaluation criteria in solid tumors (RECIST) in the status quo of clinical practice. This brings opportunities for the development of radiomics, which is promising to serve as a surrogate for response evaluations of anti-tumor treatments. In this article, we introduce the basic concepts of radiomics, review the state-of-art radiomics researches with highlights of radiomics application in predictions of molecular biomarkers, treatment response, and prognosis. We also provide in-depth analyses on major obstacles and future direction of this new technique in clinical investigations on new antineoplastic agents.
+Keywords: radiomics; deep learning; machine learning; antineoplastic agents; response evaluation
+
+Ghazaleh Khodabandelou, Huiseok Moon, Yacine Amirat, Samer Mohammed,
+A fuzzy convolutional attention-based GRU network for human activity recognition,
+Engineering Applications of Artificial Intelligence,
+Volume 118,
+2023,
+105702,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2022.105702.
+(https://www.sciencedirect.com/science/article/pii/S0952197622006923)
+Abstract: Human activity recognition has become a pillar of today intelligent Human–Computer Interfaces as it typically provides more comfortable and ubiquitous interaction. This paper proposes a novel fuzzy-based deep learning-based algorithm to predict future sequences of activities from a given sequence of daily living activities of a subject wearing a lower limb exoskeleton. The engineering application concerns the challenging task of recognizing locomotion activities of the wearer in real-time, which is needed to ensure appropriate control of the robot during daily living activities. Indeed, real-time locomotion activity recognition is very challenging for controlling lower-limb exoskeletons. The model proposes a new adaptive kernel, based on the data features derived from the fuzzy rules on the input sequences to enrich the features of the activity sequences. Then, a CNN is applied to extract local subsequences from the whole sequences to identify local patterns in the convolution window. Finally, an attention-based GRU is incorporated into the model to extract meaningful parts of the time-series sequences. The results show high accuracy in the estimation of the transition between gait modes which is critical to ensure smooth control of the exoskeleton. The performance of the model is evaluated using the dynamic activity data gathered from different subjects. The proposed model outperforms the traditional models used in the literature.
+Keywords: Activity recognition; Fuzzy neural networks; Convolutional GRU neural networks; Lower limb wearable robots
+
+A.S. Albahri, Ali M. Duhaim, Mohammed A. Fadhel, Alhamzah Alnoor, Noor S. Baqer, Laith Alzubaidi, O.S. Albahri, A.H. Alamoodi, Jinshuai Bai, Asma Salhi, Jose Santamaría, Chun Ouyang, Ashish Gupta, Yuantong Gu, Muhammet Deveci,
+A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion,
+Information Fusion,
+Volume 96,
+2023,
+Pages 156-191,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.03.008.
+(https://www.sciencedirect.com/science/article/pii/S1566253523000891)
+Abstract: In the last few years, the trend in health care of embracing artificial intelligence (AI) has dramatically changed the medical landscape. Medical centres have adopted AI applications to increase the accuracy of disease diagnosis and mitigate health risks. AI applications have changed rules and policies related to healthcare practice and work ethics. However, building trustworthy and explainable AI (XAI) in healthcare systems is still in its early stages. Specifically, the European Union has stated that AI must be human-centred and trustworthy, whereas in the healthcare sector, low methodological quality and high bias risk have become major concerns. This study endeavours to offer a systematic review of the trustworthiness and explainability of AI applications in healthcare, incorporating the assessment of quality, bias risk, and data fusion to supplement previous studies and provide more accurate and definitive findings. Likewise, 64 recent contributions on the trustworthiness of AI in healthcare from multiple databases (i.e., ScienceDirect, Scopus, Web of Science, and IEEE Xplore) were identified using a rigorous literature search method and selection criteria. The considered papers were categorised into a coherent and systematic classification including seven categories: explainable robotics, prediction, decision support, blockchain, transparency, digital health, and review. In this paper, we have presented a systematic and comprehensive analysis of earlier studies and opened the door to potential future studies by discussing in depth the challenges, motivations, and recommendations. In this study a systematic science mapping analysis in order to reorganise and summarise the results of earlier studies to address the issues of trustworthiness and objectivity was also performed. Moreover, this work has provided decisive evidence for the trustworthiness of AI in health care by presenting eight current state-of-the-art critical analyses regarding those more relevant research gaps. In addition, to the best of our knowledge, this study is the first to investigate the feasibility of utilising trustworthy and XAI applications in healthcare, by incorporating data fusion techniques and connecting various important pieces of information from available healthcare datasets and AI algorithms. The analysis of the revised contributions revealed crucial implications for academics and practitioners, and then potential methodological aspects to enhance the trustworthiness of AI applications in the medical sector were reviewed. Successively, the theoretical concept and current use of 17 XAI methods in health care were addressed. Finally, several objectives and guidelines were provided to policymakers to establish electronic health-care systems focused on achieving relevant features such as legitimacy, morality, and robustness. Several types of information fusion in healthcare were focused on in this study, including data, feature, image, decision, multimodal, hybrid, and temporal.
+Keywords: Trustworthiness; Explainability; Artificial intelligence; Healthcare; Information fusion
+
+Rachel Y.L. Kuo, Conrad J. Harrison, Benjamin E. Jones, Luke Geoghegan, Dominic Furniss,
+Perspectives: A surgeon's guide to machine learning,
+International Journal of Surgery,
+Volume 94,
+2021,
+106133,
+ISSN 1743-9191,
+https://doi.org/10.1016/j.ijsu.2021.106133.
+(https://www.sciencedirect.com/science/article/pii/S1743919121002685)
+Abstract: The exponential increase in the volume and complexity of healthcare data presents new challenges to researchers and clinicians in analysis and interpretation. The requirement for new strategies to extract meaningful information from large, noisy datasets has led to the development of the field of big data analytics. Artificial intelligence (AI) is a general-purpose technology in which machines carry out tasks traditionally thought to be only achievable by humans. Machine learning (ML) is an approach to AI in which machines can “learn” to perform tasks in an automated process, rather than being explicitly programmed by a human. Research aiming to apply ML techniques to classification, prediction and decision-making problems in healthcare has increased 61-fold from 2005 to 2019, mirroring this sense of early promise. The field of healthcare ML is relatively young, and many critical steps are needed before adoption into clinical practice, including transparent, unbiased development and reporting of algorithms. Articles claiming that machines can outperform, or replace, doctors in high-level tasks, such as diagnosis or prognostication, must be carefully appraised. It is critical that surgeons have an understanding of the principles and terminology of AI and ML to evaluate these claims and to take an active role in directing research. This article is an up-to-date review and primer for surgeons covering the core tenets of ML applied to surgical problems, including algorithm types and selection, model training and validation, interpretation of common outcome metrics, current and future reporting guidelines and discussion of the challenges and limitations in this field.
+Keywords: Artificial intelligence; Machine learning; Computer-aided diagnosis; Big data; Deep learning; Artificial neural network
+
+Dóra Göndöcs, Viktor Dörfler,
+AI in medical diagnosis: AI prediction & human judgment,
+Artificial Intelligence in Medicine,
+Volume 149,
+2024,
+102769,
+ISSN 0933-3657,
+https://doi.org/10.1016/j.artmed.2024.102769.
+(https://www.sciencedirect.com/science/article/pii/S0933365724000113)
+Abstract: AI has long been regarded as a panacea for decision-making and many other aspects of knowledge work; as something that will help humans get rid of their shortcomings. We believe that AI can be a useful asset to support decision-makers, but not that it should replace decision-makers. Decision-making uses algorithmic analysis, but it is not solely algorithmic analysis; it also involves other factors, many of which are very human, such as creativity, intuition, emotions, feelings, and value judgments. We have conducted semi-structured open-ended research interviews with 17 dermatologists to understand what they expect from an AI application to deliver to medical diagnosis. We have found four aggregate dimensions along which the thinking of dermatologists can be described: the ways in which our participants chose to interact with AI, responsibility, ‘explainability’, and the new way of thinking (mindset) needed for working with AI. We believe that our findings will help physicians who might consider using AI in their diagnosis to understand how to use AI beneficially. It will also be useful for AI vendors in improving their understanding of how medics want to use AI in diagnosis. Further research will be needed to examine if our findings have relevance in the wider medical field and beyond.
+Keywords: Medical diagnosis; Melanoma; Human-computer interaction; Augmented intelligence; Explainability; Responsible AI
+
+Kyle Swanson, Eric Wu, Angela Zhang, Ash A. Alizadeh, James Zou,
+From patterns to patients: Advances in clinical machine learning for cancer diagnosis, prognosis, and treatment,
+Cell,
+Volume 186, Issue 8,
+2023,
+Pages 1772-1791,
+ISSN 0092-8674,
+https://doi.org/10.1016/j.cell.2023.01.035.
+(https://www.sciencedirect.com/science/article/pii/S0092867423000946)
+Abstract: Summary
+Machine learning (ML) is increasingly used in clinical oncology to diagnose cancers, predict patient outcomes, and inform treatment planning. Here, we review recent applications of ML across the clinical oncology workflow. We review how these techniques are applied to medical imaging and to molecular data obtained from liquid and solid tumor biopsies for cancer diagnosis, prognosis, and treatment design. We discuss key considerations in developing ML for the distinct challenges posed by imaging and molecular data. Finally, we examine ML models approved for cancer-related patient usage by regulatory agencies and discuss approaches to improve the clinical usefulness of ML.
+
+George Siemens, Fernando Marmolejo-Ramos, Florence Gabriel, Kelsey Medeiros, Rebecca Marrone, Srecko Joksimovic, Maarten de Laat,
+Human and artificial cognition,
+Computers and Education: Artificial Intelligence,
+Volume 3,
+2022,
+100107,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2022.100107.
+(https://www.sciencedirect.com/science/article/pii/S2666920X22000625)
+Abstract: Predictions of the timelines for when machines will be able to perform general cognitive activities that rival humans, or even the arrival of “super intelligence”, range from years to decades to never. For researchers in the education sector, the potential future state of AI, while provocative, is secondary to important shorter-term questions that influence how AI is integrated into learning and knowledge practices such as sensemaking and decision making. AI is not a future technology. It is already present in our daily lives, often shaping, behind the scenes, the types of information we encounter. It is, therefore, important to consider immediate questions surrounding the dynamics of human-machine interactions. In this paper, we focus on the relationship between human and artificial cognition and treat these as separate systems, each with distinct strengths and capabilities. We adopt a functional view (i.e., discrete tasks) of the activities that artificial cognition completes and those that are best handled by humans. This creates a foundation to then evaluate models for how these two cognitive systems interact and the mechanisms for coordination that are required. In doing so, we create a basis for future researchers to develop testable hypotheses regarding the impact of artificial cognition on knowledge processes such as learning, sensemaking, and decision making. Our evaluation provides insight for researchers regarding the optimal relationship between which cognitive activities should be handed off to the machine, which should remain the domain of human performance, and how these two should then be integrated when outputs are passed from one cognitive system (human or artificial) to the other.
+Keywords: Cognition; Artificial intelligence; Human-machine collaboration; Knowledge processing

@@ -1,0 +1,1086 @@
+Michał Strzelecki, Marcin Kociołek, Maria Strąkowska, Michał Kozłowski, Andrzej Grzybowski, Piotr M. Szczypiński,
+Artificial intelligence in the detection of skin cancer: State of the art,
+Clinics in Dermatology,
+2024,
+,
+ISSN 0738-081X,
+https://doi.org/10.1016/j.clindermatol.2023.12.022.
+(https://www.sciencedirect.com/science/article/pii/S0738081X23002742)
+Abstract: The incidence of melanoma is increasing rapidly. This cancer has a good prognosis if detected early. For this reason, various systems of skin lesion image analysis, which support imaging diagnostics of this neoplasm, are developing very dynamically. To detect and recognize neoplastic lesions, such systems use various artificial intelligence (AI) algorithms. This area of computer science applications has recently undergone dynamic development, abounding in several solutions that are effective tools supporting diagnosticians in many medical specialties. In this contribution, a number of applications of different classes of AI algorithms for the detection of this skin melanoma are presented and evaluated. Both classic systems based on the analysis of dermatoscopic images as well as total body systems, enabling the analysis of the patient's whole body to detect moles and pathologic changes, are discussed. These increasingly popular applications that allow the analysis of lesion images using smartphones are also described. The quantitative evaluation of the discussed systems with particular emphasis on the method of validation of the implemented algorithms is presented. The advantages and limitations of AI in the analysis of lesion images are also discussed, and problems requiring a solution for more effective use of AI in dermatology are identified.
+
+Andreas Holzinger, Bernd Malle, Anna Saranti, Bastian Pfeifer,
+Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI,
+Information Fusion,
+Volume 71,
+2021,
+Pages 28-37,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2021.01.008.
+(https://www.sciencedirect.com/science/article/pii/S1566253521000142)
+Abstract: AI is remarkably successful and outperforms human experts in certain tasks, even in complex domains such as medicine. Humans on the other hand are experts at multi-modal thinking and can embed new inputs almost instantly into a conceptual knowledge space shaped by experience. In many fields the aim is to build systems capable of explaining themselves, engaging in interactive what-if questions. Such questions, called counterfactuals, are becoming important in the rising field of explainable AI (xAI). Our central hypothesis is that using conceptual knowledge as a guiding model of reality will help to train more explainable, more robust and less biased machine learning models, ideally able to learn from fewer data. One important aspect in the medical domain is that various modalities contribute to one single result. Our main question is “How can we construct a multi-modal feature representation space (spanning images, text, genomics data) using knowledge bases as an initial connector for the development of novel explanation interface techniques?”. In this paper we argue for using Graph Neural Networks as a method-of-choice, enabling information fusion for multi-modal causability (causability – not to confuse with causality – is the measurable extent to which an explanation to a human expert achieves a specified level of causal understanding). The aim of this paper is to motivate the international xAI community to further work into the fields of multi-modal embeddings and interactive explainability, to lay the foundations for effective future human–AI interfaces. We emphasize that Graph Neural Networks play a major role for multi-modal causability, since causal links between features can be defined directly using graph structures.
+Keywords: Information fusion; Explainable AI; xAI; Graph Neural Networks; Multi-modal causability; Knowledge graphs; Counterfactuals
+
+Eric J. Beltrami, Alistair C. Brown, Paul J.M. Salmon, David J. Leffell, Justin M. Ko, Jane M. Grant-Kels,
+Artificial intelligence in the detection of skin cancer,
+Journal of the American Academy of Dermatology,
+Volume 87, Issue 6,
+2022,
+Pages 1336-1342,
+ISSN 0190-9622,
+https://doi.org/10.1016/j.jaad.2022.08.028.
+(https://www.sciencedirect.com/science/article/pii/S019096222202552X)
+Abstract: Recent advances in artificial intelligence (AI) in dermatology have demonstrated the potential to improve the accuracy of skin cancer detection. These capabilities may augment current diagnostic processes and improve the approach to the management of skin cancer. To explain this technology, we discuss fundamental terminology, potential benefits, and limitations of AI, and commercial applications relevant to dermatologists. A clear understanding of the technology may help to reduce physician concerns about AI and promote its use in the clinical setting. Ultimately, the development and validation of AI technologies, their approval by regulatory agencies, and widespread adoption by dermatologists and other clinicians may enhance patient care. Technology-augmented detection of skin cancer has the potential to improve quality of life, reduce health care costs by reducing unnecessary procedures, and promote greater access to high-quality skin assessment. Dermatologists play a critical role in the responsible development and deployment of AI capabilities applied to skin cancer.
+Keywords: artificial intelligence; clinical practice; diagnosis; health care dollars; machine learning; neural networks; skin cancer; technology
+
+Md Khairul Islam, Md Mahbubur Rahman, Md Shahin Ali, S.M. Mahim, Md Sipon Miah,
+Enhancing lung abnormalities diagnosis using hybrid DCNN-ViT-GRU model with explainable AI: A deep learning approach,
+Image and Vision Computing,
+Volume 142,
+2024,
+104918,
+ISSN 0262-8856,
+https://doi.org/10.1016/j.imavis.2024.104918.
+(https://www.sciencedirect.com/science/article/pii/S0262885624000210)
+Abstract: In this study, we propose a novel approach called DCNN-ViT-GRU, which combines deep Convolutional Neural Networks (CNNs) with Gated Recurrent Units (GRUs) and the Vision Transformer (ViT) model for the accurate detection and classification of lung abnormalities. By leveraging the strengths of both CNNs and the ViT model, our architecture automatically extracts meaningful features from lung images, leading to improved diagnostic capabilities. The DCNN-ViT-GRU model utilizes a combination of deep CNN and GRU layers, allowing it to effectively capture local and global patterns. This comprehensive feature representation enhances the model's ability to identify various abnormalities in lung images, including lung cancer, COVID-19, and pneumonia. To further enhance the interpretability and transparency of our model, we integrate Explainable Artificial Intelligence (XAI) techniques, including LIME and SHAP. This integration provides valuable insights into the decision-making process of the DCNN-ViT-GRU model, enabling clinicians to understand and validate the predictions made by the model. We evaluated the performance of our proposed approach on diverse datasets containing cases of lung abnormalities. Through cross-validation, our DCNN-ViT-GRU model achieved impressive weighted mean accuracy of 99% and 99.86% for two distinct datasets, demonstrating its superior performance. Furthermore, in hold-out validation on separate datasets, the model achieved accuracies of 99.09% and 99.87%, respectively. Integrating the XAI techniques enhances the interpretability of the DCNN-ViT-GRU model and provides clinicians with valuable insights regarding the factors contributing to the diagnosis of lung abnormalities. This approach presents a promising solution for accurate and interpretable lung abnormalities detection and classification, with potential implications for improved patient care and treatment planning.
+Keywords: Lung cancer; COVID-19; Pre-processing; Feature extraction; DCNN-ViT-GRU; Explainable AI
+
+Vinh Vo, Gang Chen, Yves Saint James Aquino, Stacy M. Carter, Quynh Nga Do, Maame Esi Woode,
+Multi-stakeholder preferences for the use of artificial intelligence in healthcare: A systematic review and thematic analysis,
+Social Science & Medicine,
+Volume 338,
+2023,
+116357,
+ISSN 0277-9536,
+https://doi.org/10.1016/j.socscimed.2023.116357.
+(https://www.sciencedirect.com/science/article/pii/S0277953623007141)
+Abstract: Introduction
+Despite the proliferation of Artificial Intelligence (AI) technology over the last decade, clinician, patient, and public perceptions of its use in healthcare raise a number of ethical, legal and social questions. We systematically review the literature on attitudes towards the use of AI in healthcare from patients, the general public and health professionals’ perspectives to understand these issues from multiple perspectives.
+Methodology
+A search for original research articles using qualitative, quantitative, and mixed methods published between 1 Jan 2001 to 24 Aug 2021 was conducted on six bibliographic databases. Data were extracted and classified into different themes representing views on: (i) knowledge and familiarity of AI, (ii) AI benefits, risks, and challenges, (iii) AI acceptability, (iv) AI development, (v) AI implementation, (vi) AI regulations, and (vii) Human – AI relationship.
+Results
+The final search identified 7,490 different records of which 105 publications were selected based on predefined inclusion/exclusion criteria. While the majority of patients, the general public and health professionals generally had a positive attitude towards the use of AI in healthcare, all groups indicated some perceived risks and challenges. Commonly perceived risks included data privacy; reduced professional autonomy; algorithmic bias; healthcare inequities; and greater burnout to acquire AI-related skills. While patients had mixed opinions on whether healthcare workers suffer from job loss due to the use of AI, health professionals strongly indicated that AI would not be able to completely replace them in their professions. Both groups shared similar doubts about AI's ability to deliver empathic care. The need for AI validation, transparency, explainability, and patient and clinical involvement in the development of AI was emphasised. To help successfully implement AI in health care, most participants envisioned that an investment in training and education campaigns was necessary, especially for health professionals. Lack of familiarity, lack of trust, and regulatory uncertainties were identified as factors hindering AI implementation. Regarding AI regulations, key themes included data access and data privacy. While the general public and patients exhibited a willingness to share anonymised data for AI development, there remained concerns about sharing data with insurance or technology companies. One key domain under this theme was the question of who should be held accountable in the case of adverse events arising from using AI.
+Conclusions
+While overall positivity persists in attitudes and preferences toward AI use in healthcare, some prevalent problems require more attention. There is a need to go beyond addressing algorithm-related issues to look at the translation of legislation and guidelines into practice to ensure fairness, accountability, transparency, and ethics in AI.
+Keywords: Artificial intelligence; Healthcare; Health professional; General public; Patients
+
+Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg, Hongming Xu, Tapio Seppänen,
+Invasion depth estimation of carcinoma cells using adaptive stain normalization to improve epidermis segmentation accuracy,
+Computerized Medical Imaging and Graphics,
+Volume 108,
+2023,
+102276,
+ISSN 0895-6111,
+https://doi.org/10.1016/j.compmedimag.2023.102276.
+(https://www.sciencedirect.com/science/article/pii/S0895611123000940)
+Abstract: Submucosal invasion depth is a significant prognostic factor when assessing lymph node metastasis and cancer itself to plan proper treatment for the patient. Conventionally, oncologists measure the invasion depth by hand which is a laborious, subjective, and time-consuming process. The manual pathological examination by measuring accurate carcinoma cell invasion with considerable inter-observer and intra-observer variations is still challenging. The increasing use of medical imaging and artificial intelligence reveals a significant role in clinical medicine and pathology. In this paper, we propose an approach to study invasive behavior and measure the invasion depth of carcinoma from stained histopathology images. Specifically, our model includes adaptive stain normalization, color decomposition, and morphological reconstruction with adaptive thresholding to separate the epithelium with blue ratio image. Our method splits the image into multiple non-overlapping meaningful segments and successfully finds the homogeneous segments to measure accurate invasion depth. The invasion depths are measured from the inner epithelium edge to outermost pixels of the deepest part of particles in image. We conduct our experiments on skin melanoma tissue samples as well as on organotypic invasion model utilizing myoma tissue and oral squamous cell carcinoma. The performance is experimentally compared to three closely related reference methods and our method provides a superior result in measuring invasion depth. This computational technique will be beneficial for the segmentation of epithelium and other particles for the development of novel computer-aided diagnostic tools in biobank applications.
+Keywords: Adenocarcinoma; Computer-aided diagnosis; Squamous cell carcinoma; Epithelial area segmentation; Histopathology
+
+Shu-Kai Chang, Danlu Liu, Jonathan Mitchem, Christos Papageorgiou, Jussuf Kaifi, Chi-Ren Shyu,
+Understanding common key indicators of successful and unsuccessful cancer drug trials using a contrast mining framework on ClinicalTrials.gov,
+Journal of Biomedical Informatics,
+Volume 139,
+2023,
+104321,
+ISSN 1532-0464,
+https://doi.org/10.1016/j.jbi.2023.104321.
+(https://www.sciencedirect.com/science/article/pii/S1532046423000424)
+Abstract: Clinical trials are essential to the process of new drug development. As clinical trials involve significant investments of time and money, it is crucial for trial designers to carefully investigate trial settings prior to designing a trial. Utilizing trial documents from ClinicalTrials.gov, we aim to understand the common characteristics of successful and unsuccessful cancer drug trials to provide insights about what to learn and what to avoid. In this research, we first computationally classified cancer drug trials into successful and unsuccessful cases and then utilized natural language processing to extract eligibility criteria information from the trial documents. To provide explainable and potentially modifiable recommendations for new trial design, contrast mining was applied to discoverhighly contrasted patterns with a significant difference in prevalence between successful (completion with advancement to the next phase) and unsuccessful (suspended, withdrawn, or terminated) groups. Our method identified contrast patterns consisting of combinations of drug categories, eligibility criteria, study organization, and study design for nine major cancers. In addition to a literature review for the qualitative validation of mined contrast patterns, we found that contrast-pattern-based classifiers using the top 200 contrast patterns as feature representations can achieve approximately 80% F1 score for eight out of ten cancer types in our experiments. In summary, aligning with the modernization efforts of ClinicalTrials.gov, our study demonstrates that understanding the contrast characteristics of successful and unsuccessful cancer trials may provide insights into the decision-making process for trial investigators and therefore facilitate improved cancer drug trial design.
+Keywords: Cancer drug trials; Explainable AI; Contrast mining; Study characteristics
+
+Mark Sujan, Laura Pickup, Paul Bowie, Sue Hignett, Fran Ives, Helen Vosper, Noorzaman Rashid,
+The contribution of human factors and ergonomics to the design and delivery of safe future healthcare,
+Future Healthcare Journal,
+Volume 8, Issue 3,
+2021,
+Pages e574-e579,
+ISSN 2514-6645,
+https://doi.org/10.7861/fhj.2021-0112.
+(https://www.sciencedirect.com/science/article/pii/S2514664524001073)
+Abstract: ABSTRACT
+Human factors and ergonomics (HF/E) is concerned with the design of work and work systems. There is an increasing appreciation of the value that HF/E can bring to enhancing the quality and safety of care, but the professionalisation of HF/E in healthcare is still in its infancy. In this paper, we set out a vision for HF/E in healthcare based on the work of the Chartered Institute of Ergonomics and Human Factors (CIEHF), which is the professional body for HF/E in the UK. We consider the contribution of HF/E in design, in digital transformation, in organisational learning and during COVID-19.
+Keywords: ergonomics; human factors; patient safety
+
+Sami Azam, Sidratul Montaha, Kayes Uddin Fahim, A.K.M. Rakibul Haque Rafid, Md. Saddam Hossain Mukta, Mirjam Jonkman,
+Using feature maps to unpack the CNN ‘Black box’ theory with two medical datasets of different modality,
+Intelligent Systems with Applications,
+Volume 18,
+2023,
+200233,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2023.200233.
+(https://www.sciencedirect.com/science/article/pii/S2667305323000583)
+Abstract: Convolutional neural networks (CNNs) have been established for a comprehensive range of computer vision problems across several benchmarks. Visualization and analysis of feature maps generated by convolutional layers can be an effective approach to explore the hidden and complex characteristic of a CNN model. Convolutional layers provide diverse feature maps however, the extent of this diversity needs to be explored. This research attempts to provide five insights of the ‘Black box’ mechanism of CNNs, using skin cancer dermoscopy and lung scan computed tomography (CT) Scan datasets by statistically analyzing layer by layer (three convolutional layers) feature maps using 17 geometrical and 6 intensity-based features to determine the characteristics and level of diversity. Significance and difference of the feature maps layer by layer, black feature maps analysis, difference of the feature maps to each other and to the original image, variations among the feature maps when running the model multiple times and inter-class variation among the feature maps for different iteration are explored. Various statistical methods including T-test, analysis of variance (ANOVA), mean, median, mean squared error (MSE), peak signal to noise ratio (PSNR), structural similarity index (SSIM), root mean squared error (RMSE), dice similarity score (DSC), universal image quality index (UQI) and Spectral angle mapper (SAM) are employed. Experimental results show that for the skin cancer dermoscopy dataset, a large number of black feature maps are produced (20–60%) while the proportion of black feature maps for the CT Scan dataset is comparatively low (2–20%). This demonstrates that for different datasets, feature maps with diverse characteristics can be produced. The layer by layer differences between the feature maps is evaluated using T-tests and ANOVA for seventeen geometrical features and six intensity-based features. For both datasets across most of the geometrical features and across most of the intensity-based features a significant diversity can be observed. The difference of the feature maps to each other and to the original image is quite high, with MSE values for the dermoscopy and CT Scan datasets in the range of 1860–31,399 and 171–6089, respectively, PSNR 3–15 and 10–25, SSIM values of 0.01–0.84 and 0.3–0.81, RMSE values of 0.81–1 and 0.21–1, DSC values of 0.37–0.53 and 0.47–0.75, UQI values of 0.02–0.86 and 0.01–0.88 and SAM values of 0.12–1.53 and 0.19–1.55 for the dermoscopy and CT Scan datasets respectively. When running the model multiple times (three iterations), a notable iteration by iteration diversity is found in terms of mean, median, maximum and minimum values for most of the geometrical features. The inter-class variation among the feature maps for different iterations and layers are evaluated based on the F-value of the ANOVA test. For the dermoscopy dataset, the highest mean F-value is found for layer 1 and iteration 3 while for the CT scan dataset the highest mean F-value is found for layer 3 and iteration 3 indicating that for these feature maps the highest inter-class dissimilarity is generated. The findings of this study may aid in exploring the complex mechanism of convolutional layers, kernels and feature maps.
+Keywords: Black box; Convolutional neural network; Feature map analysis; Geometric feature; T-test; ANOVA test
+
+Anto Čartolovni, Ana Tomičić, Elvira Lazić Mosler,
+Ethical, legal, and social considerations of AI-based medical decision-support tools: A scoping review,
+International Journal of Medical Informatics,
+Volume 161,
+2022,
+104738,
+ISSN 1386-5056,
+https://doi.org/10.1016/j.ijmedinf.2022.104738.
+(https://www.sciencedirect.com/science/article/pii/S1386505622000521)
+Abstract: Introduction
+Recent developments in the field of Artificial Intelligence (AI) applied to healthcare promise to solve many of the existing global issues in advancing human health and managing global health challenges. This comprehensive review aims not only to surface the underlying ethical and legal but also social implications (ELSI) that have been overlooked in recent reviews while deserving equal attention in the development stage, and certainly ahead of implementation in healthcare. It is intended to guide various stakeholders (eg. designers, engineers, clinicians) in addressing the ELSI of AI at the design stage using the Ethics by Design (EbD) approach.
+Methods
+The authors followed a systematised scoping methodology and searched the following databases: Pubmed, Web of science, Ovid, Scopus, IEEE Xplore, EBSCO Search (Academic Search Premier, CINAHL, PSYCINFO, APA PsycArticles, ERIC) for the ELSI of AI in healthcare through January 2021. Data were charted and synthesised, and the authors conducted a descriptive and thematic analysis of the collected data.
+Results
+After reviewing 1108 papers, 94 were included in the final analysis. Our results show a growing interest in the academic community for ELSI in the field of AI. The main issues of concern identified in our analysis fall into four main clusters of impact: AI algorithms, physicians, patients, and healthcare in general. The most prevalent issues are patient safety, algorithmic transparency, lack of proper regulation, liability & accountability, impact on patient-physician relationship and governance of AI empowered healthcare.
+Conclusions
+The results of our review confirm the potential of AI to significantly improve patient care, but the drawbacks to its implementation relate to complex ELSI that have yet to be addressed. Most ELSI refer to the impact on and extension of the reciprocal and fiduciary patient-physician relationship. With the integration of AIbased decision making tools, a bilateral patient-physician relationship may shift into a trilateral one.
+Keywords: Artificial intelligence; Medical ethics; Decision-making; Transparency; ELSI; Ethics by design; decision-making; medical AI; bioethics; digital health
+
+Marzyeh Ghassemi, Luke Oakden-Rayner, Andrew L Beam,
+The false hope of current approaches to explainable artificial intelligence in health care,
+The Lancet Digital Health,
+Volume 3, Issue 11,
+2021,
+Pages e745-e750,
+ISSN 2589-7500,
+https://doi.org/10.1016/S2589-7500(21)00208-9.
+(https://www.sciencedirect.com/science/article/pii/S2589750021002089)
+Abstract: Summary
+The black-box nature of current artificial intelligence (AI) has caused some to question whether AI must be explainable to be used in high-stakes scenarios such as medicine. It has been argued that explainable AI will engender trust with the health-care workforce, provide transparency into the AI decision making process, and potentially mitigate various kinds of bias. In this Viewpoint, we argue that this argument represents a false hope for explainable AI and that current explainability methods are unlikely to achieve these goals for patient-level decision support. We provide an overview of current explainability techniques and highlight how various failure cases can cause problems for decision making for individual patients. In the absence of suitable explainability methods, we advocate for rigorous internal and external validation of AI models as a more direct means of achieving the goals often associated with explainability, and we caution against having explainability be a requirement for clinically deployed models.
+
+Danilo Bzdok, Denis Engemann, Bertrand Thirion,
+Inference and Prediction Diverge in Biomedicine,
+Patterns,
+Volume 1, Issue 8,
+2020,
+100119,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2020.100119.
+(https://www.sciencedirect.com/science/article/pii/S2666389920301604)
+Abstract: Summary
+In the 20th century, many advances in biological knowledge and evidence-based medicine were supported by p values and accompanying methods. In the early 21st century, ambitions toward precision medicine place a premium on detailed predictions for single individuals. The shift causes tension between traditional regression methods used to infer statistically significant group differences and burgeoning predictive analysis tools suited to forecast an individual's future. Our comparison applies linear models for identifying significant contributing variables and for finding the most predictive variable sets. In systematic data simulations and common medical datasets, we explored how variables identified as significantly relevant and variables identified as predictively relevant can agree or diverge. Across analysis scenarios, even small predictive performances typically coincided with finding underlying significant statistical relationships, but not vice versa. More complete understanding of different ways to define “important” associations is a prerequisite for reproducible research and advances toward personalizing medical care.
+Keywords: explainable AI; scientific discovery; data science; variable importance; reproducibility
+
+Daniel A. Hashimoto, Sai Koushik Sambasastry, Vivek Singh, Sruthi Kurada, Maria Altieri, Takuto Yoshida, Amin Madani, Matjaz Jogan,
+A foundation for evaluating the surgical artificial intelligence literature,
+European Journal of Surgical Oncology,
+2024,
+108014,
+ISSN 0748-7983,
+https://doi.org/10.1016/j.ejso.2024.108014.
+(https://www.sciencedirect.com/science/article/pii/S0748798324000660)
+Abstract: With increasing growth in applications of artificial intelligence (AI) in surgery, it has become essential for surgeons to gain a foundation of knowledge to critically appraise the scientific literature, commercial claims regarding products, and regulatory and legal frameworks that govern the development and use of AI. This guide offers surgeons a framework with which to evaluate manuscripts that incorporate the use of AI. It provides a glossary of common terms, an overview of prerequisite knowledge to maximize understanding of methodology, and recommendations on how to carefully consider each element of a manuscript to assess the quality of the data on which an algorithm was trained, the appropriateness of the methodological approach, the potential for reproducibility of the experiment, and the applicability to surgical practice, including considerations on generalizability and scalability.
+Keywords: Artificial intelligence; Machine learning; Deep learning; Computer vision; Data science; Algorithms
+
+Joona Pohjonen, Carolin Stürenberg, Antti Rannikko, Tuomas Mirtti, Esa Pitkänen,
+Spectral decoupling for training transferable neural networks in medical imaging,
+iScience,
+Volume 25, Issue 2,
+2022,
+103767,
+ISSN 2589-0042,
+https://doi.org/10.1016/j.isci.2022.103767.
+(https://www.sciencedirect.com/science/article/pii/S2589004222000372)
+Abstract: Summary
+Many neural networks for medical imaging generalize poorly to data unseen during training. Such behavior can be caused by overfitting easy-to-learn features while disregarding other potentially informative features. A recent implicit bias mitigation technique called spectral decoupling provably encourages neural networks to learn more features by regularizing the networks' unnormalized prediction scores with an L2 penalty. We show that spectral decoupling increases the networks′ robustness for data distribution shifts and prevents overfitting on easy-to-learn features in medical images. To validate our findings, we train networks with and without spectral decoupling to detect prostate cancer on tissue slides and COVID-19 in chest radiographs. Networks trained with spectral decoupling achieve up to 9.5 percent point higher performance on external datasets. Spectral decoupling alleviates generalization issues associated with neural networks and can be used to complement or replace computationally expensive explicit bias mitigation methods, such as stain normalization in histological images.
+Keywords: Medical tests; Medical imaging; Algorithms; Artificial intelligence
+
+Ramsha Ahmed, Aamna Al Shehhi, Bilal Hassan, Naoufel Werghi, Mohamed L. Seghier,
+An appraisal of the performance of AI tools for chronic stroke lesion segmentation,
+Computers in Biology and Medicine,
+Volume 164,
+2023,
+107302,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2023.107302.
+(https://www.sciencedirect.com/science/article/pii/S0010482523007679)
+Abstract: Automated demarcation of stoke lesions from monospectral magnetic resonance imaging scans is extremely useful for diverse research and clinical applications, including lesion-symptom mapping to explain deficits and predict recovery. There is a significant surge of interest in the development of supervised artificial intelligence (AI) methods for that purpose, including deep learning, with a performance comparable to trained experts. Such AI-based methods, however, require copious amounts of data. Thanks to the availability of large datasets, the development of AI-based methods for lesion segmentation has immensely accelerated in the last decade. One of these datasets is the Anatomical Tracings of Lesions After Stroke (ATLAS) dataset which includes T1-weighted images from hundreds of chronic stroke survivors with their manually traced lesions. This systematic review offers an appraisal of the impact of the ATLAS dataset in promoting the development of AI-based segmentation of stroke lesions. An examination of all published studies, that used the ATLAS dataset to both train and test their methods, highlighted an overall moderate performance (median Dice index = 59.40%) and a huge variability across studies in terms of data preprocessing, data augmentation, AI architecture, and the mode of operation (two-dimensional versus three-dimensional methods). Perhaps most importantly, almost all AI tools were borrowed from existing AI architectures in computer vision, as 90% of all selected studies relied on conventional convolutional neural network-based architectures. Overall, current research has not led to the development of robust AI architectures than can handle spatially heterogenous lesion patterns. This review also highlights the difficulty of gauging the performance of AI tools in the presence of uncertainties in the definition of the ground truth.
+Keywords: Chronic stroke; Lesion segmentation; Deep learning; MRI; AI
+
+Akshay Harikumar, Simi Surendran, S Gargi,
+Explainable AI in Deep Learning Based Classification of Fetal Ultrasound Image Planes,
+Procedia Computer Science,
+Volume 233,
+2024,
+Pages 1023-1033,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2024.03.291.
+(https://www.sciencedirect.com/science/article/pii/S1877050924006513)
+Abstract: Fetal ultrasound images are widely used for visualizing fetal development during pregnancy. These ultrasound image planes provide information about the anatomy of the fetus, thus helping healthcare professionals identify any abnormalities. Several AI tools are now being applied to classify fetal planes automatically. Accurate classification of fetal ultrasound image planes is crucial for the correct prenatal diagnosis and healthcare. However, while deep learning models have shown promise in image classifications, their ”black box” nature makes their decisions challenging to interpret, which is a significant concern in healthcare analytics. This paper addresses the problem of interpretability of the decisions made by a Convolutional Neural Network(CNN) for fetal ultrasound image classification using an XAI technique. Despite their accuracy, the established solutions lack the transparency essential for medical professionals to trust the model's predictions. The LIME(Local Interpretable Model-agnostic Explanations) is applied to interpret the CNN classification that provides a high classification accuracy. The results of LIME interpretability model on the top of CNN highlight the critical regions that positively and negatively contribute to the classification decision. This approach offers a transparent and trusted solution for leveraging AI in prenatal diagnostics.
+Keywords: Explainable AI; Healthcare Analytics; Fetal Ultrasound Analysis; Deep Learning
+
+Xianjing Liu, Tobias E. Sangers, Tamar Nijsten, Manfred Kayser, Luba M. Pardo, Eppo B. Wolvius, Gennady V. Roshchupkin, Marlies Wakkee,
+Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach: a proof-of-concept study,
+eClinicalMedicine,
+Volume 71,
+2024,
+102550,
+ISSN 2589-5370,
+https://doi.org/10.1016/j.eclinm.2024.102550.
+(https://www.sciencedirect.com/science/article/pii/S2589537024001299)
+Abstract: Summary
+Background
+Efficient identification of individuals at high risk of skin cancer is crucial for implementing personalized screening strategies and subsequent care. While Artificial Intelligence holds promising potential for predictive analysis using image data, its application for skin cancer risk prediction utilizing facial images remains unexplored. We present a neural network-based explainable artificial intelligence (XAI) approach for skin cancer risk prediction based on 2D facial images and compare its efficacy to 18 established skin cancer risk factors using data from the Rotterdam Study.
+Methods
+The study employed data from the Rotterdam population-based study in which both skin cancer risk factors and 2D facial images and the occurrence of skin cancer were collected from 2010 to 2018. We conducted a deep-learning survival analysis based on 2D facial images using our developed XAI approach. We subsequently compared these results with survival analysis based on skin cancer risk factors using cox proportional hazard regression.
+Findings
+Among the 2810 participants (mean Age = 68.5 ± 9.3 years, average Follow-up = 5.0 years), 228 participants were diagnosed with skin cancer after photo acquisition. Our XAI approach achieved superior predictive accuracy based on 2D facial images (c-index = 0.72, 95% CI: 0.70–0.74), outperforming that of the known risk factors (c-index = 0.59, 95% CI 0.57–0.61).
+Interpretation
+This proof-of-concept study underscores the high potential of harnessing facial images and a tailored XAI approach as an easily accessible alternative over known risk factors for identifying individuals at high risk of skin cancer.
+Funding
+The Rotterdam Study is funded through unrestricted research grants from Erasmus Medical Center and Erasmus University, Rotterdam, Netherlands Organization for the Health Research and Development (ZonMw), the Research Institute for Diseases in the Elderly (RIDE), the Ministry of Education, Culture and Science, the Ministry for Health, Welfare and Sports, the European Commission (DG XII), and the Municipality of Rotterdam. G.V. Roshchupkin is supported by the ZonMw Veni grant (Veni, 549 1936320).
+Keywords: Skin cancer; Risk prediction; Survival analysis; Explainable artificial intelligence; Deep learning
+
+Clare A. Primiero, Gisele Gargantini Rezze, Liam J. Caffery, Cristina Carrera, Sebastian Podlipnik, Natalia Espinosa, Susana Puig, Monika Janda, H. Peter Soyer, Josep Malvehy,
+A Narrative Review: Opportunities and Challenges in Artificial Intelligence Skin Image Analyses Using Total Body Photography,
+Journal of Investigative Dermatology,
+2024,
+,
+ISSN 0022-202X,
+https://doi.org/10.1016/j.jid.2023.11.007.
+(https://www.sciencedirect.com/science/article/pii/S0022202X23031238)
+Abstract: Artificial intelligence (AI) algorithms for skin lesion classification have reported accuracy at par with and even outperformance of expert dermatologists in experimental settings. However, the majority of algorithms do not represent real-world clinical approach where skin phenotype and clinical background information are considered. We review the current state of AI for skin lesion classification and present opportunities and challenges when applied to total body photography (TBP). AI in TBP analysis presents opportunities for intrapatient assessment of skin phenotype and holistic risk assessment by incorporating patient-level metadata, although challenges exist for protecting patient privacy in algorithm development and improving explainable AI methods.
+Keywords: Artificial intelligence; Dermatology; Melanoma; Total body photography
+
+Gabriella Brancaccio, Anna Balato, Josep Malvehy, Susana Puig, Giuseppe Argenziano, Harald Kittler,
+Artificial Intelligence in Skin Cancer Diagnosis: A Reality Check,
+Journal of Investigative Dermatology,
+Volume 144, Issue 3,
+2024,
+Pages 492-499,
+ISSN 0022-202X,
+https://doi.org/10.1016/j.jid.2023.10.004.
+(https://www.sciencedirect.com/science/article/pii/S0022202X23029640)
+Abstract: The field of skin cancer detection offers a compelling use case for the application of artificial intelligence (AI) within the realm of image-based diagnostic medicine. Through the analysis of large datasets, AI algorithms have the capacity to classify clinical or dermoscopic images with remarkable accuracy. Although these AI-based applications can operate both autonomously and under human supervision, the best results are achieved through a collaborative approach that leverages the expertise of both AI and human experts. However, it is important to note that most studies focus on assessing the diagnostic accuracy of AI in artificial settings rather than in real-world scenarios. Consequently, the practical utility of AI-assisted diagnosis in a clinical environment is still largely unknown. Furthermore, there exists a knowledge gap concerning the optimal use cases and deployment settings for these AI systems as well as the practical challenges that may arise from widespread implementation. This review explores the advantages and limitations of AI in a variety of real-world contexts, with a specific focus on its value to consumers, general practitioners, and dermatologists.
+Keywords: Convoluted neural network; Melanoma; Dermoscopy; Mobile apps; Primary care
+
+A.S. Albahri, Ali M. Duhaim, Mohammed A. Fadhel, Alhamzah Alnoor, Noor S. Baqer, Laith Alzubaidi, O.S. Albahri, A.H. Alamoodi, Jinshuai Bai, Asma Salhi, Jose Santamaría, Chun Ouyang, Ashish Gupta, Yuantong Gu, Muhammet Deveci,
+A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion,
+Information Fusion,
+Volume 96,
+2023,
+Pages 156-191,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.03.008.
+(https://www.sciencedirect.com/science/article/pii/S1566253523000891)
+Abstract: In the last few years, the trend in health care of embracing artificial intelligence (AI) has dramatically changed the medical landscape. Medical centres have adopted AI applications to increase the accuracy of disease diagnosis and mitigate health risks. AI applications have changed rules and policies related to healthcare practice and work ethics. However, building trustworthy and explainable AI (XAI) in healthcare systems is still in its early stages. Specifically, the European Union has stated that AI must be human-centred and trustworthy, whereas in the healthcare sector, low methodological quality and high bias risk have become major concerns. This study endeavours to offer a systematic review of the trustworthiness and explainability of AI applications in healthcare, incorporating the assessment of quality, bias risk, and data fusion to supplement previous studies and provide more accurate and definitive findings. Likewise, 64 recent contributions on the trustworthiness of AI in healthcare from multiple databases (i.e., ScienceDirect, Scopus, Web of Science, and IEEE Xplore) were identified using a rigorous literature search method and selection criteria. The considered papers were categorised into a coherent and systematic classification including seven categories: explainable robotics, prediction, decision support, blockchain, transparency, digital health, and review. In this paper, we have presented a systematic and comprehensive analysis of earlier studies and opened the door to potential future studies by discussing in depth the challenges, motivations, and recommendations. In this study a systematic science mapping analysis in order to reorganise and summarise the results of earlier studies to address the issues of trustworthiness and objectivity was also performed. Moreover, this work has provided decisive evidence for the trustworthiness of AI in health care by presenting eight current state-of-the-art critical analyses regarding those more relevant research gaps. In addition, to the best of our knowledge, this study is the first to investigate the feasibility of utilising trustworthy and XAI applications in healthcare, by incorporating data fusion techniques and connecting various important pieces of information from available healthcare datasets and AI algorithms. The analysis of the revised contributions revealed crucial implications for academics and practitioners, and then potential methodological aspects to enhance the trustworthiness of AI applications in the medical sector were reviewed. Successively, the theoretical concept and current use of 17 XAI methods in health care were addressed. Finally, several objectives and guidelines were provided to policymakers to establish electronic health-care systems focused on achieving relevant features such as legitimacy, morality, and robustness. Several types of information fusion in healthcare were focused on in this study, including data, feature, image, decision, multimodal, hybrid, and temporal.
+Keywords: Trustworthiness; Explainability; Artificial intelligence; Healthcare; Information fusion
+
+Nadia Said, Andreea E. Potinteu, Irina Brich, Jürgen Buder, Hanna Schumm, Markus Huff,
+An artificial intelligence perspective: How knowledge and confidence shape risk and benefit perception,
+Computers in Human Behavior,
+Volume 149,
+2023,
+107855,
+ISSN 0747-5632,
+https://doi.org/10.1016/j.chb.2023.107855.
+(https://www.sciencedirect.com/science/article/pii/S0747563223002066)
+Abstract: Artificial intelligence (AI) applications are increasingly used in everyday life. Whereas some are widely accepted (e.g., automatically compiled playlists), others are highly controversial (e.g., using AI in the classroom). The public discourse reveals a somewhat ambiguous perception of AI, with enthusiasm about the tremendous positive potential of AI on the one hand and growing concerns about the existential dangers of uncontrolled artificial intelligence on the other hand. Thus, understanding the underlying mechanisms of what shapes people's perceptions of AI is vital to help explain AI usage and acceptance trends. In our research, we take a cognitive approach by measuring the perceived risks and benefits of AI applications considering people's knowledge and confidence in their knowledge. To this end, we assessed in two studies (N = 394 and N = 437; representative) how knowledge about AI and confidence in AI knowledge is related to participants' risk-benefit perception of AI scenarios from three domains: media, medicine, and autonomous driving. Results showed that both AI knowledge and confidence in AI knowledge are predictors regarding people's risk-benefit perception beyond people's attitudes towards AI. More specifically, people with more knowledge about AI exhibited so-called risk blindness; that is, they underestimated the risks. On the other hand, higher confidence in one's AI knowledge impacted participants' benefit assessment. Knowledge and confidence thus open a new dimension of understanding people's perception of risks and benefits in AI.
+Keywords: Artificial intelligence; Knowledge; Confidence; Attitudes; Risk-benefit perception; Metacognition
+
+Haitham Askar, Joachim Krois, Csaba Rohrer, Sarah Mertens, Karim Elhennawy, Livia Ottolenghi, Marta Mazur, Sebastian Paris, Falk Schwendicke,
+Detecting white spot lesions on dental photography using deep learning: A pilot study,
+Journal of Dentistry,
+Volume 107,
+2021,
+103615,
+ISSN 0300-5712,
+https://doi.org/10.1016/j.jdent.2021.103615.
+(https://www.sciencedirect.com/science/article/pii/S0300571221000361)
+Abstract: Objectives
+We aimed to apply deep learning to detect white spot lesions in dental photographs.
+Methods
+Using 434 photographic images of 51 patients, a dataset of 2781 cropped tooth segments was generated. Pixelwise annotations of sound enamel as well as fluorotic, carious or other types of hypomineralized lesions were generated by experts and assessed by an independent second reviewer. The union of the reviewed annotations were used to segment the hard tissues (region-of-interest, ROI) of each image. SqueezeNet was employed for modelling. We trained models to detect (1) any white spot lesions, (2) fluorotic lesions and (3) other-than-fluorotic lesions. Modeling was performed on both the cropped and the ROI images and using ten-times repeated five-fold cross-validation. Feature visualization was applied to visualize salient areas.
+Results
+Lesion prevalence was 37 %; the majority of lesions (24 %) were fluorotic. None of the metrics differed significantly between the models trained on cropped and ROI imagery (p > 0.05/t-test). Mean accuracies ranged between 0.81−0.84, without significant differences between models trained to detect any, fluorotic or other-than-fluorotic lesions (p > 0.05). Specificities were 0.85−0.86; sensitivities were lower (0.58−0.66). Models to detect any lesions showed positive/negative predictive values (PPV/NPV) between 0.77−0.80, those to detect fluorotic lesions 0.67 (PPV) to 0.86 (NPV), and those to detect other-than-fluorotic lesions 0.46 (PPV) to 0.93 (NPV). Light reflections were the main reason for false positive detections.
+Conclusions
+Deep learning showed satisfying accuracy to detect white spot lesions, particularly fluorosis. Some models showed limited stability given the small sample available.
+Clinical significance
+Deep learning is suitable for automated classification of retro- or prospectively collected imagery and may assist practitioners in discriminating white spot lesions. Future studies should expand the scope into more granular multi-class detections on a larger and more generalizable dataset.
+Keywords: Artificial intelligence; Caries; Digital imaging/radiology; Mathematical modeling; Photography; White spots
+
+Ciro Mennella, Umberto Maniscalco, Giuseppe De Pietro, Massimo Esposito,
+Ethical and regulatory challenges of AI technologies in healthcare: A narrative review,
+Heliyon,
+Volume 10, Issue 4,
+2024,
+e26297,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2024.e26297.
+(https://www.sciencedirect.com/science/article/pii/S2405844024023284)
+Abstract: Over the past decade, there has been a notable surge in AI-driven research, specifically geared toward enhancing crucial clinical processes and outcomes. The potential of AI-powered decision support systems to streamline clinical workflows, assist in diagnostics, and enable personalized treatment is increasingly evident. Nevertheless, the introduction of these cutting-edge solutions poses substantial challenges in clinical and care environments, necessitating a thorough exploration of ethical, legal, and regulatory considerations. A robust governance framework is imperative to foster the acceptance and successful implementation of AI in healthcare. This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice. It not only provides a comprehensive overview of the role of AI technologies but also offers an insightful perspective on the ethical and regulatory challenges, making a pioneering contribution to the field. This research aims to address the current challenges in digital healthcare by presenting valuable recommendations for all stakeholders eager to advance the development and implementation of innovative AI systems.
+Keywords: Artificial intelligence; Technologies; Decision-making; Healthcare; Ethics; Regulatory guidelines
+
+Dóra Göndöcs, Viktor Dörfler,
+AI in medical diagnosis: AI prediction & human judgment,
+Artificial Intelligence in Medicine,
+Volume 149,
+2024,
+102769,
+ISSN 0933-3657,
+https://doi.org/10.1016/j.artmed.2024.102769.
+(https://www.sciencedirect.com/science/article/pii/S0933365724000113)
+Abstract: AI has long been regarded as a panacea for decision-making and many other aspects of knowledge work; as something that will help humans get rid of their shortcomings. We believe that AI can be a useful asset to support decision-makers, but not that it should replace decision-makers. Decision-making uses algorithmic analysis, but it is not solely algorithmic analysis; it also involves other factors, many of which are very human, such as creativity, intuition, emotions, feelings, and value judgments. We have conducted semi-structured open-ended research interviews with 17 dermatologists to understand what they expect from an AI application to deliver to medical diagnosis. We have found four aggregate dimensions along which the thinking of dermatologists can be described: the ways in which our participants chose to interact with AI, responsibility, ‘explainability’, and the new way of thinking (mindset) needed for working with AI. We believe that our findings will help physicians who might consider using AI in their diagnosis to understand how to use AI beneficially. It will also be useful for AI vendors in improving their understanding of how medics want to use AI in diagnosis. Further research will be needed to examine if our findings have relevance in the wider medical field and beyond.
+Keywords: Medical diagnosis; Melanoma; Human-computer interaction; Augmented intelligence; Explainability; Responsible AI
+
+Jason Adleberg, Amr Wardeh, Florence X. Doo, Brett Marinelli, Tessa S. Cook, David S. Mendelson, Alexander Kagen,
+Predicting Patient Demographics From Chest Radiographs With Deep Learning,
+Journal of the American College of Radiology,
+Volume 19, Issue 10,
+2022,
+Pages 1151-1161,
+ISSN 1546-1440,
+https://doi.org/10.1016/j.jacr.2022.06.008.
+(https://www.sciencedirect.com/science/article/pii/S1546144022005440)
+Abstract: Background
+Deep learning models are increasingly informing medical decision making, for instance, in the detection of acute intracranial hemorrhage and pulmonary embolism. However, many models are trained on medical image databases that poorly represent the diversity of the patients they serve. In turn, many artificial intelligence models may not perform as well on assisting providers with important medical decisions for underrepresented populations.
+Purpose
+Assessment of the ability of deep learning models to classify the self-reported gender, age, self-reported ethnicity, and insurance status of an individual patient from a given chest radiograph.
+Methods
+Models were trained and tested with 55,174 radiographs in the MIMIC Chest X-ray (MIMIC-CXR) database. External validation data came from two separate databases, one from CheXpert and another from a multihospital urban health care system after institutional review board approval. Macro-averaged area under the curve (AUC) values were used to evaluate performance of models. Code used for this study is open-source and available at https://github.com/ai-bias/cxr-bias, and pixelstopatients.com/models/demographics.
+Results
+Accuracy of models to predict gender was nearly perfect, with 0.999 (95% confidence interval: 0.99-0.99) AUC on held-out test data and 0.994 (0.99-0.99) and 0.997 (0.99-0.99) on external validation data. There was high accuracy to predict age and ethnicity, ranging from 0.854 (0.80-0.91) to 0.911 (0.88-0.94) AUC, and moderate accuracy to predict insurance status, with AUC ranging from 0.705 (0.60-0.81) on held-out test data to 0.675 (0.54-0.79) on external validation data.
+Conclusions
+Deep learning models can predict the age, self-reported gender, self-reported ethnicity, and insurance status of a patient from a chest radiograph. Visualization techniques are useful to ensure deep learning models function as intended and to demonstrate anatomical regions of interest. These models can be used to ensure that training data are diverse, thereby ensuring artificial intelligence models that work on diverse populations.
+Keywords: AI bias; artificial intelligence; chest radiographs; data science
+
+Kyle N. Kunze, David M. Rossi, Gregory M. White, Aditya V. Karhade, Jie Deng, Brady T. Williams, Jorge Chahla,
+Diagnostic Performance of Artificial Intelligence for Detection of Anterior Cruciate Ligament and Meniscus Tears: A Systematic Review,
+Arthroscopy: The Journal of Arthroscopic & Related Surgery,
+Volume 37, Issue 2,
+2021,
+Pages 771-781,
+ISSN 0749-8063,
+https://doi.org/10.1016/j.arthro.2020.09.012.
+(https://www.sciencedirect.com/science/article/pii/S0749806320307441)
+Abstract: Purpose
+To (1) determine the diagnostic efficacy of artificial intelligence (AI) methods for detecting anterior cruciate ligament (ACL) and meniscus tears and to (2) compare the efficacy to human clinical experts.
+Methods
+PubMed, OVID/Medline, and Cochrane libraries were queried in November 2019 for research articles pertaining to AI use for detection of ACL and meniscus tears. Information regarding AI model, prediction accuracy/area under the curve (AUC), sample sizes of testing/training sets, and imaging modalities were recorded.
+Results
+A total of 11 AI studies were identified: 5 investigated ACL tears, 5 investigated meniscal tears, and 1 investigated both. The AUC of AI models for detecting ACL tears ranged from 0.895 to 0.980, and the prediction accuracy ranged from 86.7% to 100%. Of these studies, 3 compared AI models to clinical experts. Two found no significant differences in diagnostic capability, whereas one found that radiologists had a significantly greater sensitivity for detecting ACL tears (P = .002) and statistically similar specificity and accuracy. Of the 5 studies investigating the meniscus, the AUC for AI models ranged from 0.847 to 0.910 and prediction accuracy ranged from 75.0% to 90.0%. Of these studies, 2 compared AI models with clinical experts. One found no significant differences in diagnostic accuracy, whereas one found that the AI model had a significantly lower specificity (P = .003) and accuracy (P = .015) than radiologists. Two studies reported that the addition of AI models significantly increased the diagnostic performance of clinicians compared to their efforts without these models.
+Conclusions
+AI prediction capabilities were excellent and may enhance the diagnosis of ACL and meniscal pathology; however, AI did not outperform clinical experts.
+Clinical Relevance
+AI models promise to improve diagnosing certain pathologies as well as or better than human experts, are excellent for detecting ACL and meniscus tears, and may enhance the diagnostic capabilities of human experts; however, when compared with these experts, they may not offer any significant advantage.
+
+Elham Nasarian, Roohallah Alizadehsani, U.Rajendra Acharya, Kwok-Leung Tsui,
+Designing interpretable ML system to enhance trust in healthcare: A systematic review to proposed responsible clinician-AI-collaboration framework,
+Information Fusion,
+Volume 108,
+2024,
+102412,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2024.102412.
+(https://www.sciencedirect.com/science/article/pii/S1566253524001908)
+Abstract: Background
+Artificial intelligence (AI)-based medical devices and digital health technologies, including medical sensors, wearable health trackers, telemedicine, mobile health (mHealth), large language models (LLMs), and digital care twins (DCTs), significantly influence the process of clinical decision support systems (CDSS) in healthcare and medical applications. However, given the complexity of medical decisions, it is crucial that results generated by AI tools not only be correct but also carefully evaluated, understandable, and explainable to end-users, especially clinicians. The lack of interpretability in communicating AI clinical decisions can lead to mistrust among decision-makers and a reluctance to use these technologies.
+Objective
+This paper systematically reviews the processes and challenges associated with interpretable machine learning (IML) and explainable artificial intelligence (XAI) within the healthcare and medical domains. Its main goals are to examine the processes of IML and XAI, their related methods, applications, and the implementation challenges they pose in digital health interventions (DHIs), particularly from a quality control perspective, to help understand and improve communication between AI systems and clinicians. The IML process is categorized into pre-processing interpretability, interpretable modeling, and post-processing interpretability. This paper aims to foster a comprehensive understanding of the significance of a robust interpretability approach in clinical decision support systems (CDSS) by reviewing related experimental results. The goal is to provide future researchers with insights for creating clinician-AI tools that are more communicable in healthcare decision support systems and offer a deeper understanding of their challenges.
+Methods
+Our research questions, eligibility criteria, and primary goals were proved using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guideline and the PICO (population, intervention, control, and outcomes) method. We systematically searched PubMed, Scopus, and Web of Science databases using sensitive and specific search strings. Subsequently, duplicate papers were removed using EndNote and Covidence. A two-phase selection process was then carried out on Covidence, starting with screening by title and abstract, followed by a full-text appraisal. The Meta Quality Appraisal Tool (MetaQAT) was used to assess the quality and risk of bias. Finally, a standardized data extraction tool was employed for reliable data mining.
+Results
+The searches yielded 2,241 records, from which 555 duplicate papers were removed. During the title and abstract screening step, 958 papers were excluded, and the full-text review step excluded 482 studies. Subsequently, in quality and risk of bias assessment, 172 papers were removed. 74 publications were selected for data extraction, which formed 10 insightful reviews and 64 related experimental studies.
+Conclusion
+The paper provides general definitions of explainable artificial intelligence (XAI) in the medical domain and introduces a framework for interpretability in clinical decision support systems structured across three levels. It explores XAI-related health applications within each tier of this framework, underpinned by a review of related experimental findings. Furthermore, the paper engages in a detailed discussion of quality assessment tools for evaluating XAI in intelligent health systems. It also presents a step-by-step roadmap for implementing XAI in clinical settings. To direct future research toward bridging current gaps, the paper examines the importance of XAI models from various angles and acknowledges their limitations.
+Keywords: Interpretable ML; AI-based medical devices; Unstructured data; Medical large language models; Human-computer-interaction; Wearable medical devices; Explainable casual analysis; Responsible AI
+
+Rafeed Rahman, Md. Golam Rabiul Alam, Md. Tanzim Reza, Aminul Huq, Gwanggil Jeon, Md. Zia Uddin, Mohammad Mehedi Hassan,
+Demystifying evidential Dempster Shafer-based CNN architecture for fetal plane detection from 2D ultrasound images leveraging fuzzy-contrast enhancement and explainable AI,
+Ultrasonics,
+Volume 132,
+2023,
+107017,
+ISSN 0041-624X,
+https://doi.org/10.1016/j.ultras.2023.107017.
+(https://www.sciencedirect.com/science/article/pii/S0041624X23000938)
+Abstract: Ultrasound imaging is a valuable tool for assessing the development of the fetal during pregnancy. However, interpreting ultrasound images manually can be time-consuming and subject to variability. Automated image categorization using machine learning algorithms can streamline the interpretation process by identifying stages of fetal development present in ultrasound images. In particular, deep learning architectures have shown promise in medical image analysis, enabling accurate automated diagnosis. The objective of this research is to identify fetal planes from ultrasound images with higher precision. To achieve this, we trained several convolutional neural network (CNN) architectures on a dataset of 12400 images. Our study focuses on the impact of enhanced image quality by adopting Histogram Equalization and Fuzzy Logic-based contrast enhancement on fetal plane detection using the Evidential Dempster–Shafer Based CNN Architecture, PReLU-Net, SqueezeNET, and Swin Transformer. The results of each classifier were noteworthy, with PreLUNet achieving an accuracy of 91.03%, SqueezeNET reaching 91.03% accuracy, Swin Transformer reaching an accuracy of 88.90%, and the Evidential classifier achieving an accuracy of 83.54%. We evaluated the results in terms of both training and testing accuracies. Additionally, we used LIME and GradCam to examine the decision-making process of the classifiers, providing explainability for their outputs. Our findings demonstrate the potential for automated image categorization in large-scale retrospective assessments of fetal development using ultrasound imaging.
+Keywords: PreLUNet; Evidential Dempster–Shafer CNN; Swin Transformer; Histogram Equalization; Fuzzy Logic Contrast
+
+P. Korfiatis, B. Erickson,
+Deep learning can see the unseeable: predicting molecular markers from MRI of brain gliomas,
+Clinical Radiology,
+Volume 74, Issue 5,
+2019,
+Pages 367-373,
+ISSN 0009-9260,
+https://doi.org/10.1016/j.crad.2019.01.028.
+(https://www.sciencedirect.com/science/article/pii/S0009926019300911)
+Abstract: This paper describes state-of-the-art methods for molecular biomarker prediction utilising magnetic resonance imaging. This review paper covers both classical machine learning approaches and deep learning approaches to identifying the predictive features and to perform the actual prediction. In particular, there have been substantial advances in recent years in predicting molecular markers for diffuse gliomas. There are few examples of molecular marker prediction for other brain tumours. Deep learning has contributed significantly to these advances, but suffers from challenges in identifying the features used to make predictions. Tools to better identify and understand those features represent an important area of active research.
+
+Adriano Lucieri, Muhammad Naseer Bajwa, Stephan Alexander Braun, Muhammad Imran Malik, Andreas Dengel, Sheraz Ahmed,
+ExAID: A multimodal explanation framework for computer-aided diagnosis of skin lesions,
+Computer Methods and Programs in Biomedicine,
+Volume 215,
+2022,
+106620,
+ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2022.106620.
+(https://www.sciencedirect.com/science/article/pii/S0169260722000050)
+Abstract: Background and objectives: One principal impediment in the successful deployment of Artificial Intelligence (AI) based Computer-Aided Diagnosis (CAD) systems in everyday clinical workflows is their lack of transparent decision-making. Although commonly used eXplainable AI (XAI) methods provide insights into these largely opaque algorithms, such explanations are usually convoluted and not readily comprehensible. The explanation of decisions regarding the malignancy of skin lesions from dermoscopic images demands particular clarity, as the underlying medical problem definition is ambiguous in itself. This work presents ExAID (Explainable AI for Dermatology), a novel XAI framework for biomedical image analysis that provides multi-modal concept-based explanations, consisting of easy-to-understand textual explanations and visual maps, to justify the predictions. Methods: Our framework relies on Concept Activation Vectors to map human-understandable concepts to those learned by an arbitrary Deep Learning (DL) based algorithm, and Concept Localisation Maps to highlight those concepts in the input space. This identification of relevant concepts is then used to construct fine-grained textual explanations supplemented by concept-wise location information to provide comprehensive and coherent multi-modal explanations. All decision-related information is presented in a diagnostic interface for use in clinical routines. Moreover, the framework includes an educational mode providing dataset-level explanation statistics as well as tools for data and model exploration to aid medical research and education processes. Results: Through rigorous quantitative and qualitative evaluation of our framework on a range of publicly available dermoscopic image datasets, we show the utility of multi-modal explanations for CAD-assisted scenarios even in case of wrong disease predictions. We demonstrate that concept detectors for the explanation of pre-trained networks reach accuracies of up to 81.46%, which is comparable to supervised networks trained end-to-end. Conclusions: We present a new end-to-end framework for the multi-modal explanation of DL-based biomedical image analysis in Melanoma classification and evaluate its utility on an array of datasets. Since perspicuous explanation is one of the cornerstones of any CAD system, we believe that ExAID will accelerate the transition from AI research to practice by providing dermatologists and researchers with an effective tool that they can both understand and trust. ExAID can also serve as the basis for similar applications in other biomedical fields.
+Keywords: Artificial intelligence in dermatology; Computer-aided diagnosis; Explainable artificial intelligence; Interpretability; Medical image processing; Textual explanations
+
+Daniel Sauter, Georg Lodde, Felix Nensa, Dirk Schadendorf, Elisabeth Livingstone, Markus Kukuk,
+Deep learning in computational dermatopathology of melanoma: A technical systematic literature review,
+Computers in Biology and Medicine,
+Volume 163,
+2023,
+107083,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2023.107083.
+(https://www.sciencedirect.com/science/article/pii/S0010482523005486)
+Abstract: Deep learning (DL) has become one of the major approaches in computational dermatopathology, evidenced by a significant increase in this topic in the current literature. We aim to provide a structured and comprehensive overview of peer-reviewed publications on DL applied to dermatopathology focused on melanoma. In comparison to well-published DL methods on non-medical images (e.g., classification on ImageNet), this field of application comprises a specific set of challenges, such as staining artifacts, large gigapixel images, and various magnification levels. Thus, we are particularly interested in the pathology-specific technical state-of-the-art. We also aim to summarize the best performances achieved thus far with respect to accuracy, along with an overview of self-reported limitations. Accordingly, we conducted a systematic literature review of peer-reviewed journal and conference articles published between 2012 and 2022 in the databases ACM Digital Library, Embase, IEEE Xplore, PubMed, and Scopus, expanded by forward and backward searches to identify 495 potentially eligible studies. After screening for relevance and quality, a total of 54 studies were included. We qualitatively summarized and analyzed these studies from technical, problem-oriented, and task-oriented perspectives. Our findings suggest that the technical aspects of DL for histopathology in melanoma can be further improved. The DL methodology was adopted later in this field, and still lacks the wider adoption of DL methods already shown to be effective for other applications. We also discuss upcoming trends toward ImageNet-based feature extraction and larger models. While DL has achieved human-competitive accuracy in routine pathological tasks, its performance on advanced tasks is still inferior to wet-lab testing (for example). Finally, we discuss the challenges impeding the translation of DL methods to clinical practice and provide insight into future research directions.
+Keywords: Survey; Systematic review; Machine learning; Neural network; Whole slide imaging
+
+Candace Makeda Moore,
+The challenges of health inequities and AI,
+Intelligence-Based Medicine,
+Volume 6,
+2022,
+100067,
+ISSN 2666-5212,
+https://doi.org/10.1016/j.ibmed.2022.100067.
+(https://www.sciencedirect.com/science/article/pii/S2666521222000205)
+
+Zhe Sage Chen, Prathamesh (Param) Kulkarni, Isaac R. Galatzer-Levy, Benedetta Bigio, Carla Nasca, Yu Zhang,
+Modern views of machine learning for precision psychiatry,
+Patterns,
+Volume 3, Issue 11,
+2022,
+100602,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2022.100602.
+(https://www.sciencedirect.com/science/article/pii/S2666389922002276)
+Abstract: Summary
+In light of the National Institute of Mental Health (NIMH)’s Research Domain Criteria (RDoC), the advent of functional neuroimaging, novel technologies and methods provide new opportunities to develop precise and personalized prognosis and diagnosis of mental disorders. Machine learning (ML) and artificial intelligence (AI) technologies are playing an increasingly critical role in the new era of precision psychiatry. Combining ML/AI with neuromodulation technologies can potentially provide explainable solutions in clinical practice and effective therapeutic treatment. Advanced wearable and mobile technologies also call for the new role of ML/AI for digital phenotyping in mobile mental health. In this review, we provide a comprehensive review of ML methodologies and applications by combining neuroimaging, neuromodulation, and advanced mobile technologies in psychiatry practice. We further review the role of ML in molecular phenotyping and cross-species biomarker identification in precision psychiatry. We also discuss explainable AI (XAI) and neuromodulation in a closed human-in-the-loop manner and highlight the ML potential in multi-media information extraction and multi-modal data fusion. Finally, we discuss conceptual and practical challenges in precision psychiatry and highlight ML opportunities in future research.
+Keywords: machine learning; ML; artificial intelligence; AI; deep learning; precision psychiatry; digital psychiatry; computational psychiatry; neuroimaging; neurobiomarker; molecular biomarker; digital phenotyping; multi-modal data fusion; neuromodulation; causality; explainable AI; XAI; teletherapy
+
+Angeliki Kerasidou,
+Ethics of artificial intelligence in global health: Explainability, algorithmic bias and trust,
+Journal of Oral Biology and Craniofacial Research,
+Volume 11, Issue 4,
+2021,
+Pages 612-614,
+ISSN 2212-4268,
+https://doi.org/10.1016/j.jobcr.2021.09.004.
+(https://www.sciencedirect.com/science/article/pii/S2212426821000920)
+Abstract: AI has the potential to disrupt and transform the way we deliver care globally. It is reputed to be able to improve the accuracy of diagnoses and treatments, and make the provision of services more efficient and effective. In surgery, AI systems could lead to more accurate diagnoses of health problems and help surgeons better care for their patients. In the context of lower-and-middle-income-countries (LMICs), where access to healthcare still remains a global problem, AI could facilitate access to healthcare professionals and services, even specialist services, for millions of people. The ability of AI to deliver on its promises, however, depends on successfully resolving the ethical and practical issues identified, including that of explainability and algorithmic bias. Even though such issues might appear as being merely practical or technical ones, their closer examination uncovers questions of value, fairness and trust. It should not be left to AI developers, being research institutions or global tech companies, to decide how to resolve these ethical questions. Particularly, relying only on the trustworthiness of companies and institutions to address ethical issues relating to justice, fairness and health equality would be unsuitable and unwise. The pathway to a fair, appropriate and relevant AI necessitates the development, and critically, successful implementation of national and international rules and regulations that define the parameters and set the boundaries of operation and engagement.
+Keywords: Artificial intelligence; Global health; Lower-middle-income-countries (LMICS); Explainability; Algorithmic bias; Trust
+
+Arber Qoku, Nikoletta Katsaouni, Nadine Flinner, Florian Buettner, Marcel H. Schulz,
+Multimodal analysis methods in predictive biomedicine,
+Computational and Structural Biotechnology Journal,
+Volume 21,
+2023,
+Pages 5829-5838,
+ISSN 2001-0370,
+https://doi.org/10.1016/j.csbj.2023.11.011.
+(https://www.sciencedirect.com/science/article/pii/S2001037023004269)
+Abstract: For medicine to fulfill its promise of personalized treatments based on a better understanding of disease biology, computational and statistical tools must exist to analyze the increasing amount of patient data that becomes available. A particular challenge is that several types of data are being measured to cope with the complexity of the underlying systems, enhance predictive modeling and enrich molecular understanding. Here we review a number of recent approaches that specialize in the analysis of multimodal data in the context of predictive biomedicine. We focus on methods that combine different OMIC measurements with image or genome variation data. Our overview shows the diversity of methods that address analysis challenges and reveals new avenues for novel developments.
+Keywords: Multimodal modeling; Predictive modeling; Multi-omics; Machine learning; Personalized medicine
+
+Md Khairul Islam, Md Mahbubur Rahman, Md Shahin Ali, S.M. Mahim, Md Sipon Miah,
+Enhancing lung abnormalities detection and classification using a Deep Convolutional Neural Network and GRU with explainable AI: A promising approach for accurate diagnosis,
+Machine Learning with Applications,
+Volume 14,
+2023,
+100492,
+ISSN 2666-8270,
+https://doi.org/10.1016/j.mlwa.2023.100492.
+(https://www.sciencedirect.com/science/article/pii/S2666827023000452)
+Abstract: Accurate and timely detection and classification of lung abnormalities are crucial for effective diagnosis and treatment planning. In recent years, Deep Learning (DL) techniques have shown remarkable performance in medical image analysis. This paper presents a novel and promising approach, namely DCNN-GRU, for improving the detection and classification of lung abnormalities. Our proposed model combines the capabilities of a Deep Convolutional Neural Network (DCNN) with a Gated Recurrent Unit (GRU) while incorporating Explainable AI techniques. Specifically, the DCNN-GRU model leverages the power of CNNs to automatically extract meaningful features from lung images, capturing both local and global patterns. The extracted features are fed into a GRU, which effectively models temporal dependencies and captures sequential information inherent in lung images. This integration allows the model to understand complex lung abnormalities accurately. Additionally, we emphasize the integration of Explainable Artificial Intelligence (XAI) techniques like LIME, SHAP, and Grad-CAM to enhance the interpretability and transparency of our model. To evaluate the proposed approach, we conducted experiments on COVID-19 and Lung cancer using two different datasets. The model achieved a promising accuracy of 99.30% and 98.97% for COVID-19, and lung cancer, respectively. Furthermore, the model significantly reduces training time compared to existing approaches. The results demonstrate that our model outperforms existing approaches, achieving a high accuracy rate in detection and classification tasks. Furthermore, the XAI provides valuable insights into the model’s decision-making process, aiding clinicians in understanding and validating the predictions.
+Keywords: Lung abnormalities; COVID-19; Pre-processing; DCNN-GRU; XAI
+
+Seong-in Kim, Kee-Eung Kim, Seunghwan Song,
+Exploring artificial intelligence approach to art therapy assessment: A case study on the classification and the estimation of psychological state based on a drawing,
+New Ideas in Psychology,
+Volume 73,
+2024,
+101074,
+ISSN 0732-118X,
+https://doi.org/10.1016/j.newideapsych.2024.101074.
+(https://www.sciencedirect.com/science/article/pii/S0732118X24000023)
+Abstract: The art therapy assessment involves the classification of the psychological state of the drawer into several groups (e.g., normal or abnormal) and the estimation of it in numeric (e.g., psychological examination score) based on the interpretation of his or her drawing. Based on a qualitative approach to these tasks, a statistical approach relying various quantitative features of drawings has broadened the scope and methods in the analysis of the psychological states through drawings. In this paper, we explore an artificial intelligence approach and discuss its superiority over the statistical approach and also identify its limitations. The synergistic effects of the interdisciplinary framework combining qualitative, statistical, and artificial intelligence approaches is expected to make a critical contribution to the development of art therapy assessment.
+Keywords: Artificial intelligence approach; Deep convolutional neural networks; Art therapy assessment; Stepwise and logistic regressions; Classification and estimation of psychological states
+
+Arnaud De Bruyn, Vijay Viswanathan, Yean Shan Beh, Jürgen Kai-Uwe Brock, Florian von Wangenheim,
+Artificial Intelligence and Marketing: Pitfalls and Opportunities,
+Journal of Interactive Marketing,
+Volume 51,
+2020,
+Pages 91-105,
+ISSN 1094-9968,
+https://doi.org/10.1016/j.intmar.2020.04.007.
+(https://www.sciencedirect.com/science/article/pii/S1094996820300888)
+Abstract: This article discusses the pitfalls and opportunities of AI in marketing through the lenses of knowledge creation and knowledge transfer. First, we discuss the notion of “higher-order learning” that distinguishes AI applications from traditional modeling approaches, and while focusing on recent advances in deep neural networks, we cover its underlying methodologies (multilayer perceptron, convolutional, and recurrent neural networks) and learning paradigms (supervised, unsupervised, and reinforcement learning). Second, we discuss the technological pitfalls and dangers marketing managers need to be aware of when implementing AI in their organizations, including the concepts of badly defined objective functions, unsafe or unrealistic learning environments, biased AI, explainable AI, and controllable AI. Third, AI will have a deep impact on predictive tasks that can be automated and require little explainability, we predict that AI will fall short of its promises in many marketing domains if we do not solve the challenges of tacit knowledge transfer between AI models and marketing organizations.
+
+Andreas Holzinger, Matthias Dehmer, Frank Emmert-Streib, Rita Cucchiara, Isabelle Augenstein, Javier Del Ser, Wojciech Samek, Igor Jurisica, Natalia Díaz-Rodríguez,
+Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence,
+Information Fusion,
+Volume 79,
+2022,
+Pages 263-278,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2021.10.007.
+(https://www.sciencedirect.com/science/article/pii/S1566253521002050)
+Abstract: Medical artificial intelligence (AI) systems have been remarkably successful, even outperforming human performance at certain tasks. There is no doubt that AI is important to improve human health in many ways and will disrupt various medical workflows in the future. Using AI to solve problems in medicine beyond the lab, in routine environments, we need to do more than to just improve the performance of existing AI methods. Robust AI solutions must be able to cope with imprecision, missing and incorrect information, and explain both the result and the process of how it was obtained to a medical expert. Using conceptual knowledge as a guiding model of reality can help to develop more robust, explainable, and less biased machine learning models that can ideally learn from less data. Achieving these goals will require an orchestrated effort that combines three complementary Frontier Research Areas: (1) Complex Networks and their Inference, (2) Graph causal models and counterfactuals, and (3) Verification and Explainability methods. The goal of this paper is to describe these three areas from a unified view and to motivate how information fusion in a comprehensive and integrative manner can not only help bring these three areas together, but also have a transformative role by bridging the gap between research and practical applications in the context of future trustworthy medical AI. This makes it imperative to include ethical and legal aspects as a cross-cutting discipline, because all future solutions must not only be ethically responsible, but also legally compliant.
+Keywords: Artificial intelligence; Information fusion; Medical AI; Explainable AI; Robustness; Explainability; Trust; Graph-based machine learning; Neural-symbolic learning and reasoning
+
+Jaishree Meena, Yasha Hasija,
+Application of explainable artificial intelligence in the identification of Squamous Cell Carcinoma biomarkers,
+Computers in Biology and Medicine,
+Volume 146,
+2022,
+105505,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2022.105505.
+(https://www.sciencedirect.com/science/article/pii/S0010482522002979)
+Abstract: Non-melanoma skin cancers (NMSCs) are the fifth most common type of cancer worldwide, affecting both men and women. Each year, more than a million new occurrences of NMSC are estimated, with Squamous Cell Carcinoma (SCC) representing approximately 20% of all skin malignancies. The purpose of this study was to find potential diagnostic biomarkers for SCC by application of eXplainable Artificial Intelligence (XAI) on XGBoost machine learning (ML) models trained on binary classification datasets comprising the expression data of 40 SCC, 38 AK, and 46 normal healthy skin samples. After successfully incorporating SHAP values into the ML models, 23 significant genes were identified and were found to be associated with the progression of SCC. These identified genes may serve as diagnostic and prognostic biomarkers in patients with SCC.
+Keywords: Explainable AI; Machine learning; SHAP values; Principal component analysis; XGBoost machine learning classifier; Squamous cell carcinoma
+
+Konstantina Kourou, Konstantinos P. Exarchos, Costas Papaloukas, Prodromos Sakaloglou, Themis Exarchos, Dimitrios I. Fotiadis,
+Applied machine learning in cancer research: A systematic review for patient diagnosis, classification and prognosis,
+Computational and Structural Biotechnology Journal,
+Volume 19,
+2021,
+Pages 5546-5555,
+ISSN 2001-0370,
+https://doi.org/10.1016/j.csbj.2021.10.006.
+(https://www.sciencedirect.com/science/article/pii/S2001037021004281)
+Abstract: Artificial Intelligence (AI) has recently altered the landscape of cancer research and medical oncology using traditional Machine Learning (ML) algorithms and cutting-edge Deep Learning (DL) architectures. In this review article we focus on the ML aspect of AI applications in cancer research and present the most indicative studies with respect to the ML algorithms and data used. The PubMed and dblp databases were considered to obtain the most relevant research works of the last five years. Based on a comparison of the proposed studies and their research clinical outcomes concerning the medical ML application in cancer research, three main clinical scenarios were identified. We give an overview of the well-known DL and Reinforcement Learning (RL) methodologies, as well as their application in clinical practice, and we briefly discuss Systems Biology in cancer research. We also provide a thorough examination of the clinical scenarios with respect to disease diagnosis, patient classification and cancer prognosis and survival. The most relevant studies identified in the preceding year are presented along with their primary findings. Furthermore, we examine the effective implementation and the main points that need to be addressed in the direction of robustness, explainability and transparency of predictive models. Finally, we summarize the most recent advances in the field of AI/ML applications in cancer research and medical oncology, as well as some of the challenges and open issues that need to be addressed before data-driven models can be implemented in healthcare systems to assist physicians in their daily practice.
+Keywords: Artificial intelligence; Machine learning; Cancer prognosis; Survival; Clinical outcome prediction; Explainability; Transparency; Trustworthiness
+
+Panagiotis Papadimitroulas, Lennart Brocki, Neo Christopher Chung, Wistan Marchadour, Franck Vermet, Laurent Gaubert, Vasilis Eleftheriadis, Dimitris Plachouris, Dimitris Visvikis, George C. Kagadis, Mathieu Hatt,
+Artificial intelligence: Deep learning in oncological radiomics and challenges of interpretability and data harmonization,
+Physica Medica,
+Volume 83,
+2021,
+Pages 108-121,
+ISSN 1120-1797,
+https://doi.org/10.1016/j.ejmp.2021.03.009.
+(https://www.sciencedirect.com/science/article/pii/S1120179721001253)
+Abstract: Over the last decade there has been an extensive evolution in the Artificial Intelligence (AI) field. Modern radiation oncology is based on the exploitation of advanced computational methods aiming to personalization and high diagnostic and therapeutic precision. The quantity of the available imaging data and the increased developments of Machine Learning (ML), particularly Deep Learning (DL), triggered the research on uncovering “hidden” biomarkers and quantitative features from anatomical and functional medical images. Deep Neural Networks (DNN) have achieved outstanding performance and broad implementation in image processing tasks. Lately, DNNs have been considered for radiomics and their potentials for explainable AI (XAI) may help classification and prediction in clinical practice. However, most of them are using limited datasets and lack generalized applicability. In this study we review the basics of radiomics feature extraction, DNNs in image analysis, and major interpretability methods that help enable explainable AI. Furthermore, we discuss the crucial requirement of multicenter recruitment of large datasets, increasing the biomarkers variability, so as to establish the potential clinical value of radiomics and the development of robust explainable AI models.
+Keywords: Deep learning; Machine learning; Convolutional neural network; Radiomics; Data curation; Explainability; Interpretability
+
+Jin Komuro, Dai Kusumoto, Hisayuki Hashimoto, Shinsuke Yuasa,
+Machine learning in cardiology: Clinical application and basic research,
+Journal of Cardiology,
+Volume 82, Issue 2,
+2023,
+Pages 128-133,
+ISSN 0914-5087,
+https://doi.org/10.1016/j.jjcc.2023.04.020.
+(https://www.sciencedirect.com/science/article/pii/S0914508723001041)
+Abstract: Summary
+Machine learning is a subfield of artificial intelligence. The quality and versatility of machine learning have been rapidly improving and playing a critical role in many aspects of social life. This trend is also observed in the medical field. Generally, there are three main types of machine learning: supervised, unsupervised, and reinforcement learning. Each type of learning is adequately selected for the purpose and type of data. In the field of medicine, various types of information are collected and used, and research using machine learning is becoming increasingly relevant. Many clinical studies are conducted using electronic health and medical records, including in the cardiovascular area. Machine learning has also been applied in basic research. Machine learning has been widely used for several types of data analysis, such as clustering of microarray analysis and RNA sequence analysis. Machine learning is essential for genome and multi-omics analyses. This review summarizes the recent advancements in the use of machine learning in clinical applications and basic cardiovascular research.
+Keywords: Machine learning; Basic research; Clinical application
+
+Pouyan Esmaeilzadeh,
+Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations,
+Artificial Intelligence in Medicine,
+Volume 151,
+2024,
+102861,
+ISSN 0933-3657,
+https://doi.org/10.1016/j.artmed.2024.102861.
+(https://www.sciencedirect.com/science/article/pii/S0933365724001039)
+Abstract: Healthcare organizations have realized that Artificial intelligence (AI) can provide a competitive edge through personalized patient experiences, improved patient outcomes, early diagnosis, augmented clinician capabilities, enhanced operational efficiencies, or improved medical service accessibility. However, deploying AI-driven tools in the healthcare ecosystem could be challenging. This paper categorizes AI applications in healthcare and comprehensively examines the challenges associated with deploying AI in medical practices at scale. As AI continues to make strides in healthcare, its integration presents various challenges, including production timelines, trust generation, privacy concerns, algorithmic biases, and data scarcity. The paper highlights that flawed business models and wrong workflows in healthcare practices cannot be rectified merely by deploying AI-driven tools. Healthcare organizations should re-evaluate root problems such as misaligned financial incentives (e.g., fee-for-service models), dysfunctional medical workflows (e.g., high rates of patient readmissions), poor care coordination between different providers, fragmented electronic health records systems, and inadequate patient education and engagement models in tandem with AI adoption. This study also explores the need for a cultural shift in viewing AI not as a threat but as an enabler that can enhance healthcare delivery and create new employment opportunities while emphasizing the importance of addressing underlying operational issues. The necessity of investments beyond finance is discussed, emphasizing the importance of human capital, continuous learning, and a supportive environment for AI integration. The paper also highlights the crucial role of clear regulations in building trust, ensuring safety, and guiding the ethical use of AI, calling for coherent frameworks addressing transparency, model accuracy, data quality control, liability, and ethics. Furthermore, this paper underscores the importance of advancing AI literacy within academia to prepare future healthcare professionals for an AI-driven landscape. Through careful navigation and proactive measures addressing these challenges, the healthcare community can harness AI's transformative power responsibly and effectively, revolutionizing healthcare delivery and patient care. The paper concludes with a vision and strategic suggestions for the future of healthcare with AI, emphasizing thoughtful, responsible, and innovative engagement as the pathway to realizing its full potential to unlock immense benefits for healthcare organizations, physicians, nurses, and patients while proactively mitigating risks.
+Keywords: Artificial intelligence; AI; Deployment challenges; Healthcare; Data; Ethics; Law
+
+Hajra Murtaza, Musharif Ahmed, Naurin Farooq Khan, Ghulam Murtaza, Saad Zafar, Ambreen Bano,
+Synthetic data generation: State of the art in health care domain,
+Computer Science Review,
+Volume 48,
+2023,
+100546,
+ISSN 1574-0137,
+https://doi.org/10.1016/j.cosrev.2023.100546.
+(https://www.sciencedirect.com/science/article/pii/S1574013723000138)
+Abstract: Recent progress in artificial intelligence and machine learning has led to the growth of research in every aspect of life including the health care domain. However, privacy risks and legislations hinder the availability of patient data to researchers. Synthetic data (SD) has been regarded as a privacy-safe alternative to real data and has lately been employed in many research and academic endeavors. This growing body of research needs to be consolidated for the researchers and practitioners to gain a quick and fruitful comprehension of the state of the art in synthetic data generation in health care. The purpose of this study is to collate and synthesize the current state of synthetic data generation following a narrative review of 70 peer-reviewed studies discussing privacy-preserving synthetic medical data generation techniques. The literature shows the effectiveness of synthetic datasets for different applications in research, academics, and testing according to existing statistical and task-based utility metrics. However, the focus on longitudinal synthetic data seems deficient. Moreover, a unified metric for generic quality assessment of synthetic data is lacking. The results of this review will serve as a quick reference guide for the researchers and practitioners in the healthcare domain to select a suitable synthetic data strategy for their application based on its strengths and weaknesses and pave the path for further research and development in healthcare.
+Keywords: Synthetic data; Health informatics; Data privacy; Privacy preserving data publishing; Medical informatics; Generative adversarial networks; Electronic health records
+
+Kuldeep Vayadande,
+Innovative approaches for skin disease identification in machine learning: A comprehensive study,
+Oral Oncology Reports,
+2024,
+100365,
+ISSN 2772-9060,
+https://doi.org/10.1016/j.oor.2024.100365.
+(https://www.sciencedirect.com/science/article/pii/S2772906024002115)
+Abstract: Skin diseases encompass a vast array of conditions, ranging from common dermatological concerns to rare and complex disorders, collectively posing a significant burden on global healthcare systems. For these illnesses to be managed and treated effectively, prompt and correct diagnosis is essential, yet it often presents a challenge due to the subjective nature of visual examination and the variability in clinical presentations. The field of dermatology has seen a change in recent years due to the convergence of artificial intelligence and medicine, which has produced creative methods for computer-aided diagnostics. Machine learning has become a potent tool in the search for more precise and effective diagnostic techniques because of its capacity to analyze enormous volumes of data and identify intricate patterns. This review paper explores the state-of-the-art developments in machine learning methods designed especially for skin disease identification. Investigate the effectiveness and performance of several algorithms, such as the flexible k-nearest neighbor, the sturdy support vector machine (SVM), and the complex convolutional neural networks (CNNs), advanced techniques for automated skin disease detection encompass deep learning methods such as recurrent neural networks (RNNs) for sequential data processing, generative adversarial networks (GANs) for generating synthetic data, and attention mechanisms for focusing on relevant image regions by means of a thorough examination of the most recent studies. Each algorithm is scrutinized for its strengths and limitations, providing valuable insights into their applicability in dermatological practice. This study intends to promote a broader knowledge of machine learning's potential to transform the diagnosis and treatment of skin disorders, eventually increasing patient outcomes and boosting the provision of healthcare services, by putting light on the field's developing developments in dermatology.
+Keywords: Skin disease; Early detection; Machine learning; Classification; Dermatology; Artificial intelligence; Skin cancer
+
+George Siemens, Fernando Marmolejo-Ramos, Florence Gabriel, Kelsey Medeiros, Rebecca Marrone, Srecko Joksimovic, Maarten de Laat,
+Human and artificial cognition,
+Computers and Education: Artificial Intelligence,
+Volume 3,
+2022,
+100107,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2022.100107.
+(https://www.sciencedirect.com/science/article/pii/S2666920X22000625)
+Abstract: Predictions of the timelines for when machines will be able to perform general cognitive activities that rival humans, or even the arrival of “super intelligence”, range from years to decades to never. For researchers in the education sector, the potential future state of AI, while provocative, is secondary to important shorter-term questions that influence how AI is integrated into learning and knowledge practices such as sensemaking and decision making. AI is not a future technology. It is already present in our daily lives, often shaping, behind the scenes, the types of information we encounter. It is, therefore, important to consider immediate questions surrounding the dynamics of human-machine interactions. In this paper, we focus on the relationship between human and artificial cognition and treat these as separate systems, each with distinct strengths and capabilities. We adopt a functional view (i.e., discrete tasks) of the activities that artificial cognition completes and those that are best handled by humans. This creates a foundation to then evaluate models for how these two cognitive systems interact and the mechanisms for coordination that are required. In doing so, we create a basis for future researchers to develop testable hypotheses regarding the impact of artificial cognition on knowledge processes such as learning, sensemaking, and decision making. Our evaluation provides insight for researchers regarding the optimal relationship between which cognitive activities should be handed off to the machine, which should remain the domain of human performance, and how these two should then be integrated when outputs are passed from one cognitive system (human or artificial) to the other.
+Keywords: Cognition; Artificial intelligence; Human-machine collaboration; Knowledge processing
+
+Chiagoziem C. Ukwuoma, Zhiguang Qin, Md Belal Bin Heyat, Faijan Akhtar, Olusola Bamisile, Abdullah Y. Muaad, Daniel Addo, Mugahed A. Al-antari,
+A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images,
+Journal of Advanced Research,
+Volume 48,
+2023,
+Pages 191-211,
+ISSN 2090-1232,
+https://doi.org/10.1016/j.jare.2022.08.021.
+(https://www.sciencedirect.com/science/article/pii/S2090123222002028)
+Abstract: Introduction
+Pneumonia is a microorganism infection that causes chronic inflammation of the human lung cells. Chest X-ray imaging is the most well-known screening approach used for detecting pneumonia in the early stages. While chest-Xray images are mostly blurry with low illumination, a strong feature extraction approach is required for promising identification performance.
+Objectives
+A new hybrid explainable deep learning framework is proposed for accurate pneumonia disease identification using chest X-ray images.
+Methods
+The proposed hybrid workflow is developed by fusing the capabilities of both ensemble convolutional networks and the Transformer Encoder mechanism. The ensemble learning backbone is used to extract strong features from the raw input X-ray images in two different scenarios: ensemble A (i.e., DenseNet201, VGG16, and GoogleNet) and ensemble B (i.e., DenseNet201, InceptionResNetV2, and Xception). Whereas, the Transformer Encoder is built based on the self-attention mechanism with multilayer perceptron (MLP) for accurate disease identification. The visual explainable saliency maps are derived to emphasize the crucial predicted regions on the input X-ray images. The end-to-end training process of the proposed deep learning models over all scenarios is performed for binary and multi-class classification scenarios.
+Results
+The proposed hybrid deep learning model recorded 99.21% classification performance in terms of overall accuracy and F1-score for the binary classification task, while it achieved 98.19% accuracy and 97.29% F1-score for multi-classification task. For the ensemble binary identification scenario, ensemble A recorded 97.22% accuracy and 97.14% F1-score, while ensemble B achieved 96.44% for both accuracy and F1-score. For the ensemble multiclass identification scenario, ensemble A recorded 97.2% accuracy and 95.8% F1-score, while ensemble B recorded 96.4% accuracy and 94.9% F1-score.
+Conclusion
+The proposed hybrid deep learning framework could provide promising and encouraging explainable identification performance comparing with the individual, ensemble models, or even the latest AI models in the literature. The code is available here: https://github.com/chiagoziemchima/Pneumonia_Identificaton.
+Keywords: Pneumonia identification; Chest X-ray imaging; Transfer ensemble learning; Transformer encoder (TE); Self-attention network; Explainable artificial intelligence (XAI)
+
+Jan Egger, Christina Gsaxner, Antonio Pepe, Kelsey L. Pomykala, Frederic Jonske, Manuel Kurz, Jianning Li, Jens Kleesiek,
+Medical deep learning—A systematic meta-review,
+Computer Methods and Programs in Biomedicine,
+Volume 221,
+2022,
+106874,
+ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2022.106874.
+(https://www.sciencedirect.com/science/article/pii/S0169260722002565)
+Abstract: Deep learning has remarkably impacted several different scientific disciplines over the last few years. For example, in image processing and analysis, deep learning algorithms were able to outperform other cutting-edge methods. Additionally, deep learning has delivered state-of-the-art results in tasks like autonomous driving, outclassing previous attempts. There are even instances where deep learning outperformed humans, for example with object recognition and gaming. Deep learning is also showing vast potential in the medical domain. With the collection of large quantities of patient records and data, and a trend towards personalized treatments, there is a great need for automated and reliable processing and analysis of health information. Patient data is not only collected in clinical centers, like hospitals and private practices, but also by mobile healthcare apps or online websites. The abundance of collected patient data and the recent growth in the deep learning field has resulted in a large increase in research efforts. In Q2/2020, the search engine PubMed returned already over 11,000 results for the search term ‘deep learning’, and around 90% of these publications are from the last three years. However, even though PubMed represents the largest search engine in the medical field, it does not cover all medical-related publications. Hence, a complete overview of the field of ‘medical deep learning’ is almost impossible to obtain and acquiring a full overview of medical sub-fields is becoming increasingly more difficult. Nevertheless, several review and survey articles about medical deep learning have been published within the last few years. They focus, in general, on specific medical scenarios, like the analysis of medical images containing specific pathologies. With these surveys as a foundation, the aim of this article is to provide the first high-level, systematic meta-review of medical deep learning surveys.
+Keywords: Deep learning; Artificial neural networks; Machine learning; Data analysis; Image analysis; Medical image analysis; Medical image processing; Medical imaging; Patient data; Pathology; Detection; Segmentation; Registration; Generative adversarial networks; PubMed; Systematic; Review; Survey; Meta-review; Meta-survey
+
+Pallabi Sharma, Deepak Ranjan Nayak, Bunil Kumar Balabantaray, M. Tanveer, Rajashree Nayak,
+A survey on cancer detection via convolutional neural networks: Current challenges and future directions,
+Neural Networks,
+Volume 169,
+2024,
+Pages 637-659,
+ISSN 0893-6080,
+https://doi.org/10.1016/j.neunet.2023.11.006.
+(https://www.sciencedirect.com/science/article/pii/S0893608023006287)
+Abstract: Cancer is a condition in which abnormal cells uncontrollably split and damage the body tissues. Hence, detecting cancer at an early stage is highly essential. Currently, medical images play an indispensable role in detecting various cancers; however, manual interpretation of these images by radiologists is observer-dependent, time-consuming, and tedious. An automatic decision-making process is thus an essential need for cancer detection and diagnosis. This paper presents a comprehensive survey on automated cancer detection in various human body organs, namely, the breast, lung, liver, prostate, brain, skin, and colon, using convolutional neural networks (CNN) and medical imaging techniques. It also includes a brief discussion about deep learning based on state-of-the-art cancer detection methods, their outcomes, and the possible medical imaging data used. Eventually, the description of the dataset used for cancer detection, the limitations of the existing solutions, future trends, and challenges in this domain are discussed. The utmost goal of this paper is to provide a piece of comprehensive and insightful information to researchers who have a keen interest in developing CNN-based models for cancer detection.
+Keywords: Automated cancer detection; Medical imaging; Deep learning; CNN; Classification; Segmentation
+
+Silvia Seoni, Vicnesh Jahmunah, Massimo Salvi, Prabal Datta Barua, Filippo Molinari, U. Rajendra Acharya,
+Application of uncertainty quantification to artificial intelligence in healthcare: A review of last decade (2013–2023),
+Computers in Biology and Medicine,
+Volume 165,
+2023,
+107441,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2023.107441.
+(https://www.sciencedirect.com/science/article/pii/S001048252300906X)
+Abstract: Uncertainty estimation in healthcare involves quantifying and understanding the inherent uncertainty or variability associated with medical predictions, diagnoses, and treatment outcomes. In this era of Artificial Intelligence (AI) models, uncertainty estimation becomes vital to ensure safe decision-making in the medical field. Therefore, this review focuses on the application of uncertainty techniques to machine and deep learning models in healthcare. A systematic literature review was conducted using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Our analysis revealed that Bayesian methods were the predominant technique for uncertainty quantification in machine learning models, with Fuzzy systems being the second most used approach. Regarding deep learning models, Bayesian methods emerged as the most prevalent approach, finding application in nearly all aspects of medical imaging. Most of the studies reported in this paper focused on medical images, highlighting the prevalent application of uncertainty quantification techniques using deep learning models compared to machine learning models. Interestingly, we observed a scarcity of studies applying uncertainty quantification to physiological signals. Thus, future research on uncertainty quantification should prioritize investigating the application of these techniques to physiological signals. Overall, our review highlights the significance of integrating uncertainty techniques in healthcare applications of machine learning and deep learning models. This can provide valuable insights and practical solutions to manage uncertainty in real-world medical data, ultimately improving the accuracy and reliability of medical diagnoses and treatment recommendations.
+Keywords: Uncertainty techniques; Machine learning models; Deep learning models; PRISMA; Images; Signals; Healthcare; Bayesian models
+
+Babak Saboury, Michael Morris, Eliot Siegel,
+Future Directions in Artificial Intelligence,
+Radiologic Clinics of North America,
+Volume 59, Issue 6,
+2021,
+Pages 1085-1095,
+ISSN 0033-8389,
+ISBN 9780323813556,
+https://doi.org/10.1016/j.rcl.2021.07.008.
+(https://www.sciencedirect.com/science/article/pii/S0033838921001020)
+Keywords: Artificial intelligence; Radiology information architecture; Radiophenomics; Future of AI; Autonomous AI
+
+Sotirios Messinis, Nikos Temenos, Nicholas E. Protonotarios, Ioannis Rallis, Dimitrios Kalogeras, Nikolaos Doulamis,
+Enhancing Internet of Medical Things security with artificial intelligence: A comprehensive review,
+Computers in Biology and Medicine,
+Volume 170,
+2024,
+108036,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2024.108036.
+(https://www.sciencedirect.com/science/article/pii/S0010482524001203)
+Abstract: Over the past five years, interest in the literature regarding the security of the Internet of Medical Things (IoMT) has increased. Due to the enhanced interconnectedness of IoMT devices, their susceptibility to cyber-attacks has proportionally escalated. Motivated by the promising potential of AI-related technologies to improve certain cybersecurity measures, we present a comprehensive review of this emerging field. In this review, we attempt to bridge the corresponding literature gap regarding modern cybersecurity technologies that deploy AI techniques to improve their performance and compensate for security and privacy vulnerabilities. In this direction, we have systematically gathered and classified the extensive research on this topic. Our findings highlight the fact that the integration of machine learning (ML) and deep learning (DL) techniques improves both the performance of cybersecurity measures and their speed, reliability, and effectiveness. This may be proven to be useful for improving the security and privacy of IoMT devices. Furthermore, by considering the numerous advantages of AI technologies as opposed to their core cybersecurity counterparts, including blockchain, anomaly detection, homomorphic encryption, differential privacy, federated learning, and so on, we provide a structured overview of the current scientific trends. We conclude with considerations for future research, emphasizing the promising potential of AI-driven cybersecurity in the IoMT landscape, especially in patient data protection and in data-driven healthcare.
+Keywords: Internet of Medical Things; IoMT security; Cybersecurity; Privacy; Networked medical devices; Artificial intelligence; Machine learning; Deep learning
+
+Andrea M. Storås, Inga Strümke, Michael A. Riegler, Jakob Grauslund, Hugo L. Hammer, Anis Yazidi, Pål Halvorsen, Kjell G. Gundersen, Tor P. Utheim, Catherine J. Jackson,
+Artificial intelligence in dry eye disease,
+The Ocular Surface,
+Volume 23,
+2022,
+Pages 74-86,
+ISSN 1542-0124,
+https://doi.org/10.1016/j.jtos.2021.11.004.
+(https://www.sciencedirect.com/science/article/pii/S1542012421001324)
+Abstract: Dry eye disease (DED) has a prevalence of between 5 and 50%, depending on the diagnostic criteria used and population under study. However, it remains one of the most underdiagnosed and undertreated conditions in ophthalmology. Many tests used in the diagnosis of DED rely on an experienced observer for image interpretation, which may be considered subjective and result in variation in diagnosis. Since artificial intelligence (AI) systems are capable of advanced problem solving, use of such techniques could lead to more objective diagnosis. Although the term ‘AI’ is commonly used, recent success in its applications to medicine is mainly due to advancements in the sub-field of machine learning, which has been used to automatically classify images and predict medical outcomes. Powerful machine learning techniques have been harnessed to understand nuances in patient data and medical images, aiming for consistent diagnosis and stratification of disease severity. This is the first literature review on the use of AI in DED. We provide a brief introduction to AI, report its current use in DED research and its potential for application in the clinic. Our review found that AI has been employed in a wide range of DED clinical tests and research applications, primarily for interpretation of interferometry, slit-lamp and meibography images. While initial results are promising, much work is still needed on model development, clinical testing and standardisation.
+Keywords: Dry eye disease; Artificial intelligence; Machine learning
+
+Hossein Nematzadeh, José García-Nieto, Ismael Navas-Delgado, José F. Aldana-Montes,
+Ensemble-based genetic algorithm explainer with automized image segmentation: A case study on melanoma detection dataset,
+Computers in Biology and Medicine,
+Volume 155,
+2023,
+106613,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2023.106613.
+(https://www.sciencedirect.com/science/article/pii/S0010482523000781)
+Abstract: Explainable Artificial Intelligence (XAI) makes AI understandable to the human user particularly when the model is complex and opaque. Local Interpretable Model-agnostic Explanations (LIME) has an image explainer package that is used to explain deep learning models. The image explainer of LIME needs some parameters to be manually tuned by the expert in advance, including the number of top features to be seen and the number of superpixels in the segmented input image. This parameter tuning is a time-consuming task. Hence, with the aim of developing an image explainer that automizes image segmentation, this paper proposes Ensemble-based Genetic Algorithm Explainer (EGAE) for melanoma cancer detection that automatically detects and presents the informative sections of the image to the user. EGAE has three phases. First, the sparsity of chromosomes in GAs is determined heuristically. Then, multiple GAs are executed consecutively. However, the difference between these GAs are in different number of superpixels in the input image that result in different chromosome lengths. Finally, the results of GAs are ensembled using consensus and majority votings. This paper also introduces how Euclidean distance can be used to calculate the distance between the actual explanation (delineated by experts) and the calculated explanation (computed by the explainer) for accuracy measurement. Experimental results on a melanoma dataset show that EGAE automatically detects informative lesions, and it also improves the accuracy of explanation in comparison with LIME efficiently. The python codes for EGAE, the ground truths delineated by clinicians, and the melanoma detection dataset are available at https://github.com/KhaosResearch/EGAE.
+Keywords: Explainable Artificial Intelligence; Local Interpretable Model-agnostic Explanations; Deep learning; Genetic algorithm; Melanoma dataset
+
+Ziyang Gong, Weikang Feng, Xin Su, Chang Choi,
+System for automatically assessing the likelihood of inferior alveolar nerve injury,
+Computers in Biology and Medicine,
+Volume 169,
+2024,
+107923,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2024.107923.
+(https://www.sciencedirect.com/science/article/pii/S0010482524000076)
+Abstract: Inferior alveolar nerve (IAN) injury is a severe complication associated with mandibular third molar (MM3) extraction. Consequently, the likelihood of IAN injury must be assessed before performing such an extraction. However, existing deep learning methods for classifying the likelihood of IAN injury that rely on mask images often suffer from limited accuracy and lack of interpretability. In this paper, we propose an automated system based on panoramic radiographs, featuring a novel segmentation model SS-TransUnet and classification algorithm CD-IAN injury class. Our objective was to enhance the precision of segmentation of MM3 and mandibular canal (MC) and classification accuracy of the likelihood of IAN injury, ultimately reducing the occurrence of IAN injuries and providing a certain degree of interpretable foundation for diagnosis. The proposed segmentation model demonstrated a 0.9 % and 2.6 % enhancement in dice coefficient for MM3 and MC, accompanied by a reduction in 95 % Hausdorff distance, reaching 1.619 and 1.886, respectively. Additionally, our classification algorithm achieved an accuracy of 0.846, surpassing deep learning-based models by 3.8 %, confirming the effectiveness of our system.
+Keywords: Deep learning; Inferior alveolar nerve injury; Panoramic radiographic; Mandibular third molar; Mandibular canal
+
+Bingjie Liu, Lewen Wei,
+Machine gaze in online behavioral targeting: The effects of algorithmic human likeness on social presence and social influence,
+Computers in Human Behavior,
+Volume 124,
+2021,
+106926,
+ISSN 0747-5632,
+https://doi.org/10.1016/j.chb.2021.106926.
+(https://www.sciencedirect.com/science/article/pii/S0747563221002491)
+Abstract: Digital platforms increasingly use online behavioral targeting (OBT) to enhance consumers' engagement, which involves using algorithms to “gaze” at consumers—tracking their online activities and inferring their preferences—so as to deliver relevant, personalized messages (e.g., advertisements, recommendations) to consumers. In light of the rising call for algorithmic transparency, this study investigates the effects of algorithmic transparency on consumers' experience of social presence and OBT effectiveness, when the OBT algorithm has low or high level of similarity to humans' conscious mental processes. A one-factor, three-level (no transparency, vs. “observer” algorithm, vs. “judge” algorithm) online experiment with 209 participants was conducted. Results show that for individuals with low anthropomorphism tendency, the “observer” algorithm that did not form meaningful representations of consumers (i.e., low cognitive similarity to humans) reduced social presence, thereby compromising OBT effectiveness. The algorithm that “judged” consumers on meaningful dimensions (i.e., high cognitive similarity to humans) had no such effects. Findings suggest that anthropomorphism, as an important psychological mechanism underlying consumers' interaction with OBT platforms, may be inhibited by algorithmic transparency. Theoretical implications for understanding individuals’ experience with OBT and human-machine communication in general and practical implications for designing algorithmic transparency in OBT practices are discussed.
+Keywords: Online behavioral targeting; Anthropomorphism; Algorithmic transparency; Algorithmic human likeness; Social presence
+
+A. Prelaj, V. Miskovic, M. Zanitti, F. Trovo, C. Genova, G. Viscardi, S.E. Rebuzzi, L. Mazzeo, L. Provenzano, S. Kosta, M. Favali, A. Spagnoletti, L. Castelo-Branco, J. Dolezal, A.T. Pearson, G. Lo Russo, C. Proto, M. Ganzinelli, C. Giani, E. Ambrosini, S. Turajlic, L. Au, M. Koopman, S. Delaloge, J.N. Kather, F. de Braud, M.C. Garassino, G. Pentheroudakis, C. Spencer, A.L.G. Pedrocchi,
+Artificial intelligence for predictive biomarker discovery in immuno-oncology: a systematic review,
+Annals of Oncology,
+Volume 35, Issue 1,
+2024,
+Pages 29-65,
+ISSN 0923-7534,
+https://doi.org/10.1016/j.annonc.2023.10.125.
+(https://www.sciencedirect.com/science/article/pii/S0923753423043314)
+Abstract: Background
+The widespread use of immune checkpoint inhibitors (ICIs) has revolutionised treatment of multiple cancer types. However, selecting patients who may benefit from ICI remains challenging. Artificial intelligence (AI) approaches allow exploitation of high-dimension oncological data in research and development of precision immuno-oncology.
+Materials and methods
+We conducted a systematic literature review of peer-reviewed original articles studying the ICI efficacy prediction in cancer patients across five data modalities: genomics (including genomics, transcriptomics, and epigenomics), radiomics, digital pathology (pathomics), and real-world and multimodality data.
+Results
+A total of 90 studies were included in this systematic review, with 80% published in 2021-2022. Among them, 37 studies included genomic, 20 radiomic, 8 pathomic, 20 real-world, and 5 multimodal data. Standard machine learning (ML) methods were used in 72% of studies, deep learning (DL) methods in 22%, and both in 6%. The most frequently studied cancer type was non-small-cell lung cancer (36%), followed by melanoma (16%), while 25% included pan-cancer studies. No prospective study design incorporated AI-based methodologies from the outset; rather, all implemented AI as a post hoc analysis. Novel biomarkers for ICI in radiomics and pathomics were identified using AI approaches, and molecular biomarkers have expanded past genomics into transcriptomics and epigenomics. Finally, complex algorithms and new types of AI-based markers, such as meta-biomarkers, are emerging by integrating multimodal/multi-omics data.
+Conclusion
+AI-based methods have expanded the horizon for biomarker discovery, demonstrating the power of integrating multimodal data from existing datasets to discover new meta-biomarkers. While most of the included studies showed promise for AI-based prediction of benefit from immunotherapy, none provided high-level evidence for immediate practice change. A priori planned prospective trial designs are needed to cover all lifecycle steps of these software biomarkers, from development and validation to integration into clinical practice.
+Keywords: immunotherapy; artificial intelligence; multiomics; real-world; multimodal
+
+Dongxiao Gu, Kaixiang Su, Huimin Zhao,
+A case-based ensemble learning system for explainable breast cancer recurrence prediction,
+Artificial Intelligence in Medicine,
+Volume 107,
+2020,
+101858,
+ISSN 0933-3657,
+https://doi.org/10.1016/j.artmed.2020.101858.
+(https://www.sciencedirect.com/science/article/pii/S0933365719306712)
+Abstract: Significant progress has been achieved in recent years in the application of artificial intelligence (AI) for medical decision support. However, many AI-based systems often only provide a final prediction to the doctor without an explanation of its underlying decision-making process. In scenarios concerning deadly diseases, such as breast cancer, a doctor adopting an auxiliary prediction is taking big risks, as a bad decision can have very harmful consequences for the patient. We propose an auxiliary decision support system that combines ensemble learning with case-based reasoning to help doctors improve the accuracy of breast cancer recurrence prediction. The system provides a case-based interpretation of its prediction, which is easier for doctors to understand, helping them assess the reliability of the system’s prediction and make their decisions accordingly. Our application and evaluation in a case study focusing on breast cancer recurrence prediction shows that the proposed system not only provides reasonably accurate predictions but is also well-received by oncologists.
+Keywords: Ensemble learning; Case-based reasoning; Breast cancer; Recurrence prediction; Case-based interpretation
+
+Khansa Rasheed, Adnan Qayyum, Mohammed Ghaly, Ala Al-Fuqaha, Adeel Razi, Junaid Qadir,
+Explainable, trustworthy, and ethical machine learning for healthcare: A survey,
+Computers in Biology and Medicine,
+Volume 149,
+2022,
+106043,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2022.106043.
+(https://www.sciencedirect.com/science/article/pii/S0010482522007569)
+Abstract: With the advent of machine learning (ML) and deep learning (DL) empowered applications for critical applications like healthcare, the questions about liability, trust, and interpretability of their outputs are raising. The black-box nature of various DL models is a roadblock to clinical utilization. Therefore, to gain the trust of clinicians and patients, we need to provide explanations about the decisions of models. With the promise of enhancing the trust and transparency of black-box models, researchers are in the phase of maturing the field of eXplainable ML (XML). In this paper, we provided a comprehensive review of explainable and interpretable ML techniques for various healthcare applications. Along with highlighting security, safety, and robustness challenges that hinder the trustworthiness of ML, we also discussed the ethical issues arising because of the use of ML/DL for healthcare. We also describe how explainable and trustworthy ML can resolve all these ethical problems. Finally, we elaborate on the limitations of existing approaches and highlight various open research problems that require further development.
+Keywords: Explainable machine learning; Interpretable machine learning; Trustworthiness; Healthcare
+
+Puneet Thapar, Manik Rakhra, Mahmood Alsaadi, Aadam Quraishi, Aniruddha Deka, Janjhyam Venkata Naga Ramesh,
+A hybrid Grasshopper optimization algorithm for skin lesion segmentation and melanoma classification using deep learning,
+Healthcare Analytics,
+Volume 5,
+2024,
+100326,
+ISSN 2772-4425,
+https://doi.org/10.1016/j.health.2024.100326.
+(https://www.sciencedirect.com/science/article/pii/S2772442524000285)
+Abstract: Skin cancer can be detected through visual examination and confirmed through dermoscopic analysis and various diagnostic tests. This is because visual observation enables early detection of unique skin images by artificial intelligence. Promising outcomes are shown by several Convolution Neural Network (CNN)–based skin lesion classification systems that employ tagged skin images. This study suggests a practical approach for identifying skin cancers using dermoscopy pictures, improving specialists' ability to distinguish benign from malignant tumors. The Swarm Intelligence (SI) approach used dermoscopy photographs to locate lesions on the skin areas Region of interest (ROI). The Grasshopper Optimization technique produced the best segmentation outcomes. The Speed-Up Robust Features (SURF) approach is applied to extract features based on these findings. Two groups were created using the ISIC-2017, ISIC-2018, and PH-2 databases to categorize skin tumors. With an estimated accuracy in classification of 98.52%, preciseness of 96.73%, and Matthews Correlation Coefficient (MCC) of 97.04%, the suggested classification and segmentation methodologies have been evaluated for classification efficacy, specificity, sensitivity, F-measure, preciseness, the MCC, the dice coefficient, and Jaccard's index. In every performance indicator, the method we suggest outperformed state-of-the-art methods.
+Keywords: Swarm intelligence; Grasshopper optimization algorithm; Speeded-up robust features; Melanoma classification; Dermoscopic analysis; Skin cancer
+
+Swathi Prabhu, Keerthana Prasad, Antonio Robels-Kelly, Xuequan Lu,
+AI-based carcinoma detection and classification using histopathological images: A systematic review,
+Computers in Biology and Medicine,
+Volume 142,
+2022,
+105209,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2022.105209.
+(https://www.sciencedirect.com/science/article/pii/S0010482522000014)
+Abstract: Histopathological image analysis is the gold standard to diagnose cancer. Carcinoma is a subtype of cancer that constitutes more than 80% of all cancer cases. Squamous cell carcinoma and adenocarcinoma are two major subtypes of carcinoma, diagnosed by microscopic study of biopsy slides. However, manual microscopic evaluation is a subjective and time-consuming process. Many researchers have reported methods to automate carcinoma detection and classification. The increasing use of artificial intelligence (AI) in the automation of carcinoma diagnosis also reveals a significant rise in the use of deep network models. In this systematic literature review, we present a comprehensive review of the state-of-the-art approaches reported in carcinoma diagnosis using histopathological images. Studies are selected from well-known databases with strict inclusion/exclusion criteria. We have categorized the articles and recapitulated their methods based on specific organs of carcinoma origin. Further, we have summarized pertinent literature on AI methods, highlighted critical challenges and limitations, and provided insights on future research direction in automated carcinoma diagnosis. Out of 101 articles selected, most of the studies experimented on private datasets with varied image sizes, obtaining accuracy between 63% and 100%. Overall, this review highlights the need for a generalized AI-based carcinoma diagnostic system. Additionally, it is desirable to have accountable approaches to extract microscopic features from images of multiple magnifications that should mimic pathologists′ evaluations.
+Keywords: Adenocarcinoma; Squamous cell carcinoma; Histopathology; Artificial intelligence; Deep learning; Diagnostic system
+
+Chenxi Huang, Jian Wang, Shuihua Wang, Yudong Zhang,
+Internet of medical things: A systematic review,
+Neurocomputing,
+Volume 557,
+2023,
+126719,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2023.126719.
+(https://www.sciencedirect.com/science/article/pii/S0925231223008421)
+Abstract: Internet of Medical Things (IoMT) refers to applying Internet of Things (IoT) into the medical field. The IoMT enables a medical system to connect various smart devices, such as wearable sensors, medical examination instruments, and hospital assets, for establishing an information platform. These smart devices act as the basic nodes in an IoMT system, collecting or generating health data and transmitting the data to the server for further processing and analysis. Physicians apply health data to make better medical decisions. Recently, the IoMT has been widely applied in many areas, including smart hospital, remote health monitoring, disease diagnosis, and infectious disease tracking. In this review, we investigated the IoMT from its concept and theory to its deployment domains, adopted technologies, and applications. We provided theoretical explanations with various examples and more than one hundred representative references. We also presented a cutting-edge discussion for the challenges and directions of the IoMT. We hoped that this systematic review would be beneficial to readers of all levels and backgrounds, including industry beginners, medical institution administrators, policy makers, and experienced researchers.
+Keywords: Internet of medical things; IoMT; Healthcare; Medical system; Sensors; Health monitoring; Smart hospital
+
+Mattia Giovanni Campana, Marco Colussi, Franca Delmastro, Sergio Mascetti, Elena Pagani,
+A Transfer Learning and Explainable Solution to Detect mpox from Smartphones images,
+Pervasive and Mobile Computing,
+Volume 98,
+2024,
+101874,
+ISSN 1574-1192,
+https://doi.org/10.1016/j.pmcj.2023.101874.
+(https://www.sciencedirect.com/science/article/pii/S1574119223001323)
+Abstract: Monkeypox (mpox) virus has become a “public health emergency of international concern” in the last few months, as declared by the World Health Organization, especially for low-income countries. A symptom of mpox infection is the appearance of rashes and skin eruptions, which can lead people to seek medical advice. A technology that might help perform a preliminary screening based on the aspect of skin lesions is the use of Machine Learning for image classification. However, to make this technology suitable on a large scale, it should be usable directly on people mobile devices, with a possible notification to a remote medical expert. In this work, we investigate the adoption of Deep Learning to detect mpox from skin lesion images derived from smartphone cameras. The proposal leverages Transfer Learning to cope with the scarce availability of mpox image datasets. As a first step, a homogeneous, unpolluted, dataset was produced by manual selection and preprocessing of available image data, publicly released for research purposes. Subsequently, we compared multiple Convolutional Neural Networks (CNNs) using a rigorous 10-fold stratified cross-validation approach and we conducted an analysis to evaluate the models’ fairness towards different skin tones. The best models have been then optimized through quantization for use on mobile devices; measures of classification quality, memory footprint, and processing times validated the feasibility of our proposal. The most favorable outcomes have been achieved by MobileNetV3Large, attaining an F-1 score of 0.928 in the binary task and 0.879 in the multi-class task. Furthermore, the application of quantization led to a reduction in the model size to less than one-third, while simultaneously decreasing the inference time from 0.016 to 0.014 s, with only a marginal loss of 0.004 in F-1 score. Additionally, the use of eXplainable AI has been investigated as a suitable instrument to both technically and clinically validate classification outcomes.
+Keywords: Deep Learning; m-health; Mpox; Monkeypox; Transfer learning; Mobile optimization
+
+Sangeetha S.K.B, Sandeep Kumar Mathivanan, P Karthikeyan, Hariharan Rajadurai, Basu Dev Shivahare, Saurav Mallik, Hong Qin,
+An enhanced multimodal fusion deep learning neural network for lung cancer classification,
+Systems and Soft Computing,
+Volume 6,
+2024,
+200068,
+ISSN 2772-9419,
+https://doi.org/10.1016/j.sasc.2023.200068.
+(https://www.sciencedirect.com/science/article/pii/S2772941923000212)
+Abstract: Cancer remains one of the leading causes of mortality worldwide, necessitating continuous advancements in early diagnosis and treatment. Deep learning, a subset of artificial intelligence, has emerged as a powerful tool in the field of medical image analysis, revolutionizing the way cancer is detected and diagnosed. The study discusses the various modalities employed in lung cancer diagnosis, such as medical imaging (e.g., radiology and pathology), genomics, and clinical data, highlighting the unique challenges associated with each domain. The proposed Multimodal Fusion Deep Neural Network (MFDNN) architecture design effectively integrates information from different modalities (e.g., medical imaging, genomics, clinical data) to enhance lung cancer diagnostic accuracy. Furthermore, it delves into the integration of clinical data, electronic health records, and multimodal approaches to improve the accuracy and reliability of lung cancer diagnosis. Moreover, we highlight the ethical considerations surrounding the deployment of Artificial Intelligence (AI) in clinical settings and the need for robust validation and regulatory guidelines. The Multimodal Fusion Deep Neural Network (MFDNN) achieves an exceptional accuracy rate of 92.5 %, marking a significant breakthrough in the realm of medical AI. MFDNN excels in precision, with 87.4 % accuracy in predicting cancer cases, and equally impresses in recall, capturing approximately 86.4 % of actual cancerous cases. The F1-score of 86.2 further exemplifies MFDNN's ability to strike a harmonious equilibrium, ensuring both diagnostic accuracy and minimized missed diagnoses. The performance is compared with established methods like CNN, DNN, and ResNet. The results underscore MFDNN's pivotal role in revolutionizing lung cancer diagnosis, promising more accurate and timely identification of this critical condition.
+Keywords: Multimodal fusion; Deep learning; Neural networks; Medical diagnosis; Lung cancer classification
+
+Yikai Yang, Eric W.T. Ngai, Lei Wang,
+Resistance to artificial intelligence in health care: Literature review, conceptual framework, and research agenda,
+Information & Management,
+Volume 61, Issue 4,
+2024,
+103961,
+ISSN 0378-7206,
+https://doi.org/10.1016/j.im.2024.103961.
+(https://www.sciencedirect.com/science/article/pii/S0378720624000430)
+Abstract: Resistance has historically been considered a salient obstacle to the implementation of information systems, including healthcare information technology. However, artificial intelligence in health care (AIH) reshapes the relationships among technologies, physicians, and patients, and the nature of resistance has thus been transformed. To gain a comprehensive understanding of this phenomenon, this study systematically examines resistance to AIH across health care providers and recipients by reviewing 94 articles. Combining innovation resistance theory and the sociotechnical perspective, we develop an overarching framework to synthesize research and provide agendas for future research. This study constitutes an initial guideline for understanding resistance to AIH.
+Keywords: Artificial intelligence; Health care; Resistance; Systematic literature review; Healthcare information technology
+
+Md Abdur Rahman, M. Shamim Hossain, Ahmad J. Showail, Nabil A. Alrajeh, Mohammed F. Alhamid,
+A secure, private, and explainable IoHT framework to support sustainable health monitoring in a smart city,
+Sustainable Cities and Society,
+Volume 72,
+2021,
+103083,
+ISSN 2210-6707,
+https://doi.org/10.1016/j.scs.2021.103083.
+(https://www.sciencedirect.com/science/article/pii/S221067072100367X)
+Abstract: Internet of Health Things (IoHT) have allowed connected health paradigm ubiquitous. 5 G supported healthcare vertical allows IoHT to offer connected health monitoring with quality of service and ultra-low latency. Deep learning has shown potential in processing massive amount of IoHT data that are generated daily, automate connected healthcare workflows, and help in decision making processes. However, three important challenges need to be addressed to attain long term healthcare-related sustainability – data security, data privacy, and social acceptance of deep learning process. In this paper, we propose a framework that will allow healthcare sustainability through the following contributions 1) ensure privacy of training dataset, 2) support the aggregation of the global model gradients through a private Blockchain-brokered entity, 3) support trustworthiness and provenance of the federated clients by blockchain and off-chain, 4) share the dataset, train the model and share trained model among the federated clients in an encrypted fashion, and 5) add explainability and reasoning of deep learning process to make the model acceptable by the society. We will present the detailed design of our proposed sustainable system, the implementation details and test results. The test results show promising prospect of achieving sustainability of IoHT-enabled connected health applications.
+Keywords: Sustainable cities; Blockchain; Off-chain; Connected living; 5G healthcare vertical; Internet of health things; Explainable AI
+
+Natalia Norori, Qiyang Hu, Florence Marcelle Aellen, Francesca Dalia Faraci, Athina Tzovara,
+Addressing bias in big data and AI for health care: A call for open science,
+Patterns,
+Volume 2, Issue 10,
+2021,
+100347,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2021.100347.
+(https://www.sciencedirect.com/science/article/pii/S2666389921002026)
+Abstract: Summary
+Artificial intelligence (AI) has an astonishing potential in assisting clinical decision making and revolutionizing the field of health care. A major open challenge that AI will need to address before its integration in the clinical routine is that of algorithmic bias. Most AI algorithms need big datasets to learn from, but several groups of the human population have a long history of being absent or misrepresented in existing biomedical datasets. If the training data is misrepresentative of the population variability, AI is prone to reinforcing bias, which can lead to fatal outcomes, misdiagnoses, and lack of generalization. Here, we describe the challenges in rendering AI algorithms fairer, and we propose concrete steps for addressing bias using tools from the field of open science.
+Keywords: artificial intelligence; deep learning; health care; bias; open science; participatory science; data standards
+
+Edmond Awad, Sydney Levine, Michael Anderson, Susan Leigh Anderson, Vincent Conitzer, M.J. Crockett, Jim A.C. Everett, Theodoros Evgeniou, Alison Gopnik, Julian C. Jamison, Tae Wan Kim, S. Matthew Liao, Michelle N. Meyer, John Mikhail, Kweku Opoku-Agyemang, Jana Schaich Borg, Juliana Schroeder, Walter Sinnott-Armstrong, Marija Slavkovik, Josh B. Tenenbaum,
+Computational ethics,
+Trends in Cognitive Sciences,
+Volume 26, Issue 5,
+2022,
+Pages 388-405,
+ISSN 1364-6613,
+https://doi.org/10.1016/j.tics.2022.02.009.
+(https://www.sciencedirect.com/science/article/pii/S1364661322000456)
+Abstract: Technological advances are enabling roles for machines that present novel ethical challenges. The study of 'AI ethics' has emerged to confront these challenges, and connects perspectives from philosophy, computer science, law, and economics. Less represented in these interdisciplinary efforts is the perspective of cognitive science. We propose a framework – computational ethics – that specifies how the ethical challenges of AI can be partially addressed by incorporating the study of human moral decision-making. The driver of this framework is a computational version of reflective equilibrium (RE), an approach that seeks coherence between considered judgments and governing principles. The framework has two goals: (i) to inform the engineering of ethical AI systems, and (ii) to characterize human moral judgment and decision-making in computational terms. Working jointly towards these two goals will create the opportunity to integrate diverse research questions, bring together multiple academic communities, uncover new interdisciplinary research topics, and shed light on centuries-old philosophical questions.
+Keywords: ethics; computation; moral psychology; AI ethics; machine ethics; moral cognition
+
+Mohammad Yaseliani, Abtin Ijadi Maghsoodi, Erfan Hassannayebi, Uwe Aickelin,
+Diagnostic clinical decision support based on deep learning and knowledge-based systems for psoriasis: From diagnosis to treatment options,
+Computers & Industrial Engineering,
+Volume 187,
+2024,
+109754,
+ISSN 0360-8352,
+https://doi.org/10.1016/j.cie.2023.109754.
+(https://www.sciencedirect.com/science/article/pii/S0360835223007787)
+Abstract: Psoriasis is an acute immuno-dermatological disease, affecting people of all ages, which significantly decreases quality of life. While the standard approach to identification and diagnosis of psoriasis is based on dermatologist decisions, various Deep Learning (DL) methods have been utilized to create Computer-Aided Diagnosis (CAD) systems to detect and classify psoriasis cases. In response to the knowledge gap of an existing practical and functional DL-based solution to psoriasis diagnosis, this study proposed an ensemble Convolutional Neural Network (CNN) model using Residual Network 50 Version 2 (ResNet50V2), ResNet101V2, and ResNet152V2 networks to create a CAD system for detecting and classifying psoriatic images. This ensemble model determines whether an input image is psoriatic using a binary classification procedure in the initial stage and classifies the psoriatic images into seven variants utilizing a multi-class classification. Furthermore, a treatment suggestion system was embedded within the diagnostic algorithm to suggest the best treatment options for psoriasis variants using a Multi-Criteria Decision Making (MCDM) method with the aim of reducing the disease symptoms in patients. A web-based Decision and Diagnostic Support System (D&DSS) is constructed to determine whether an input image is psoriatic, classify the psoriatic images into different variants, and accordingly recommend the best treatment options based on the observed disease symptoms in a patient. Nevertheless, the functionality and reliability of the proposed D&DSS are validated with high accuracy rates in both diagnostic and identification stages of the approach, which ratifies the practicality of this proposition.
+Keywords: Convolutional Neural Network (CNN); Residual Network Version 2 (ResNetV2); Multi-Criteria Decision Making (MCDM); MulTi-noRmalisation mUlti-Distance aSsessmenT (TRUST); Treatment Suggestion; Computer-Aided Diagnosis; Psoriasis
+
+Hammad A. Qureshi, Runjan Chetty, Jogile Kuklyte, Karl Ratcliff, Maria Morrissey, Caitriona Lyons, Mairin Rafferty,
+Synergies and Challenges in the Preclinical and Clinical Implementation of Pathology Artificial Intelligence Applications,
+Mayo Clinic Proceedings: Digital Health,
+Volume 1, Issue 4,
+2023,
+Pages 601-613,
+ISSN 2949-7612,
+https://doi.org/10.1016/j.mcpdig.2023.08.007.
+(https://www.sciencedirect.com/science/article/pii/S2949761223000755)
+Abstract: Recent introduction of digitalization in pathology has disrupted the field greatly with the potential to change the area immensely. Digital pathology has created the potential of applying advanced quantitative analysis and artificial intelligence (AI) to the domain. In this study, we present an overview of what pathology AI applications have the greatest potential of widespread adoption in the preclinical domain and subsequently, in the clinical setting. We also discuss the major challenges in AI adoption being faced by the field of digital and computational pathology. We review the research literature in the domain and present a detailed analysis of the most promising areas of digital and computational pathology AI research and identify applications that are likely to see the first adoptions of AI technology. Our analysis shows that certain areas and fields of application have received more attention and can potentially affect the field of digital and computational pathology more favorably, leading to the advancement of the field. We also present the main challenges that are faced by the field and provide a comparative analysis of various aspects that are likely to influence the field for the long term in the future.
+
+Haiwen Gui, Jesutofunmi A. Omiye, Crystal T. Chang, Roxana Daneshjou,
+The Promises and Perils of Foundation Models in Dermatology,
+Journal of Investigative Dermatology,
+2024,
+,
+ISSN 0022-202X,
+https://doi.org/10.1016/j.jid.2023.12.019.
+(https://www.sciencedirect.com/science/article/pii/S0022202X24000186)
+Abstract: Foundation models (FM), which are large-scale artificial intelligence (AI) models that can complete a range of tasks, represent a paradigm shift in AI. These versatile models encompass large language models, vision-language models, and multimodal models. Although these models are often trained for broad tasks, they have been applied either out of the box or after additional fine tuning to tasks in medicine, including dermatology. From addressing administrative tasks to answering dermatology questions, these models are poised to have an impact on dermatology care delivery. As FMs become more ubiquitous in health care, it is important for clinicians and dermatologists to have a basic understanding of how these models are developed, what they are capable of, and what pitfalls exist. In this paper, we present a comprehensive yet accessible overview of the current state of FMs and summarize their current applications in dermatology, highlight their limitations, and discuss future developments in the field.
+Keywords: Artificial intelligence; Foundation model; Large language model; Multimodal model; Vision language model
+
+Maryam Fallahpoor, Subrata Chakraborty, Biswajeet Pradhan, Oliver Faust, Prabal Datta Barua, Hossein Chegeni, Rajendra Acharya,
+Deep learning techniques in PET/CT imaging: A comprehensive review from sinogram to image space,
+Computer Methods and Programs in Biomedicine,
+Volume 243,
+2024,
+107880,
+ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2023.107880.
+(https://www.sciencedirect.com/science/article/pii/S0169260723005461)
+Abstract: Positron emission tomography/computed tomography (PET/CT) is increasingly used in oncology, neurology, cardiology, and emerging medical fields. The success stems from the cohesive information that hybrid PET/CT imaging offers, surpassing the capabilities of individual modalities when used in isolation for different malignancies. However, manual image interpretation requires extensive disease-specific knowledge, and it is a time-consuming aspect of physicians' daily routines. Deep learning algorithms, akin to a practitioner during training, extract knowledge from images to facilitate the diagnosis process by detecting symptoms and enhancing images. This acquired knowledge aids in supporting the diagnosis process through symptom detection and image enhancement. The available review papers on PET/CT imaging have a drawback as they either included additional modalities or examined various types of AI applications. However, there has been a lack of comprehensive investigation specifically focused on the highly specific use of AI, and deep learning, on PET/CT images. This review aims to fill that gap by investigating the characteristics of approaches used in papers that employed deep learning for PET/CT imaging. Within the review, we identified 99 studies published between 2017 and 2022 that applied deep learning to PET/CT images. We also identified the best pre-processing algorithms and the most effective deep learning models reported for PET/CT while highlighting the current limitations. Our review underscores the potential of deep learning (DL) in PET/CT imaging, with successful applications in lesion detection, tumor segmentation, and disease classification in both sinogram and image spaces. Common and specific pre-processing techniques are also discussed. DL algorithms excel at extracting meaningful features, and enhancing accuracy and efficiency in diagnosis. However, limitations arise from the scarcity of annotated datasets and challenges in explainability and uncertainty. Recent DL models, such as attention-based models, generative models, multi-modal models, graph convolutional networks, and transformers, are promising for improving PET/CT studies. Additionally, radiomics has garnered attention for tumor classification and predicting patient outcomes. Ongoing research is crucial to explore new applications and improve the accuracy of DL models in this rapidly evolving field.
+Keywords: Positron emission tomography/computed tomography (PET/CT); Deep learning; Pre-processing; Detection; Image enhancement; Attenuation correction
+
+Chetan L. Srinidhi, Ozan Ciga, Anne L. Martel,
+Deep neural network models for computational histopathology: A survey,
+Medical Image Analysis,
+Volume 67,
+2021,
+101813,
+ISSN 1361-8415,
+https://doi.org/10.1016/j.media.2020.101813.
+(https://www.sciencedirect.com/science/article/pii/S1361841520301778)
+Abstract: Histopathological images contain rich phenotypic information that can be used to monitor underlying mechanisms contributing to disease progression and patient survival outcomes. Recently, deep learning has become the mainstream methodological choice for analyzing and interpreting histology images. In this paper, we present a comprehensive review of state-of-the-art deep learning approaches that have been used in the context of histopathological image analysis. From the survey of over 130 papers, we review the field’s progress based on the methodological aspect of different machine learning strategies such as supervised, weakly supervised, unsupervised, transfer learning and various other sub-variants of these methods. We also provide an overview of deep learning based survival models that are applicable for disease-specific prognosis tasks. Finally, we summarize several existing open datasets and highlight critical challenges and limitations with current deep learning approaches, along with possible avenues for future research.
+Keywords: Deep learning; Convolutional neural networks; Computational histopathology; Digital pathology; Histology image analysis; Survey; Review
+
+Luigi Manco, Nicola Maffei, Silvia Strolin, Sara Vichi, Luca Bottazzi, Lidia Strigari,
+Basic of machine learning and deep learning in imaging for medical physicists,
+Physica Medica,
+Volume 83,
+2021,
+Pages 194-205,
+ISSN 1120-1797,
+https://doi.org/10.1016/j.ejmp.2021.03.026.
+(https://www.sciencedirect.com/science/article/pii/S1120179721001435)
+Abstract: The manuscript aims at providing an overview of the published algorithms/automation tool for artificial intelligence applied to imaging for Healthcare. A PubMed search was performed using the query string to identify the proposed approaches (algorithms/automation tools) for artificial intelligence (machine and deep learning) in a 5-year period. The distribution of manuscript in the various disciplines and the investigated image types according to the AI approaches are presented. The limitation and opportunity of AI application in the clinical practice or in the next future research is discussed.
+Keywords: Imaging; Artificial intelligence; Machine Learning; deep Learning
+
+Saranya A., Subhashini R.,
+A systematic review of Explainable Artificial Intelligence models and applications: Recent developments and future trends,
+Decision Analytics Journal,
+Volume 7,
+2023,
+100230,
+ISSN 2772-6622,
+https://doi.org/10.1016/j.dajour.2023.100230.
+(https://www.sciencedirect.com/science/article/pii/S277266222300070X)
+Abstract: Artificial Intelligence (AI) uses systems and machines to simulate human intelligence and solve common real-world problems. Machine learning and deep learning are Artificial intelligence technologies that use algorithms to predict outcomes more accurately without relying on human intervention. However, the opaque black box model and cumulative model complexity can be used to achieve. Explainable Artificial Intelligence (XAI) is a term that refers to Artificial Intelligence (AI) that can provide explanations for their decision or predictions to human users. XAI aims to increase the transparency, trustworthiness and accountability of AI system, especially when they are used for high-stakes application such as healthcare, finance or security. This paper offers systematic literature review of XAI approaches with different application and observes 91 recently published articles describing XAI development and applications in healthcare, manufacturing, transportation, and finance. We investigated the Scopus, Web of Science, IEEE Xplore and PubMed databases, to find the pertinent publications published between January 2018 to October 2022. It contains the published research on XAI modelling that were retrieved from scholarly databases using pertinent keyword searches. We think that our systematic review extends to the literature on XAI by working as a roadmap for further research in the field.
+Keywords: Artificial Intelligence; Machine learning; Deep learning; Explanation; Explainable Artificial Intelligence; HealthCare
+
+Viomesh Singh, Kavita A. Sultanpure, Harshwardhan Patil,
+Frontier machine learning techniques for melanoma skin cancer identification and categorization: An in-Depth review,
+Oral Oncology Reports,
+Volume 9,
+2024,
+100217,
+ISSN 2772-9060,
+https://doi.org/10.1016/j.oor.2024.100217.
+(https://www.sciencedirect.com/science/article/pii/S2772906024000633)
+Abstract: Skin cancer stands as one of the prevalent and life-threatening malignancies, witnessing a substantial global surge in reported cases. Failure to diagnose it at its incipient stages may lead to metastasis, significantly elevating mortality rates. Early detection, however, presents a curative prospect. Thus, the prompt and precise diagnosis of skin cancers remains a paramount focus in current research. Numerous machine learning techniques have been seamlessly woven into the fascinating world of computer-aided skin cancer diagnosis and figuring out if that blemish is a real troublemaker. Machine learning is like the Sherlock Holmes of artificial intelligence. It's got these brainy models and algorithms that not only soak up information but also play psychic by predicting stuff on brand new data it's never laid eyes on before. In contrast to the conventional biopsy method, which is both laborious and costly, machine learning algorithms offer a viable alternative for early detection, reducing the burden on specialists while concurrently augmenting the diagnostic accuracy of skin lesions. In this article we delve into a thorough exploration of cutting-edge machine learning methods that play a crucial role in identifying those sneaky signs of skin cancer. I took a deep dive into the pool of relevant studies, offering you an insider's look into the performance of the friendly neighborhood the k-nearest neighbor approach, the robust SVM, and the sophisticated CNN. In the review we Openly discussed the inherent limitations and quirks of each algorithm, affording them the spotlight they deserve.
+Keywords: Skin cancer; Machine learning; Melanoma; Artificial Intelligence
+
+Tarek Khater, Sam Ansari, Soliman Mahmoud, Abir Hussain, Hissam Tawfik,
+Skin cancer classification using explainable artificial intelligence on pre-extracted image features,
+Intelligent Systems with Applications,
+Volume 20,
+2023,
+200275,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2023.200275.
+(https://www.sciencedirect.com/science/article/pii/S266730532300100X)
+Abstract: Skin cancer is the most common type of cancer worldwide, affecting a large population recently. To date, various machine learning techniques exploiting skin images have been applied directly to skin cancer classification, showing promising results in improving diagnostic accuracy. This study aims to develop a machine learning-based model capable of accurately classifying skin cancer by utilizing extracted features from preprocessed images in the publicly available PH² dataset. Preprocessed features are known to provide more significant information than raw image data, as they capture specific characteristics of the images that are relevant to the classification task. The proposed model of this study can identify the most pertinent information in the images more accurately, thereby improving the performance and interpretability of the machine learning classification. Our simulation results illustrate that employing XG-boost yields an accuracy of 94% and an area under the curve value of 0.9947, further indicating that the proposed technique effectively distinguishes between non-melanoma and melanoma skin cancer. Explainable artificial intelligence provides some explanations by leveraging model-agnostic methods such as partial dependence plot, permutation importance, and SHAP. Moreover, the explainable artificial intelligence results show that asymmetry and pigment network features are the most important feature in the classification of skin cancer. These specific characteristics emerge as the most influential factors in distinguishing between different types of skin cancer.
+Keywords: Artificial intelligence; Classification; Preprocessed images; Skin cancer; SHAP
+
+Esma Mansouri-Benssassi, Simon Rogers, Smarti Reel, Maeve Malone, Jim Smith, Felix Ritchie, Emily Jefferson,
+Disclosure control of machine learning models from trusted research environments (TRE): New challenges and opportunities,
+Heliyon,
+Volume 9, Issue 4,
+2023,
+e15143,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2023.e15143.
+(https://www.sciencedirect.com/science/article/pii/S2405844023023502)
+Abstract: Introduction
+Artificial intelligence (AI) applications in healthcare and medicine have increased in recent years. To enable access to personal data, Trusted Research Environments (TREs) (otherwise known as Safe Havens) provide safe and secure environments in which researchers can access sensitive personal data and develop AI (in particular machine learning (ML)) models. However, currently few TREs support the training of ML models in part due to a gap in the practical decision-making guidance for TREs in handling model disclosure. Specifically, the training of ML models creates a need to disclose new types of outputs from TREs. Although TREs have clear policies for the disclosure of statistical outputs, the extent to which trained models can leak personal training data once released is not well understood.
+Background
+We review, for a general audience, different types of ML models and their applicability within healthcare. We explain the outputs from training a ML model and how trained ML models can be vulnerable to external attacks to discover personal data encoded within the model.
+Risks
+We present the challenges for disclosure control of trained ML models in the context of training and exporting models from TREs. We provide insights and analyse methods that could be introduced within TREs to mitigate the risk of privacy breaches when disclosing trained models.
+Discussion
+Although specific guidelines and policies exist for statistical disclosure controls in TREs, they do not satisfactorily address these new types of output requests; i.e., trained ML models. There is significant potential for new interdisciplinary research opportunities in developing and adapting policies and tools for safely disclosing ML outputs from TREs.
+Keywords: Trusted research environment; Safe haven; AI; Machine learning; Data privacy; Disclosure control
+
+Jonas F.R. Schaarup, Ravi Aggarwal, Else-Marie Dalsgaard, Kasper Norman, Ole Lindgård Dollerup, Hutan Ashrafian, Daniel R. Witte, Annelli Sandbæk, Adam Hulman,
+Perception of artificial intelligence-based solutions in healthcare among people with and without diabetes: A cross-sectional survey from the health in Central Denmark cohort,
+Diabetes Epidemiology and Management,
+Volume 9,
+2023,
+100114,
+ISSN 2666-9706,
+https://doi.org/10.1016/j.deman.2022.100114.
+(https://www.sciencedirect.com/science/article/pii/S2666970622000646)
+Abstract: Background
+Patients’ acceptance of artificial intelligence (AI) based health-related technologies depend strongly on their perception and trust of AI. This research field has not been studied extensively, especially among people living with diabetes. A large proportion of them frequently use health technologies in their everyday lives to manage their condition, which may make them more prepared to adopt AI-based solutions. Our study aimed to investigate the perception of AI-based solutions in healthcare, and characteristics associated with positive attitudes towards AI among people with and without diabetes.
+Methods
+An online survey was sent to 12,755 participants in the Health in Central Denmark cohort, including 10 questions and six scenarios related to current technology use, data sharing, and AI. The question on benefits and risks of AI, and the responses to the scenarios were used as outcomes. Multinomial logistic regression was used to examine which characteristics were associated with seeing the benefit of AI over the risks, including diabetes status, age, sex, education, health literacy, the use of wearable devices, and views on data sharing. A similar analysis was conducted on the acceptance of AI-based solutions in healthcare-related scenarios.
+Findings
+8,420 participants responded to the survey. Most participants (88%) had previously heard about AI. 46% of participants agreed with the statement that the benefits of AI outweigh the risks, while only 2% agreed with the opposite statement, and 30% were unsure. We did not find evidence for a differential opinion by diabetes status. Having diabetes was associated with less openness to replace healthcare professionals by AI-based technologies, although most people were still open to AI if controlled by humans.
+Interpretation
+Despite the generally positive perception of AI and its benefits to healthcare, human interaction seemed to play an important role in defining positive attitudes to AI across different healthcare scenarios, especially among people with diabetes. This highlights the pressing need for a patient-centered development process of AI-based solutions in the future.
+Keywords: artificial intelligence; perception; technology; healthcare; Diabetes; survey; Epidemiology
+
+Thomas E. Tavolara, Ziyu Su, Metin N. Gurcan, M. Khalid Khan Niazi,
+One label is all you need: Interpretable AI-enhanced histopathology for oncology,
+Seminars in Cancer Biology,
+Volume 97,
+2023,
+Pages 70-85,
+ISSN 1044-579X,
+https://doi.org/10.1016/j.semcancer.2023.09.006.
+(https://www.sciencedirect.com/science/article/pii/S1044579X23001281)
+Abstract: Artificial Intelligence (AI)-enhanced histopathology presents unprecedented opportunities to benefit oncology through interpretable methods that require only one overall label per hematoxylin and eosin (H&E) slide with no tissue-level annotations. We present a structured review of these methods organized by their degree of verifiability and by commonly recurring application areas in oncological characterization. First, we discuss morphological markers (tumor presence/absence, metastases, subtypes, grades) in which AI-identified regions of interest (ROIs) within whole slide images (WSIs) verifiably overlap with pathologist-identified ROIs. Second, we discuss molecular markers (gene expression, molecular subtyping) that are not verified via H&E but rather based on overlap with positive regions on adjacent tissue. Third, we discuss genetic markers (mutations, mutational burden, microsatellite instability, chromosomal instability) that current technologies cannot verify if AI methods spatially resolve specific genetic alterations. Fourth, we discuss the direct prediction of survival to which AI-identified histopathological features quantitatively correlate but are nonetheless not mechanistically verifiable. Finally, we discuss in detail several opportunities and challenges for these one-label-per-slide methods within oncology. Opportunities include reducing the cost of research and clinical care, reducing the workload of clinicians, personalized medicine, and unlocking the full potential of histopathology through new imaging-based biomarkers. Current challenges include explainability and interpretability, validation via adjacent tissue sections, reproducibility, data availability, computational needs, data requirements, domain adaptability, external validation, dataset imbalances, and finally commercialization and clinical potential. Ultimately, the relative ease and minimum upfront cost with which relevant data can be collected in addition to the plethora of available AI methods for outcome-driven analysis will surmount these current limitations and achieve the innumerable opportunities associated with AI-driven histopathology for the benefit of oncology.
+Keywords: Artificial intelligence; Weakly supervised; Multiple instance learning; Histopathology; Verifiable AI; Interpretable AI; Explainable AI; Morphological markers; Tumor detection; Metastasis; Tumor subtyping; Tumor grading; Molecular markers; Gene expression; Molecular subtyping; Genetic markers; Mutational burden; Microsatellite instability; Chromosomal instability; Homologous recombination deficiency
+
+Razia Sulthana A, Vinay Chamola, Zain Hussain, Faisal Albalwy, Amir Hussain,
+A novel end-to-end deep convolutional neural network based skin lesion classification framework,
+Expert Systems with Applications,
+Volume 246,
+2024,
+123056,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2023.123056.
+(https://www.sciencedirect.com/science/article/pii/S0957417423035583)
+Abstract: Background:
+Skin diseases are reported to contribute 1.79% of the global burden of disease. The accurate diagnosis of specific skin diseases is known to be a challenging task due, in part, to variations in skin tone, texture, body hair, etc. Classification of skin lesions using machine learning is a demanding task, due to the varying shapes, sizes, colors, and vague boundaries of some lesions. The use of deep learning for the classification of skin lesion images has been shown to help diagnose the disease at its early stages. Recent studies have demonstrated that these models perform well in skin detection tasks, with high accuracy and efficiency.
+Objective:
+Our paper proposes an end-to-end framework for skin lesion classification, and our contributions are two-fold. Firstly, two fundamentally different algorithms are proposed for segmenting and extracting features from images during image preprocessing. Secondly, we present a deep convolutional neural network model, S-MobileNet that aims to classify 7 different types of skin lesions.
+Methods:
+We used the HAM10000 dataset, which consists of 10000 dermatoscopic images from different populations and is publicly available through the International Skin Imaging Collaboration (ISIC) Archive. The image data was preprocessed to make it suitable for modeling. Exploratory data analysis (EDA) was performed to understand various attributes and their relationships within the dataset. A modified version of a Gaussian filtering algorithm and SFTA was applied for image segmentation and feature extraction. The processed dataset was then fed into the S-MobileNet model. This model was designed to be lightweight and was analyzed in three dimensions: using the Relu Activation function, the Mish activation function, and applying compression at intermediary layers. In addition, an alternative approach for compressing layers in the S-MobileNet architecture was applied to ensure a lightweight model that does not compromise on performance.
+Results:
+The model was trained using several experiments and assessed using various performance measures, including, loss, accuracy, precision, and the F1-score. Our results demonstrate an improvement in model performance when applying a preprocessing technique. The Mish activation function was shown to outperform Relu. Further, the classification accuracy of the compressed S-MobileNet was shown to outperform S-MobileNet.
+Conclusions:
+To conclude, our findings have shown that our proposed deep learning-based S-MobileNet model is the optimal approach for classifying skin lesion images in the HAM10000 dataset. In the future, our approach could be adapted and applied to other datasets, and validated to develop a skin lesion framework that can be utilized in real-time.
+Keywords: Skin lesion; Image segmentation; Classification; Deep learning; Convolution neural network; MobileNet
+
+Andrzej Grzybowski, Kai Jin, Hongkang Wu,
+Challenges of artificial intelligence in medicine and dermatology,
+Clinics in Dermatology,
+2024,
+,
+ISSN 0738-081X,
+https://doi.org/10.1016/j.clindermatol.2023.12.013.
+(https://www.sciencedirect.com/science/article/pii/S0738081X23002651)
+Abstract: Artificial intelligence (AI) in medicine and dermatology brings additional challenges related to bias, transparency, ethics, security, and inequality. Bias in AI algorithms can arise from biased training data or decision-making processes, leading to disparities in health care outcomes. Addressing bias requires careful examination of the data used to train AI models and implementation of strategies to mitigate bias during algorithm development. Transparency is another critical challenge, as AI systems often operate as black boxes, making it difficult to understand how decisions are reached. Ensuring transparency in AI algorithms is vital to gaining trust from both patients and health care providers. Ethical considerations arise when using AI in health care, including issues such as informed consent, privacy, and the responsibility for the decisions made by AI systems. It is essential to establish clear guidelines and frameworks that govern the ethical use of AI, including maintaining patient autonomy and protecting sensitive health information. Security is a significant concern in AI systems, as they rely on vast amounts of sensitive patient data. Protecting these data from unauthorized access, breaches, or malicious attacks is paramount to maintaining patient privacy and trust in AI technologies. Lastly, the potential for inequality arises if AI technologies are not accessible to all populations, leading to a digital divide in health care. Efforts should be made to ensure that AI solutions are affordable, accessible, and tailored to the needs of diverse communities, mitigating the risk of exacerbating existing health care disparities. Addressing these challenges is crucial for AI's responsible and equitable integration in medicine and dermatology.

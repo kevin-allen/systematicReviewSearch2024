@@ -1,0 +1,35 @@
+Chetan L. Srinidhi, Ozan Ciga, Anne L. Martel,
+Deep neural network models for computational histopathology: A survey,
+Medical Image Analysis,
+Volume 67,
+2021,
+101813,
+ISSN 1361-8415,
+https://doi.org/10.1016/j.media.2020.101813.
+(https://www.sciencedirect.com/science/article/pii/S1361841520301778)
+Abstract: Histopathological images contain rich phenotypic information that can be used to monitor underlying mechanisms contributing to disease progression and patient survival outcomes. Recently, deep learning has become the mainstream methodological choice for analyzing and interpreting histology images. In this paper, we present a comprehensive review of state-of-the-art deep learning approaches that have been used in the context of histopathological image analysis. From the survey of over 130 papers, we review the field’s progress based on the methodological aspect of different machine learning strategies such as supervised, weakly supervised, unsupervised, transfer learning and various other sub-variants of these methods. We also provide an overview of deep learning based survival models that are applicable for disease-specific prognosis tasks. Finally, we summarize several existing open datasets and highlight critical challenges and limitations with current deep learning approaches, along with possible avenues for future research.
+Keywords: Deep learning; Convolutional neural networks; Computational histopathology; Digital pathology; Histology image analysis; Survey; Review
+
+Ciro Mennella, Umberto Maniscalco, Giuseppe De Pietro, Massimo Esposito,
+Ethical and regulatory challenges of AI technologies in healthcare: A narrative review,
+Heliyon,
+Volume 10, Issue 4,
+2024,
+e26297,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2024.e26297.
+(https://www.sciencedirect.com/science/article/pii/S2405844024023284)
+Abstract: Over the past decade, there has been a notable surge in AI-driven research, specifically geared toward enhancing crucial clinical processes and outcomes. The potential of AI-powered decision support systems to streamline clinical workflows, assist in diagnostics, and enable personalized treatment is increasingly evident. Nevertheless, the introduction of these cutting-edge solutions poses substantial challenges in clinical and care environments, necessitating a thorough exploration of ethical, legal, and regulatory considerations. A robust governance framework is imperative to foster the acceptance and successful implementation of AI in healthcare. This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice. It not only provides a comprehensive overview of the role of AI technologies but also offers an insightful perspective on the ethical and regulatory challenges, making a pioneering contribution to the field. This research aims to address the current challenges in digital healthcare by presenting valuable recommendations for all stakeholders eager to advance the development and implementation of innovative AI systems.
+Keywords: Artificial intelligence; Technologies; Decision-making; Healthcare; Ethics; Regulatory guidelines
+
+Andreas Holzinger, Matthias Dehmer, Frank Emmert-Streib, Rita Cucchiara, Isabelle Augenstein, Javier Del Ser, Wojciech Samek, Igor Jurisica, Natalia Díaz-Rodríguez,
+Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence,
+Information Fusion,
+Volume 79,
+2022,
+Pages 263-278,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2021.10.007.
+(https://www.sciencedirect.com/science/article/pii/S1566253521002050)
+Abstract: Medical artificial intelligence (AI) systems have been remarkably successful, even outperforming human performance at certain tasks. There is no doubt that AI is important to improve human health in many ways and will disrupt various medical workflows in the future. Using AI to solve problems in medicine beyond the lab, in routine environments, we need to do more than to just improve the performance of existing AI methods. Robust AI solutions must be able to cope with imprecision, missing and incorrect information, and explain both the result and the process of how it was obtained to a medical expert. Using conceptual knowledge as a guiding model of reality can help to develop more robust, explainable, and less biased machine learning models that can ideally learn from less data. Achieving these goals will require an orchestrated effort that combines three complementary Frontier Research Areas: (1) Complex Networks and their Inference, (2) Graph causal models and counterfactuals, and (3) Verification and Explainability methods. The goal of this paper is to describe these three areas from a unified view and to motivate how information fusion in a comprehensive and integrative manner can not only help bring these three areas together, but also have a transformative role by bridging the gap between research and practical applications in the context of future trustworthy medical AI. This makes it imperative to include ethical and legal aspects as a cross-cutting discipline, because all future solutions must not only be ethically responsible, but also legally compliant.
+Keywords: Artificial intelligence; Information fusion; Medical AI; Explainable AI; Robustness; Explainability; Trust; Graph-based machine learning; Neural-symbolic learning and reasoning

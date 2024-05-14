@@ -1,0 +1,222 @@
+,title,year,queryIds
+0,Radiomics in Antineoplastic Agents Development: Application and Challenge in Response Evaluation,2021,"['1', '3']"
+1,A fuzzy convolutional attention-based GRU network for human activity recognition,2023,['1']
+2,"A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion",2023,"['1', '2', '3', '5', '9']"
+3,Perspectives: A surgeon's guide to machine learning,2021,"['1', '2', '3']"
+4,AI in medical diagnosis: AI prediction & human judgment,2024,"['1', '2', '3', '5', '9']"
+5,"From patterns to patients: Advances in clinical machine learning for cancer diagnosis, prognosis, and treatment",2023,"['1', '2', '3']"
+6,Human and artificial cognition,2022,"['1', '2', '3', '5', '9']"
+7,Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI,2021,"['2', '3', '9']"
+8,"Resistance to artificial intelligence in health care: Literature review, conceptual framework, and research agenda",2024,"['2', '3', '9']"
+9,Machine gaze in online behavioral targeting: The effects of algorithmic human likeness on social presence and social influence,2021,"['2', '3', '9']"
+10,Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension,2020,"['2', '3']"
+11,Designing interpretable ML system to enhance trust in healthcare: A systematic review to proposed responsible clinician-AI-collaboration framework,2024,"['2', '3', '9']"
+12,Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension,2020,"['2', '3']"
+13,Opportunities of artificial intelligence for supporting complex problem-solving: Findings from a scoping review,2023,"['2', '3']"
+14,AI-enabled investment advice: Will users buy it?,2023,['3']
+15,Preventing the generation of inconsistent sets of crisp classification rules,2021,['3']
+16,RBM-GP with novel kernels coupled deep learning model for autism screening,2022,['3']
+17,Domesticating AI in medical diagnosis,2024,['3']
+18,Combining the strengths of radiologists and AI for breast cancer screening: a retrospective analysis,2022,['3']
+19,When AI doctors lie about diagnosis: The effects of varying degrees of prosocial lies in patient–AI interactions,2024,['3']
+20,What makes AI ‘intelligent’ and ‘caring’? Exploring affect and relationality across three sites of intelligence and care,2021,['3']
+21,ChatGPT or Bard: Who is a better Certified Ethical Hacker?,2024,['3']
+22,DeepThInk: Designing and probing human-AI co-creation in digital art therapy,2024,['3']
+23,Introduction of human-centric AI assistant to aid radiologists for multimodal breast image classification,2021,"[' 3', '10']"
+24,Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study,2022,['3']
+25,Explainability and causability for artificial intelligence-supported medical image analysis in the context of the European In Vitro Diagnostic Regulation,2022,"[' 3', '10']"
+26,Forecasting performance of wavelet neural networks and other neural network topologies: A comparative study based on financial market data sets,2022,['3']
+27,Lack of Effectiveness of Computer Aided Detection for Colorectal Neoplasia: A Systematic Review and Meta-Analysis of Nonrandomized Studies,,['3']
+28,Understanding the factors influencing acceptability of AI in medical imaging domains among healthcare professionals: A scoping review,2024,"[' 3', '10']"
+29,Hybrid Intelligence in Production Systems and Its Effects on Human Work: Insights from Four Use-Cases,2024,['3']
+30,Improving the Accuracy and Efficiency of Abnormal Cervical Squamous Cell Detection With Cytologist-in-the-Loop Artificial Intelligence,2023,['3']
+31,Enhancing human-AI collaboration: The case of colonoscopy,,['3']
+32,Stakeholder perceptions of the safety and assurance of artificial intelligence in healthcare,2022,['3']
+33,Optimization and fine-tuning of DenseNet model for classification of COVID-19 cases in medical imaging,2021,['3']
+34,Fair and equitable AI in biomedical research and healthcare: Social science perspectives,2023,['3']
+35,Designing explainable AI to improve human-AI team performance: A medical stakeholder-driven scoping review,2024,['3']
+36,Improving radiology workflow using ChatGPT and artificial intelligence,2023,['3']
+37,On the (non-) reliance on algorithms—A decision-theoretic account,2024,['3']
+38,"Developing, Purchasing, Implementing and Monitoring AI Tools in Radiology: Practical Considerations. A Multi-Society Statement From the ACR, CAR, ESR, RANZCR & RSNA",,['3']
+39,A framework for implementing machine learning in healthcare based on the concepts of preconditions and postconditions,2023,['3']
+40,The decision-point-dilemma: Yet another problem of responsibility in human-AI interaction,2021,['3']
+41,"AI for managing open innovation: Opportunities, challenges, and a research agenda",2023,['3']
+42,Assessing perspectives on artificial intelligence applications to gastroenterology,2021,['3']
+43,Value co-creation for digital innovation: An interorganizational boundary-spanning perspective,2023,['3']
+44,Application of explainable artificial intelligence in medical health: A systematic review of interpretability methods,2023,['3']
+45,An overview of artificial intelligence in medical physics and radiation oncology,2023,['3']
+46,"Machine learning approaches in COVID-19 diagnosis, mortality, and severity risk prediction: A review",2021,['3']
+47,Human confidence in artificial intelligence and in themselves: The evolution and impact of confidence on adoption of AI advice,2022,['3']
+48,A sociotechnical perspective for responsible AI maturity models: Findings from a mixed-method literature review,2023,['3']
+49,"A systematic review of AI literacy conceptualization, constructs, and implementation and assessment efforts (2019–2023)",2024,['3']
+50,Deep learning assistance for the histopathologic diagnosis of Helicobacter pylori,2020,['3']
+51,Artificial intelligence and multidisciplinary team meetings; a communication challenge for radiologists' sense of agency and position as spider in a web?,2022,['3']
+52,Requirements practices and gaps when engineering human-centered Artificial Intelligence systems,2023,"[' 3', '10']"
+53,"The effects of explainability and causability on perception, trust, and acceptance: Implications for explainable AI",2021,"[' 3', '10']"
+54,How the different explanation classes impact trust calibration: The case of clinical decision support systems,2023,['3']
+55,ECG-based data-driven solutions for diagnosis and prognosis of cardiovascular diseases: A systematic review,2024,['3']
+56,APDF: An active preference-based deep forest expert system for overall survival prediction in gastric cancer,2024,['3']
+57,A human-interpretable machine learning pipeline based on ultrasound to support leiomyosarcoma diagnosis,2023,"[' 3', '10']"
+58,The European AI liability directives – Critique of a half-hearted approach and lessons for the future,2023,['3']
+59,Chatbot as an emergency exist: Mediated empathy for resilience via human-AI interaction during the COVID-19 pandemic,2022,['3']
+60,BreastScreening-AI: Evaluating medical intelligent agents for human-AI interactions,2022,['3']
+61,Dual adversarial attacks: Fooling humans and classifiers,2023,['3']
+62,"AI literacy for users – A comprehensive review and future research directions of learning methods, components, and effects",2024,['3']
+63,Are current clinical studies on artificial intelligence-based medical devices comprehensive enough to support a full health technology assessment? A systematic review,2023,['3']
+64,National Cancer Institute Workshop on Artificial Intelligence in Radiation Oncology: Training the Next Generation,2021,"[' 4', '10']"
+65,Ensuring that biomedical AI benefits diverse populations,2021,"[' 4', '10']"
+66,AI applications in functional genomics,2021,"[' 4', '10']"
+67,"Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence",2022,"[' 4', ' 5', ' 8', ' 9', '10']"
+68,Artificial intelligence in the detection of skin cancer: State of the art,,"['5', '9']"
+69,Artificial intelligence in the detection of skin cancer,2022,"['5', '9']"
+70,A federated learning system with data fusion for healthcare using multi-party computation and additive secret sharing,2024,['5']
+71,Invasion depth estimation of carcinoma cells using adaptive stain normalization to improve epidermis segmentation accuracy,2023,"['5', '9']"
+72,Understanding common key indicators of successful and unsuccessful cancer drug trials using a contrast mining framework on ClinicalTrials.gov,2023,"['5', '9']"
+73,"Application of artificial intelligence in the diagnosis, treatment, and recurrence prediction of peritoneal carcinomatosis",2024,['5']
+74,Survey of explainable artificial intelligence techniques for biomedical imaging with deep neural networks,2023,['5']
+75,Spectral decoupling for training transferable neural networks in medical imaging,2022,"['5', '9']"
+76,An overview of deep learning in medical imaging focusing on MRI,2019,['5']
+77,Predicting skin cancer risk from facial images with an explainable artificial intelligence (XAI) based approach: a proof-of-concept study,2024,"['5', '9']"
+78,A Narrative Review: Opportunities and Challenges in Artificial Intelligence Skin Image Analyses Using Total Body Photography,,"['5', '9']"
+79,Artificial Intelligence in Skin Cancer Diagnosis: A Reality Check,2024,"['5', '9']"
+80,XL1R-Net: Explainable AI-driven improved L1-regularized deep neural architecture for NSCLC biomarker identification,2024,['5']
+81,Explainable artificial intelligence (XAI) in deep learning-based medical image analysis,2022,['5']
+82,ExAID: A multimodal explanation framework for computer-aided diagnosis of skin lesions,2022,"['5', '9']"
+83,Deep learning in computational dermatopathology of melanoma: A technical systematic literature review,2023,"['5', '9']"
+84,SurvNAM: The machine learning survival model explanation,2022,['5']
+85,Checklist for responsible deep learning modeling of medical images based on COVID-19 detection studies,2021,['5']
+86,"Machine learning in oral squamous cell carcinoma: Current status, clinical concerns and prospects for future—A systematic review",2021,['5']
+87,Explainable AI in medical imaging: An overview for clinical practitioners – Beyond saliency-based XAI approaches,2023,['5']
+88,Artificial Intelligence and Marketing: Pitfalls and Opportunities,2020,"['5', '9']"
+89,Deep transfer learning approaches for Monkeypox disease diagnosis,2023,['5']
+90,SurvIAE: Survival prediction with Interpretable Autoencoders from Diffuse Large B-Cells Lymphoma gene expression data,2024,['5']
+91,Application of explainable artificial intelligence in the identification of Squamous Cell Carcinoma biomarkers,2022,"['5', '9']"
+92,"Applied machine learning in cancer research: A systematic review for patient diagnosis, classification and prognosis",2021,"['5', '9']"
+93,Transformers in medical imaging: A survey,2023,['5']
+94,What does it mean to provide decision support to a responsible and competent expert?: The case of diagnostic decision support systems,2020,['5']
+95,"Digital technology, tele-medicine and artificial intelligence in ophthalmology: A global perspective",2021,['5']
+96,Deep fair models for complex data: Graphs labeling and explainable face recognition,2022,['5']
+97,The effect of machine learning explanations on user trust for automated diagnosis of COVID-19,2022,['5']
+98,Convolutional Neural Networks for the evaluation of cancer in Barrett's esophagus: Explainable AI to lighten up the black-box,2021,['5']
+99,Innovative approaches for skin disease identification in machine learning: A comprehensive study,100365,"['5', '9']"
+100,Licensing high-risk artificial intelligence: Toward ex ante justification for a disruptive technology,2024,['5']
+101,Dissecting scientific explanation in AI (sXAI): A case for medicine and healthcare,2021,['5']
+102,Transformer based on the prediction of psoriasis severity treatment response,2024,['5']
+103,"Radiomics for precision medicine: Current challenges, future prospects, and the proposal of a new framework",2021,['5']
+104,A survey on cancer detection via convolutional neural networks: Current challenges and future directions,2024,"['5', '9']"
+105,Ensemble-based genetic algorithm explainer with automized image segmentation: A case study on melanoma detection dataset,2023,"['5', '9']"
+106,Attention-effective multiple instance learning on weakly stem cell colony segmentation,2023,['5']
+107,Evolutionary deep feature selection for compact representation of gigapixel images in digital pathology,2022,['5']
+108,Going deep into schizophrenia with artificial intelligence,2022,['5']
+109,A novel application of XAI in squinting models: A position paper,2023,['5']
+110,Artificial intelligence for predictive biomarker discovery in immuno-oncology: a systematic review,2024,"['5', '9']"
+111,Designing ECG monitoring healthcare system with federated transfer learning and explainable AI,2022,['5']
+112,A hybrid Grasshopper optimization algorithm for skin lesion segmentation and melanoma classification using deep learning,2024,"['5', '9']"
+113,AI-based carcinoma detection and classification using histopathological images: A systematic review,2022,"['5', '9']"
+114,The enlightening role of explainable artificial intelligence in medical & healthcare domains: A systematic literature review,2023,['5']
+115,A Transfer Learning and Explainable Solution to Detect mpox from Smartphones images,2024,"['5', '9']"
+116,Trust and acceptability of data-driven clinical recommendations in everyday practice: A scoping review,2024,['5']
+117,Exploring explainable artificial intelligence techniques for evaluating cervical intraepithelial neoplasia (CIN) diagnosis using colposcopy images,2024,['5']
+118,An analysis of explainability methods for convolutional neural networks,2023,['5']
+119,An enhanced multimodal fusion deep learning neural network for lung cancer classification,2024,"['5', '9']"
+120,"Machine learning in metastatic cancer research: Potentials, possibilities, and prospects",2023,['5']
+121,Emerging role of eHealth in the identification of very early inflammatory rheumatic diseases,2019,['5']
+122,An integrated deep learning and natural language processing approach for continuous remote monitoring in digital health,2023,['5']
+123,"A secure, private, and explainable IoHT framework to support sustainable health monitoring in a smart city",2021,"['5', '9']"
+124,Addressing bias in big data and AI for health care: A call for open science,2021,"['5', '9']"
+125,Dose-Incorporated Deep Ensemble Learning for Improving Brain Metastasis SRS Outcome Prediction,,['5']
+126,Artificial intelligence in ophthalmology: The path to the real-world clinic,2023,['5']
+127,The stratified K-folds cross-validation and class-balancing methods with high-performance ensemble classifiers for breast cancer classification,2023,['5']
+128,Context-aware fusion of transformers and CNNs for medical image segmentation,2023,['5']
+129,Preclinical-to-clinical Anti-cancer Drug Response Prediction and Biomarker Identification Using TINDL,2023,['5']
+130,"A survey on deep learning in medicine: Why, how and when?",2021,['5']
+131,Diagnostic clinical decision support based on deep learning and knowledge-based systems for psoriasis: From diagnosis to treatment options,2024,"['5', '9']"
+132,Diverse Applications of Artificial Intelligence in Neuroradiology,2020,['5']
+133,A state-of-the-art review of stratified medicine in cancer: towards a future precision medicine strategy in cancer,2022,['5']
+134,An Overview and Comparison of XAI Methods for Object Detection in Computer Tomography,2022,['5']
+135,The Promises and Perils of Foundation Models in Dermatology,,"['5', '9']"
+136,Deep learning techniques in PET/CT imaging: A comprehensive review from sinogram to image space,2024,"['5', '9']"
+137,Basic of machine learning and deep learning in imaging for medical physicists,2021,"['5', '9']"
+138,Enhancing healthcare decision support through explainable AI models for risk prediction,114228,['5']
+139,A systematic review of Explainable Artificial Intelligence models and applications: Recent developments and future trends,2023,"['5', '9']"
+140,Frontier machine learning techniques for melanoma skin cancer identification and categorization: An in-Depth review,2024,"['5', '9']"
+141,Skin cancer classification using explainable artificial intelligence on pre-extracted image features,2023,"['5', '9']"
+142,Classification by ordinal sums of conjunctive and disjunctive functions for explainable AI and interpretable machine learning solutions,2021,['5']
+143,Statistical and machine learning methods for cancer research and clinical practice: A systematic review,2024,['5']
+144,Introduction to radiomics for a clinical audience,2023,['5']
+145,One label is all you need: Interpretable AI-enhanced histopathology for oncology,2023,"['5', '9']"
+146,A novel end-to-end deep convolutional neural network based skin lesion classification framework,2024,"['5', '9']"
+147,Deep Learning to Estimate Human Epidermal Growth Factor Receptor 2 Status from Hematoxylin and Eosin-Stained Breast Tissue Images,2020,['5']
+148,"0,""Radiomics in Antineoplastic Agents Development: Application and Challenge in Response Evaluation,"",1,""2021,""","3,""Perspectives: A surgeon's guide to machine learning,"",1,""2021,""",['6']
+149,"0,Radiomics in Antineoplastic Agents Development: Application and Challenge in Response Evaluation,2021,""['1', '3']""","3,Perspectives: A surgeon's guide to machine learning,2021,""['1', '2', '3']""",['7']
+150,Deep neural network models for computational histopathology: A survey,2021,"[' 8', ' 9', '10']"
+151,Ethical and regulatory challenges of AI technologies in healthcare: A narrative review,2024,"[' 8', ' 9', '10']"
+152,Enhancing lung abnormalities diagnosis using hybrid DCNN-ViT-GRU model with explainable AI: A deep learning approach,2024,['9']
+153,Multi-stakeholder preferences for the use of artificial intelligence in healthcare: A systematic review and thematic analysis,2023,['9']
+154,The contribution of human factors and ergonomics to the design and delivery of safe future healthcare,2021,['9']
+155,Using feature maps to unpack the CNN ‘Black box’ theory with two medical datasets of different modality,2023,['9']
+156,"Ethical, legal, and social considerations of AI-based medical decision-support tools: A scoping review",2022,['9']
+157,The false hope of current approaches to explainable artificial intelligence in health care,2021,['9']
+158,Inference and Prediction Diverge in Biomedicine,2020,['9']
+159,A foundation for evaluating the surgical artificial intelligence literature,108014,['9']
+160,An appraisal of the performance of AI tools for chronic stroke lesion segmentation,2023,['9']
+161,Explainable AI in Deep Learning Based Classification of Fetal Ultrasound Image Planes,2024,['9']
+162,An artificial intelligence perspective: How knowledge and confidence shape risk and benefit perception,2023,['9']
+163,Detecting white spot lesions on dental photography using deep learning: A pilot study,2021,['9']
+164,Predicting Patient Demographics From Chest Radiographs With Deep Learning,2022,['9']
+165,Diagnostic Performance of Artificial Intelligence for Detection of Anterior Cruciate Ligament and Meniscus Tears: A Systematic Review,2021,['9']
+166,Demystifying evidential Dempster Shafer-based CNN architecture for fetal plane detection from 2D ultrasound images leveraging fuzzy-contrast enhancement and explainable AI,2023,['9']
+167,Deep learning can see the unseeable: predicting molecular markers from MRI of brain gliomas,2019,['9']
+168,The challenges of health inequities and AI,2022,['9']
+169,Modern views of machine learning for precision psychiatry,2022,['9']
+170,"Ethics of artificial intelligence in global health: Explainability, algorithmic bias and trust",2021,['9']
+171,Multimodal analysis methods in predictive biomedicine,2023,['9']
+172,Enhancing lung abnormalities detection and classification using a Deep Convolutional Neural Network and GRU with explainable AI: A promising approach for accurate diagnosis,2023,['9']
+173,Exploring artificial intelligence approach to art therapy assessment: A case study on the classification and the estimation of psychological state based on a drawing,2024,['9']
+174,Artificial intelligence: Deep learning in oncological radiomics and challenges of interpretability and data harmonization,2021,['9']
+175,Machine learning in cardiology: Clinical application and basic research,2023,['9']
+176,Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations,2024,['9']
+177,Synthetic data generation: State of the art in health care domain,2023,['9']
+178,A hybrid explainable ensemble transformer encoder for pneumonia identification from chest X-ray images,2023,['9']
+179,Medical deep learning—A systematic meta-review,2022,['9']
+180,Application of uncertainty quantification to artificial intelligence in healthcare: A review of last decade (2013–2023),2023,['9']
+181,Future Directions in Artificial Intelligence,2021,['9']
+182,Enhancing Internet of Medical Things security with artificial intelligence: A comprehensive review,2024,['9']
+183,Artificial intelligence in dry eye disease,2022,['9']
+184,System for automatically assessing the likelihood of inferior alveolar nerve injury,2024,['9']
+185,A case-based ensemble learning system for explainable breast cancer recurrence prediction,2020,['9']
+186,"Explainable, trustworthy, and ethical machine learning for healthcare: A survey",2022,['9']
+187,Internet of medical things: A systematic review,2023,['9']
+188,Computational ethics,2022,['9']
+189,Synergies and Challenges in the Preclinical and Clinical Implementation of Pathology Artificial Intelligence Applications,2023,['9']
+190,Disclosure control of machine learning models from trusted research environments (TRE): New challenges and opportunities,2023,['9']
+191,Perception of artificial intelligence-based solutions in healthcare among people with and without diabetes: A cross-sectional survey from the health in Central Denmark cohort,2023,['9']
+192,Challenges of artificial intelligence in medicine and dermatology,,['9']
+193,A systematic review of privacy-preserving methods deployed with blockchain and federated learning for the telemedicine,2023,['10']
+194,Whole slide image representation in bone marrow cytology,2023,['10']
+195,Artificial intelligence in healthcare: transforming the practice of medicine,2021,['10']
+196,A historical perspective of biomedical explainable AI research,2023,['10']
+197,"Explainability of artificial intelligence methods, applications and challenges: A comprehensive survey",2022,['10']
+198,Explainable AI (XAI): A systematic meta-survey of current challenges and future opportunities,2023,['10']
+199,The explainability paradox: Challenges for xAI in digital pathology,2022,['10']
+200,"Digital Transformation of Cancer Care in the Era of Big Data, Artificial Intelligence and Data-Driven Interventions: Navigating the Field",2023,['10']
+201,Decisions are not all equal—Introducing a utility metric based on case-wise raters’ perceptions,2022,['10']
+202,Measuring disadvantage: A systematic comparison of United States small-area disadvantage indices,2023,['10']
+203,Requirements engineering for artificial intelligence systems: A systematic mapping study,2023,['10']
+204,"Carbon capture, utilization and sequestration systems design and operation optimization: Assessment and perspectives of artificial intelligence opportunities",2024,['10']
+205,"Computational approaches to Explainable Artificial Intelligence: Advances in theory, applications and trends",2023,['10']
+206,CLARUS: An interactive explainable AI platform for manual counterfactuals in graph neural networks,2024,['10']
+207,Integrating human knowledge into artificial intelligence for complex and ill-structured problems: Informed artificial intelligence,2022,['10']
+208,Historical profile will tell? A deep learning-based multi-level embedding framework for adverse drug event detection and extraction,2022,['10']
+209,Shedding light on ai in radiology: A systematic review and taxonomy of eye gaze-driven interpretability in deep learning,2024,['10']
+210,Artificial Intelligence for Personalized Preventive Adolescent Healthcare,2020,['10']
+211,"Developing future human-centered smart cities: Critical analysis of smart city security, Data management, and Ethical challenges",2022,['10']
+212,Empathic conversational agents for real-time monitoring and co-facilitation of patient-centered healthcare,2022,['10']
+213,Cell projection plots: A novel visualization of bone marrow aspirate cytology,2023,['10']
+214,Men's sociotechnical imaginaries of artificial intelligence for prostate cancer diagnostics – A focus group study,2024,['10']
+215,"Assessment of Performance, Interpretability, and Explainability in Artificial Intelligence–Based Health Technologies: What Healthcare Stakeholders Need to Know",2023,['10']
+216,KNIT: Ontology reusability through knowledge graph exploration,2023,['10']
+217,SHIFTing artificial intelligence to be responsible in healthcare: A systematic review,2022,['10']
+218,Interpretable clinical time-series modeling with intelligent feature selection for early prediction of antimicrobial multidrug resistance,2022,['10']
+219,Rethinking the entwinement between artificial intelligence and human learning: What capabilities do learners need for a world with AI?,2022,['10']
+220,Knowledge graphs as tools for explainable machine learning: A survey,2022,['10']
